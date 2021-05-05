@@ -727,27 +727,27 @@ def format_headers(spreadsheet, sheet_id, occurrences, division_header, number_o
         ]
         body['requests'] = requests
         spreadsheet.batch_update(body)
-        if division_header == False:
-            # format column headers
-            range['startRowIndex'] = row
-            range['endRowIndex'] = row + 1
-            body['requests'] = [
-                {
-                    'repeatCell': {
-                        'range': range,
-                        'cell': {
-                            'userEnteredFormat': {
-                                'textFormat': {
-                                    'bold': True
-                                }
+
+        # format column headers
+        range['startRowIndex'] = row
+        range['endRowIndex'] = row + 1
+        body['requests'] = [
+            {
+                'repeatCell': {
+                    'range': range,
+                    'cell': {
+                        'userEnteredFormat': {
+                            'textFormat': {
+                                'bold': True
                             }
-                        },
-                        'fields': 'userEnteredFormat(textFormat)',
-                    }
+                        }
+                    },
+                    'fields': 'userEnteredFormat(textFormat)',
                 }
-            ]
-            spreadsheet.batch_update(body)
-            time.sleep(2.5)
+            }
+        ]
+        spreadsheet.batch_update(body)
+        time.sleep(2.5)
 
 
 def csv_to_dict_list(csv_file):
