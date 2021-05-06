@@ -33,7 +33,7 @@ def check_cpu_and_memory():
 def main():
 
     # Get roster sites
-    schools_df = pd.read_csv('roster_pages.csv').tail(5).head(1)
+    schools_df = pd.read_csv('roster_pages.csv')
     # Ask for input
     full_run = True
     if len(sys.argv) == 1:
@@ -399,11 +399,11 @@ def format_player_hometown(string):
 
 
 def format_df(dict_list, schools_df):
+    cols = ['name', 'position', 'b', 't', 'class', 'school', 'division', 'state', 'hometown']
     new_dict_list = list()
     for dictionary in dict_list:
         new_dict = dict()
 
-        cols = ['name', 'position', 'b', 't', 'class', 'school', 'division', 'state', 'hometown']
         for col in cols:
             if col != 'state':
                 new_dict['__' + col] = ''
