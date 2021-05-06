@@ -308,9 +308,9 @@ def iterate_over_schools(schools_df):
 
 def find_diffs(prev_df, new_df):
     cols = ['name', 'position', 'class', 'school', 'hometown']
-    compare_df = prev_df.merge(new_df, on=cols, how='outer', indicator='diff')[cols + ['diff']]
+    compare_df = prev_df.fillna('').merge(new_df.fillna(''), on=cols, how='outer', indicator='diff')[cols + ['diff']]
     compare_df = compare_df[compare_df['diff'] != 'both']
-    compare_df['diff'] = compare_df['diff'].apply(lambda x: 'dropped' if x == 'left_only' else 'added')
+    compare_df['diff'] = compare_df['diff'].apply(lambda x: 'inherited' if x == 'left_only' else 'scraped')
     pd.set_option('display.max_rows', None)
     pd.set_option('expand_frame_repr', False)
     logger.info('\nChanges from last scraper run:\n{}\n'.format(compare_df))
