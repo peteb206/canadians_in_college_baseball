@@ -191,7 +191,7 @@ def read_naia_table(df):
     df_to_dict = df[df['Opponent'] == 'TOTALS'].to_dict('records')
     stats_map = {
         'Games Played (G)': 'G',
-        'At Bats (AB)': 'At Bats',
+        'At Bats (AB)': 'AB',
         'Runs Scored (R)': 'R',
         'Hits (H)': 'H',
         'Doubles (2B)': '2B',
