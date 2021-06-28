@@ -25,6 +25,7 @@ def main():
     start_time = time.time()
 
     players_df = pd.read_csv('canadians.csv')
+    stats_df_orig = pd.read_csv('stats.csv')
 
     session = requests.Session()
     header = {
@@ -51,7 +52,10 @@ def main():
                         print('No stats found for {}'.format(player['name']))
 
         stats_df = convert_dict_list_to_df(summary_dicts)
-        stats_df[['Name', 'Position', 'School', 'Division', 'Games Played (G)', 'At Bats (AB)', 'Runs Scored (R)', 'Hits (H)', 'Doubles (2B)', 'Triples (3B)', 'Home Runs (HR)', 'Runs Batted In (RBI)', 'Stolen Bases (SB)', 'Batting Average (AVG)', 'On-Base Percentage (OBP)','Slugging Percentage (SLG)', 'On-Base plus Slugging (OPS)', 'Appearances (G)', 'Innings Pitched (IP)', 'Wins (W)', 'Earned Run Average (ERA)', 'Saves (SV)', 'Strikeouts (K)']].to_csv('stats.csv', index=False)
+        stats_df = stats_df[['Name', 'Position', 'School', 'Division', 'Games Played (G)', 'At Bats (AB)', 'Runs Scored (R)', 'Hits (H)', 'Doubles (2B)', 'Triples (3B)', 'Home Runs (HR)', 'Runs Batted In (RBI)', 'Stolen Bases (SB)', 'Batting Average (AVG)', 'On-Base Percentage (OBP)','Slugging Percentage (SLG)', 'On-Base plus Slugging (OPS)', 'Appearances (G)', 'Innings Pitched (IP)', 'Wins (W)', 'Earned Run Average (ERA)', 'Saves (SV)', 'Strikeouts (K)']]
+        stats_df = pd.concat([stats_df, stats_df_orig], ignore_index=True) # Add players who could not be scraped
+        stats_df.drop_duplicates(subset=['Name', 'School'], keep='first', ignore_index=True, inplace=True) # Drop duplicate names (keep player's stats from previous week if scrape failed this week)
+        stats_df.sort_values(by='Name', ignore_index=True).to_csv('stats.csv', index=False)
     else:
         update_gsheet(pd.read_csv('stats.csv'), last_run)
 
@@ -187,7 +191,7 @@ def read_naia_table(df):
     df_to_dict = df[df['Opponent'] == 'TOTALS'].to_dict('records')
     stats_map = {
         'Games Played (G)': 'G',
-        'At Bats (AB)': 'At Bats',
+        'At Bats (AB)': 'AB',
         'Runs Scored (R)': 'R',
         'Hits (H)': 'H',
         'Doubles (2B)': '2B',
@@ -258,7 +262,7 @@ def update_gsheet(df, last_run):
     sheet = client.open(os.environ.get('SHEET_NAME'))
 
     # get the sheets of the Spreadsheet
-    stats_sheet = sheet.worksheet('Stats')
+    stats_sheet = sheet.worksheet('Stats' if os.environ.get('SHEET_NAME') == 'Test - Canadians in College' else '2021')
     stats_sheet_id = stats_sheet._properties['sheetId']
 
     # clear values in sheet
