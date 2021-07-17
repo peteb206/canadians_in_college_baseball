@@ -52,7 +52,7 @@ def main():
                         print('No stats found for {}'.format(player['name']))
 
         stats_df = convert_dict_list_to_df(summary_dicts)
-        stats_df = stats_df[['Name', 'Position', 'School', 'Division', 'Games Played (G)', 'At Bats (AB)', 'Runs Scored (R)', 'Hits (H)', 'Doubles (2B)', 'Triples (3B)', 'Home Runs (HR)', 'Runs Batted In (RBI)', 'Stolen Bases (SB)', 'Batting Average (AVG)', 'On-Base Percentage (OBP)','Slugging Percentage (SLG)', 'On-Base plus Slugging (OPS)', 'Appearances (G)', 'Innings Pitched (IP)', 'Wins (W)', 'Earned Run Average (ERA)', 'Saves (SV)', 'Strikeouts (K)']]
+        stats_df = stats_df[['Name', 'Position', 'School', 'Division', 'Games Played (G)', 'At Bats (AB)', 'Runs Scored (R)', 'Hits (H)', 'Doubles (2B)', 'Triples (3B)', 'Home Runs (HR)', 'Runs Batted In (RBI)', 'Stolen Bases (SB)', 'Batting Average (AVG)', 'On-Base Percentage (OBP)','Slugging Percentage (SLG)', 'On-Base plus Slugging (OPS)', 'Appearances (G)', 'Games Started (GS)', 'Innings Pitched (IP)', 'Wins (W)', 'Earned Run Average (ERA)', 'Saves (SV)', 'Strikeouts (K)']]
         stats_df = pd.concat([stats_df, stats_df_orig], ignore_index=True) # Add players who could not be scraped
         stats_df.drop_duplicates(subset=['Name', 'School'], keep='first', ignore_index=True, inplace=True) # Drop duplicate names (keep player's stats from previous week if scrape failed this week)
         stats_df.sort_values(by='Name', ignore_index=True).to_csv('stats.csv', index=False)
@@ -135,6 +135,7 @@ def read_table(df):
         'On-Base Percentage (OBP)': 'On Base Percentage',
         'Slugging Percentage (SLG)': 'Slugging Percentage',
         'Appearances (G)': 'Appearances',
+        'Games Started (GS)': 'Games started',
         'Innings Pitched (IP)': 'Innings Pitched',
         'Wins (W)': 'Wins',
         'Earned Run Average (ERA)': 'Earned Run Average',
@@ -166,6 +167,7 @@ def read_ncaa_table(df):
         'On-Base Percentage (OBP)': 'OBPct',
         'Slugging Percentage (SLG)': 'SlgPct',
         'Appearances (G)': 'App',
+        'Games Started (GS)': 'GS',
         'Innings Pitched (IP)': 'IP',
         'Wins (W)': 'W',
         'Earned Run Average (ERA)': 'ERA',
@@ -202,6 +204,7 @@ def read_naia_table(df):
         'Stolen Bases (SB)': 'SB',
         'Slugging Percentage (SLG)': 'Slg%',
         'Appearances (G)': 'G',
+        'Games Started (GS)': 'GS',
         'Innings Pitched (IP)': 'IP',
         'Wins (W)': 'W',
         'Earned Run Average (ERA)': 'ERA',
@@ -237,7 +240,7 @@ def read_naia_table(df):
 def convert_dict_list_to_df(dict_list):
     df = pd.DataFrame(dict_list)
     df.replace(r'^-$', 0, regex=True, inplace=True)
-    for col in ['Games Played (G)', 'At Bats (AB)', 'Runs Scored (R)', 'Hits (H)', 'Doubles (2B)', 'Triples (3B)', 'Home Runs (HR)', 'Runs Batted In (RBI)', 'Stolen Bases (SB)', 'Appearances (G)', 'Wins (W)', 'Saves (SV)', 'Strikeouts (K)']:
+    for col in ['Games Played (G)', 'At Bats (AB)', 'Runs Scored (R)', 'Hits (H)', 'Doubles (2B)', 'Triples (3B)', 'Home Runs (HR)', 'Runs Batted In (RBI)', 'Stolen Bases (SB)', 'Appearances (G)', 'Games Started (GS)', 'Wins (W)', 'Saves (SV)', 'Strikeouts (K)']:
         df[col] = df[col].fillna(0).astype(int, errors='ignore')
     for col in ['Innings Pitched (IP)', 'Earned Run Average (ERA)', 'Batting Average (AVG)', 'On-Base Percentage (OBP)', 'Slugging Percentage (SLG)']:
         df[col] = df[col].astype(float, errors='ignore')
@@ -275,7 +278,7 @@ def update_gsheet(df, last_run):
     stats_data = list()
 
     division_list = ['NCAA: Division 1', 'NCAA: Division 2', 'NCAA: Division 3', 'NAIA', 'JUCO: Division 1', 'JUCO: Division 2', 'JUCO: Division 3', 'California CC', 'NW Athletic Conference', 'USCAA']
-    stat_list = ['Games Played (G)', 'Hits (H)', 'Doubles (2B)', 'Triples (3B)', 'Home Runs (HR)', 'Runs Scored (R)', 'Runs Batted In (RBI)', 'Stolen Bases (SB)', 'Batting Average (AVG)', 'On-Base Percentage (OBP)', 'Slugging Percentage (SLG)', 'On-Base plus Slugging (OPS)', 'Appearances (G)', 'Innings Pitched (IP)', 'Wins (W)', 'Earned Run Average (ERA)', 'Saves (SV)', 'Strikeouts (K)']
+    stat_list = ['Games Played (G)', 'Hits (H)', 'Doubles (2B)', 'Triples (3B)', 'Home Runs (HR)', 'Runs Scored (R)', 'Runs Batted In (RBI)', 'Stolen Bases (SB)', 'Batting Average (AVG)', 'On-Base Percentage (OBP)', 'Slugging Percentage (SLG)', 'On-Base plus Slugging (OPS)', 'Appearances (G)', 'Games Started (GS)', 'Innings Pitched (IP)', 'Wins (W)', 'Earned Run Average (ERA)', 'Saves (SV)', 'Strikeouts (K)']
 
     for division in division_list:
         added_division_header = False
