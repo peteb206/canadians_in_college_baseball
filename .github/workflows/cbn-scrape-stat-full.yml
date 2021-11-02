@@ -18,6 +18,8 @@ jobs:
                python -m pip install --upgrade pip
                pip install -r requirements.txt
          -  name: stat scrape python script
+            env:
+               YEAR: 2022
             run: |
                python stat_scrape.py y
          -  name: commit files
@@ -35,5 +37,6 @@ jobs:
             env:
                KEYFILE: ${{ secrets.KEYFILE }}
                SHEET_NAME: Canadians in College Stats
+               YEAR: 2022
             run: |
                python stat_scrape.py n

@@ -24,8 +24,9 @@ def main():
     # Start timer
     start_time = time.time()
 
-    players_df = pd.read_csv('canadians.csv')
-    stats_df_orig = pd.read_csv('stats.csv')
+    year = os.environ.get('YEAR')
+    players_df = pd.read_csv(f'canadians_{year}.csv')
+    stats_df_orig = pd.read_csv(f'stats_{year}.csv')
 
     session = requests.Session()
     header = {
@@ -231,9 +232,10 @@ def read_naia_table(df):
         'Strikeouts (K)': 'K'
     }
 
-    # Ensure logs are 2021
-    if len(df[df['Date'].str.endswith('2021', na=False)].index) == 0:
-        print('Not showing 2021 stats...')
+    # Ensure logs are the right year
+    year = os.environ.get('YEAR')
+    if len(df[df['Date'].str.endswith(str(year), na=False)].index) == 0:
+        print(f'Not showing {year} stats...')
         return dict()
 
     if len(df_to_dict) > 0:
@@ -289,7 +291,7 @@ def update_gsheet(df, last_run):
     sheet = client.open(os.environ.get('SHEET_NAME'))
 
     # get the sheets of the Spreadsheet
-    stats_sheet = sheet.worksheet('Stats' if os.environ.get('SHEET_NAME') == 'Test - Canadians in College' else '2021')
+    stats_sheet = sheet.worksheet('Stats' if os.environ.get('SHEET_NAME') == 'Test - Canadians in College' else '2022')
     stats_sheet_id = stats_sheet._properties['sheetId']
 
     # clear values in sheet

@@ -33,7 +33,8 @@ def check_cpu_and_memory():
 def main():
 
     # Get roster sites
-    schools_df = pd.read_csv('roster_pages.csv')
+    year = os.environ.get('YEAR')
+    schools_df = pd.read_csv(f'roster_pages_{year}.csv')
     # Ask for input
     full_run = True
     if len(sys.argv) == 1:
@@ -49,7 +50,7 @@ def main():
     f.write(last_run)
     f.close()
 
-    canadians_df = pd.read_csv('canadians.csv') # Initialize canadians_df
+    canadians_df = pd.read_csv(f'canadians_{year}.csv') # Initialize canadians_df
     if full_run == True: # Run full web scraper
         # Set criteria for "Canadian" player search
         global city_strings, province_strings, country_strings, canada_strings, hometown_conversion_dict, ignore_strings
@@ -67,7 +68,7 @@ def main():
         find_diffs(canadians_df_orig, canadians_df_new)
 
         # Combine new results with old results
-        canadians_df = pd.concat([canadians_df_orig, pd.read_csv('canadians_manual.csv'), canadians_df_new], ignore_index=True) # Add players who could not be scraped
+        canadians_df = pd.concat([canadians_df_orig, pd.read_csv(f'canadians_manual_{year}.csv'), canadians_df_new], ignore_index=True) # Add players who could not be scraped
         canadians_df.drop_duplicates(subset=['name', 'hometown'], keep='first', ignore_index=True, inplace=True) # Drop duplicate names (keep manually added rows if there is an "identical" scraped row)
         canadians_df.drop_duplicates(subset=['name', 'school'], keep='first', ignore_index=True, inplace=True) # Drop duplicate names part 2
 
@@ -76,7 +77,7 @@ def main():
         canadians_df['last_name'] = canadians_df['name'].str.replace('Š', 'S').str.split(' ').str[1]
         canadians_df = canadians_df.sort_values(by=['class', 'last_name', 'school'], ignore_index=True).drop('last_name', axis=1)
 
-        canadians_df.to_csv('canadians.csv', index=False) # Export to canadians.csv as a reference
+        canadians_df.to_csv(f'canadians_{year}.csv', index=False) # Export to canadians_<year>.csv as a reference
 
     if full_run == False:
         canadians_df = canadians_df[['name','position','class','school','division','state','hometown']] # Keep only relevant columns
@@ -562,7 +563,8 @@ def update_gsheet(df, last_run):
     sheet = client.open(os.environ.get('SHEET_NAME'))
 
     # get the sheets of the Spreadsheet
-    players_sheet = sheet.worksheet('2021')
+    year = os.environ.get('YEAR')
+    players_sheet = sheet.worksheet(str(year))
     players_sheet_id = players_sheet._properties['sheetId']
 
     # clear values in both sheets
