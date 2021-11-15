@@ -1139,7 +1139,7 @@ William Woods University,NAIA,MO,https://wwuowls.com/sports/baseball/roster/2022
 Williams Baptist University,NAIA,AR,https://www.wbueagles.com/sports/bsb/2021-22/roster
 Xavier University of Louisiana,NAIA,LA,https://xulagold.com/sports/baseball/roster/2022
 York College,NAIA,NE,https://ycpanthers.com/sports/bsb/2021-22/roster
-Arizona Western,JUCO_D1,AZ,https://www.awcmatadors.com/baseball/roster/list?field_school_terms_target_id=44
+Arizona Western,JUCO_D1,AZ,https://www.awcmatadors.com/baseball/roster/list
 Central Arizona,JUCO_D1,AZ,https://www.vaquerosports.com/sports/bsb/2021-22/roster
 Cochise,JUCO_D1,AZ,https://athletics.cochise.edu/baseball/baseball-roster/
 Eastern Arizona,JUCO_D1,AZ,http://www.eacmonsters.com/baseScheduleCurrent.asp#roster
@@ -1161,10 +1161,10 @@ Triton,JUCO_D1,IL,https://tritonathletics.com/sports/baseball/roster/2022
 Cisco,JUCO_D1,TX,https://www.wranglersports.net/sports/bsb/2021-22/roster
 Clarendon,JUCO_D1,TX,https://athletics.clarendoncollege.edu/baseballroster
 El Paso,JUCO_D1,TX,https://www.epcc.edu/Services/Athletics/baseball
-Frank Phillips,JUCO_D1,TX,https://fpctx.edu/athletics/baseball/
+Frank Phillips,JUCO_D1,TX,https://plainsmensports.com/sports/bsb/2021-22/roster
 Grayson,JUCO_D1,TX,https://www.gcvikings.com/sports/bsb/2021-22/roster
 Hill,JUCO_D1,TX,https://www.hillcollege.edu/Athletics/Baseball/index.html
-Howard (TX),JUCO_D1,TX,https://hchawk.com/baseball/
+Howard (TX),JUCO_D1,TX,https://hchawk.com/baseball
 McLennan,JUCO_D1,TX,http://mclennanathletics.com/sports/bsb/2021-22/roster
 Midland,JUCO_D1,TX,https://www.gochaps.com/sports/bsb/2021-22/roster
 New Mexico,JUCO_D1,NM,https://www.nmjcthunderbirds.com/sports/bsb/2021-22/roster
@@ -1227,7 +1227,7 @@ St. Petersburg,JUCO_D1,FL,https://athletics.spcollege.edu/sports/bsb/2021-22/ros
 State College of Florida,JUCO_D1,FL,https://www.scfmanatees.com/sports/bsb/2021-22/roster
 Tallahassee,JUCO_D1,FL,https://www.tcceagles.com/sports/bsb/2021-22/roster
 Lamar,JUCO_D1,CO,https://www.golopes.com/sports/bsb/2021-22/roster
-Luna,JUCO_D1,NM,https://lunaathletics.com/roster.aspx?path=baseball
+Luna,JUCO_D1,NM,https://lunaathletics.com/sports/baseball/roster/2022
 McCook,JUCO_D1,NE,https://mccindians.com/sports/bsb/2021-22/roster
 Northeastern,JUCO_D1,CO,https://www.gonjc.com/sports/bsb/2021-22/roster
 Otero,JUCO_D1,CO,https://www.oterorattlers.com/sports/bsb/2021-22/roster
@@ -1252,7 +1252,7 @@ Bossier Parish,JUCO_D1,LA,https://bpcc.prestosports.com/sports/bsb/2021-22/roste
 Galveston,JUCO_D1,TX,https://gcwhitecaps.com/sports/bsb/2021-22/roster
 Laredo,JUCO_D1,TX,https://laredo.prestosports.com/sports/bsb/2021-22/roster
 Navarro,JUCO_D1,TX,https://navarrobulldogs.com/sports/bsb/2021-22/roster?view=list
-Northeast Texas,JUCO_D1,TX,https://ntcceagles.com/roster.aspx?path=baseball
+Northeast Texas,JUCO_D1,TX,https://ntcceagles.com/sports/baseball/roster/2022
 Panola,JUCO_D1,TX,https://www.panolaathletics.com/sports/bsb/2021-22/roster
 Paris,JUCO_D1,TX,https://www.parisjc.edu/pjc2/main/baseball-team/
 San Jacinto-North,JUCO_D1,TX,https://www.sanjac.edu/baseball/2022/roster
@@ -1338,18 +1338,18 @@ Lake County,JUCO_D2,IL,https://www.clclancers.com/sports/bsb/2021-22/roster
 Madison,JUCO_D2,WI,https://madisoncollegeathletics.com/sports/baseball/roster/2022
 McHenry County,JUCO_D2,IL,https://www.mccscots.com/sports/bsb/2021-22/roster
 Moraine Valley,JUCO_D2,IL,https://www.mvcyclones.com/sports/bsb/2021-22/roster
-Morton,JUCO_D2,IL,https://gomcpanthers.com/roster.aspx?path=baseball
-Prairie State,JUCO_D2,IL,https://prairiestateathletics.com/sports/baseball/roster/2022
+Morton,JUCO_D2,IL,https://gomcpanthers.com/sports/baseball/roster/2022
+Prairie State,JUCO_D2,IL,https://prairiestateathletics.com/sports/baseball/roster/2021-22
 Sauk Valley,JUCO_D2,IL,https://www.svcc.edu/community/athletics/baseball/rosters/2022/
 Hesston,JUCO_D2,KS,https://hclarks.com/sports/baseball/roster/2022
 ASA Miami,JUCO_D2,FL,https://asasilverstorm.com/sports/bsb/2021-22/roster
-Pasco-Hernando State,JUCO_D2,FL,https://bobcats.phsc.edu/sports/baseball/roster/2022
+Pasco-Hernando State,JUCO_D2,FL,https://bobcats.phsc.edu/sports/baseball/roster
 Brunswick,JUCO_D2,NC,https://www.gobccsports.com/teams/default.asp?u=BCCBASEBALL&s=baseball&p=roster
 Bryant & Stratton (VA),JUCO_D2,VA,https://virginia.bscbobcats.com/sports/bsb/2021-22/roster
 Camp Community College,JUCO_D2,VA,https://www.pdc.edu/athletics/baseball/baseball-roster/
 Catawba Valley,JUCO_D2,NC,http://gocvcc.com/sports/bsb/2021-22/roster
 Cleveland Community College,JUCO_D2,NC,https://cccyetis.com/sports/baseball/roster/2022
-Fayetteville Tech,JUCO_D2,NC,https://www.faytechcc.edu/athletics/mens-baseball/spring-2021-ftcc-baseball/
+Fayetteville Tech,JUCO_D2,NC,https://www.faytechcc.edu/athletics/mens-baseball/spring-2022-ftcc-baseball/
 Guilford Tech,JUCO_D2,NC,https://www.gtcc.edu/student-life/athletics/mens-teams.php#mensbaseball
 Lenoir,JUCO_D2,NC,https://lrbears.com/sports/baseball/roster/2022
 Patrick Henry,JUCO_D2,VA,https://www.phccsports.com/mens-athletics/baseball/team-roster/
@@ -1368,7 +1368,7 @@ Ancilla,JUCO_D2,IN,https://ancilla.prestosports.com/sports/bsb/2021-22/roster
 Glen Oaks,JUCO_D2,MI,https://www.glenoaks.edu/athletics/mens-rosters/
 Grand Rapids,JUCO_D2,MI,https://grccraiders.com/sports/baseball/roster/2022
 Henry Ford,JUCO_D2,MI,https://www.hfcc.edu/athletics/baseball-roster
-Ivy Tech Community College Northeast,JUCO_D2,IN,https://titans.ivytech.edu/roster/show/5489970?subseason=663684
+Ivy Tech Community College Northeast,JUCO_D2,IN,https://titans.ivytech.edu/roster/show/6667554?subseason=774141
 Jackson,JUCO_D2,MI,https://jccmi.prestosports.com/sports/bsb/2021-22/roster
 Kalamazoo Valley,JUCO_D2,MI,https://athletics.kvcc.edu/sports/bsb/2021-22/roster
 Kellogg,JUCO_D2,MI,https://kelloggbruins.com/sports/bsb/2021-22/roster
@@ -1420,20 +1420,20 @@ Hinds,JUCO_D2,MS,https://sports.hindscc.edu/sports/baseball/roster/2022
 Holmes,JUCO_D2,MS,https://www.holmesathletics.com/sports/bsb/2021-22/roster
 Itawamba,JUCO_D2,MS,https://www.letsgoicc.com/sports/bsb/2021-22/roster
 Jones,JUCO_D2,MS,https://jcbobcats.com/sports/baseball/roster/2022
-LSU Eunice,JUCO_D2,LA,https://athletics.lsue.edu/sports/baseball/roster/2021?print=true
+LSU Eunice,JUCO_D2,LA,https://athletics.lsue.edu/sports/baseball/roster/2022
 Meridian,JUCO_D2,MS,https://www.mcceagles.com/sports/bsb/2021-22/roster
 Mississippi Delta,JUCO_D2,MS,https://www.mdcctrojans.com/sports/bsb/2021-22/roster
 Mississippi Gulf Coast,JUCO_D2,MS,https://www.mgcccbulldogs.com/sports/bsb/2021-22/roster
 Northeast Mississippi,JUCO_D2,MS,https://www.nemccathletics.com/sports/bsb/2021-22/roster
 Northwest Mississippi,JUCO_D2,MS,https://nwccrangers.com/sports/baseball/roster/2022
 Pearl River,JUCO_D2,MS,http://www.prccathletics.com/sports/bsb/2021-22/roster
-Southwest Mississippi,JUCO_D2,MS,https://southwestbearathletics.com/roster.aspx?path=baseball
+Southwest Mississippi,JUCO_D2,MS,https://southwestbearathletics.com/sports/baseball/roster/2021-22
 Danville Area,JUCO_D2,IL,https://danvillejaguars.com/sports/baseball/roster/2022
-Heartland,JUCO_D2,IL,https://heartlandhawks.com/sports/baseball/roster?print=true
-Illinois Central,JUCO_D2,IL,https://illinoiscentralcougars.com/sports/baseball/roster/2021-22?path=baseball
-John Wood,JUCO_D2,IL,https://johnwoodblazers.com/mens-baseball/rosters/
+Heartland,JUCO_D2,IL,https://heartlandhawks.com/sports/baseball/roster/2021-22?print=true
+Illinois Central,JUCO_D2,IL,https://illinoiscentralcougars.com/sports/baseball/roster/2021-22
+John Wood,JUCO_D2,IL,https://johnwoodblazers.com/mens-baseball/rosters/2021-2022
 Lewis & Clark,JUCO_D2,IL,https://www.lc.edu/athletics/mens/baseball/roster/
-Lincoln Land,JUCO_D2,IL,https://lincolnlandloggers.com/sports/baseball/roster?print=true
+Lincoln Land,JUCO_D2,IL,https://lincolnlandloggers.com/sports/baseball/roster/2021-22
 Parkland,JUCO_D2,IL,https://athletics.parkland.edu/sports/baseball/roster/2022
 Spoon River,JUCO_D2,IL,http://www.src.edu/student/athletics/baseball/Pages/roster.aspx
 Vincennes,JUCO_D2,IN,https://govutrailblazers.com/sports/bsb/2021-22/roster
@@ -1476,7 +1476,7 @@ Rockingham,JUCO_D3,NC,https://www.rockinghamcc.edu/student-services/athletics/rc
 Surry,JUCO_D3,NC,https://surry.prestosports.com/sports/bsb/2021-22/rosterprint
 Thomas Nelson Community College,JUCO_D3,VA,https://www.tnccbaseball.com/teams/default.asp?u=TNCCBASEBALL&s=baseball&p=roster
 Delta,JUCO_D3,MI,https://www.deltapioneers.com/sports/bsb/2021-22/roster?view=list
-Lorain County,JUCO_D3,OH,https://www.lorainccc.edu/athletics/roster/2021-baseball-team/
+Lorain County,JUCO_D3,OH,https://www.lorainccc.edu/athletics/roster/2022-baseball-team/
 Owens,JUCO_D3,OH,https://www.owensexpress.com/sports/bsb/2021-22/roster
 Anoka-Ramsey,JUCO_D3,MN,https://arccgoldenrams.com/sports/bsb/2021-22/roster
 Central Lakes,JUCO_D3,MN,https://clcraiders.com/sports/bsb/2021-22/roster?view=list
@@ -1497,7 +1497,7 @@ St. Cloud Tech,JUCO_D3,MN,https://www.sctccathletics.com/sports/bsb/2021-22/rost
 Vermilion,JUCO_D3,MN,https://www.vcc.edu/athletics/mens-baseball/
 Western Tech,JUCO_D3,WI,https://www.westerntc.edu/baseball
 Coastal Bend,JUCO_D3,TX,https://cbc.prestosports.com/sports/bsb/2021-22/roster
-Tyler,JUCO_D3,TX,http://www.apacheathletics.com/roster/16/6
+Tyler,JUCO_D3,TX,https://www.apacheathletics.com/roster/0/6
 Borough of Manhattan,JUCO_D3,NY,https://bmccathletics.com/sports/baseball/roster/2022
 Bronx,JUCO_D3,NY,https://bronxbroncos.com/sports/baseball/roster/2022
 Kingsborough,JUCO_D3,NY,https://kccathletics.com/sports/baseball/roster/2022
@@ -1511,7 +1511,7 @@ Brookdale,JUCO_D3,NJ,https://brookdaleathletics.com/sports/bsb/2021-22/roster
 Bucks County,JUCO_D3,PA,http://athletics.bucks.edu/sports/bsb/2021-22/roster
 Camden County,JUCO_D3,NJ,https://www.camdenccathletics.org/sports/bsb/2021-22/roster
 Cumberland County,JUCO_D3,NJ,https://www.dukesathletics.com/sports/bsb/2021-22/roster
-Delaware County,JUCO_D3,PA,https://www.dccc.edu/campus-life/athletics/baseball
+Delaware County,JUCO_D3,PA,https://www.dcccphantoms.com/sports/bsb/2021-22/roster
 Luzerne County,JUCO_D3,PA,https://www.luzerne.edu/studentlife/athletics/roster.jsp?id=1
 Middlesex County,JUCO_D3,NJ,https://mccbluecolts.com/sports/bsb/2021-22/roster
 Montgomery County,JUCO_D3,PA,https://mustangsathletics.com/sports/bsb/2021-22/roster
@@ -1570,7 +1570,7 @@ Monterey Peninsula College,CCCAA,CA,https://www.athletics.mpc.edu/teams/men-s-sp
 Ohlone College,CCCAA,CA,https://www.ohloneathletics.com/sports/bsb/2021-22/roster
 Butte College,CCCAA,CA,http://www.butte.edu/departments/learning/athletics/baseball/roster.html
 Feather River College,CCCAA,CA,https://athletics.frc.edu/sports/bsb/2021-22/roster
-Lassen College,CCCAA,CA,http://www.lassenathletics.com/roster/0/3.php
+Lassen College,CCCAA,CA,http://www.lassenathletics.com/roster/14/3.php
 College of the Redwoods,CCCAA,CA,https://www.redwoods.edu/sports/baseball#Roster
 Shasta College,CCCAA,CA,https://www.shastacollegeathletics.com/sports/bsb/2021-22/roster
 College of the Siskiyous,CCCAA,CA,https://coseagles.com/sports/bsb/2021-22/roster
@@ -1637,7 +1637,7 @@ Yakima Valley,NWAC,WA,http://www.goyaks.com/sports/baseball/roster/2022
 Centralia,NWAC,WA,https://www.centralia.edu/athletics/teams/baseball.aspx
 Grays Harbor,NWAC,WA,https://ghcathletics.com/sports/baseball/roster/2022
 Green River,NWAC,WA,https://www.greenriver.edu/students/get-involved/athletics/mens-sports/mens-baseball/mens-baseball-team/
-Lower Columbia,NWAC,WA,https://lccreddevils.com/sports/baseball/roster/2021?print=true
+Lower Columbia,NWAC,WA,https://lccreddevils.com/sports/baseball/roster/2022
 Pierce,NWAC,WA,https://pierceraiders.com/sports/baseball/roster/2022
 Tacoma,NWAC,WA,https://tacomatitans.com/sports/baseball/roster/2022
 Chemeketa,NWAC,OR,https://www.chemeketa.edu/athletics/baseball/
@@ -1664,7 +1664,7 @@ Penn State Dubois,USCAA,PA,https://www.psuduboisathletics.com/sports/bsb/2021-22
 Southern Maine Community College,USCAA,ME,https://www.gosmccseawolves.com/sports/bsb/2021-22/roster
 Penn State Fayette,USCAA,PA,https://www.psfathletics.com/sports/bsb/2021-22/roster
 Penn State Greater Allegheny,USCAA,PA,https://www.athleticsga.com/sports/bsb/2021-22/roster
-Williamson College of the Trades,USCAA,PA,http://www.williamsonathletics.com/roster/17/2
+Williamson College of the Trades,USCAA,PA,http://www.williamsonathletics.com/roster/0/2
 Central Maine Community College,USCAA,ME,https://www.cmmustangs.com/sports/bsb/2021-22/roster
 Penn State York,USCAA,PA,https://pennstateyorksports.com/sports/bsb/2021-22/roster
 Wright State - Lake Campus,USCAA,OH,https://www.wsulclakers.com/sports/bsb/2021-22/roster
