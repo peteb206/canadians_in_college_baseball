@@ -165,7 +165,7 @@ def set_canadian_search_criteria():
         'Nova Scotia': ['nova scotia', ', ns', 'n.s.' ],
         'Ontario': [', ontario', ', on', ',on', '(ont)'],
         'Prince Edward Island': ['prince edward island', 'p.e.i.'],
-        'Quebec': ['quebec', 'q.c.', ', qu'],
+        'Quebec': ['quebec', 'q.c.', ', qu', ', que.'],
         'Saskatchewan': ['saskatchewan', ', sask', ', sk', 's.k.']
     }
     country_strings = {
@@ -191,7 +191,18 @@ def set_canadian_search_criteria():
     for province, strings in province_strings.items():
          for string in strings:
                 hometown_conversion_dict[re.sub(r'[^a-zA-Z]+', '', string)] = province
-    ignore_strings =  ['canada college', 'west canada valley', 'la canada', 'australia', 'mexico', 'abac', 'newfoundland, pa', 'canada, minn', 'new brunswick, n']
+    ignore_strings = [
+        'canada college',
+        'west canada valley',
+        'la canada',
+        'australia',
+        'mexico',
+        'abac',
+        'newfoundland, pa',
+        'canada, minn',
+        'new brunswick, n',
+        'a.b. miller high school'
+    ]
     return city_strings, province_strings, country_strings, canada_strings, hometown_conversion_dict, ignore_strings
 
 
