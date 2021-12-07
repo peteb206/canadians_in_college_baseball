@@ -201,7 +201,8 @@ def set_canadian_search_criteria():
         'newfoundland, pa',
         'canada, minn',
         'new brunswick, n',
-        'a.b. miller high school'
+        'a.b. miller high school',
+        ', nsw'
     ]
     return city_strings, province_strings, country_strings, canada_strings, hometown_conversion_dict, ignore_strings
 
