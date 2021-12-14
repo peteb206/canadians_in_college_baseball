@@ -71,6 +71,7 @@ def main():
         canadians_df = pd.concat([canadians_df_orig, pd.read_csv(f'canadians_manual_{year}.csv'), canadians_df_new], ignore_index=True) # Add players who could not be scraped
         canadians_df.drop_duplicates(subset=['name', 'hometown'], keep='first', ignore_index=True, inplace=True) # Drop duplicate names (keep manually added rows if there is an "identical" scraped row)
         canadians_df.drop_duplicates(subset=['name', 'school'], keep='first', ignore_index=True, inplace=True) # Drop duplicate names part 2
+        canadians_df.drop_duplicates(subset=['name', 'position', 'b', 't'], keep='first', ignore_index=True, inplace=True) # Drop duplicate names part 2
 
         # Organizing by class and sorting
         canadians_df['class'] = pd.Categorical(canadians_df['class'], ['Freshman','Sophomore', 'Junior', 'Senior', '']) # Create custom sort by class
@@ -192,7 +193,7 @@ def set_canadian_search_criteria():
          for string in strings:
                 hometown_conversion_dict[re.sub(r'[^a-zA-Z]+', '', string)] = province
     ignore_strings = [
-        'canada college',
+        # 'canada college',
         'west canada valley',
         'la canada',
         'australia',
