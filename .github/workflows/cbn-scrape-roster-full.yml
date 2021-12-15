@@ -36,7 +36,7 @@ jobs:
          -  name: update 2022 google sheet # use pushed results to update Google Sheet
             env:
                KEYFILE: ${{ secrets.KEYFILE }}
-               SHEET_NAME: Canadians in College 2022
+               SHEET_NAME: Canadians in College
                YEAR: 2022
             run: |
                python roster_scrape.py n
