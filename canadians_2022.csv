@@ -1,5 +1,4 @@
 name,position,b,t,class,school,division,state,hometown,stats_link
-Iowa / Marshalltown High School Marshalltown,WADECANADAY,,,Freshman,Morningside College,NAIA,IA,Wadey,
 Maxime Adam,OF,R,R,Freshman,Western Nebraska,JUCO: Division 1,NE,"Montreal, Quebec",
 Justin Adamoski,RHP,R,R,Freshman,University of British Columbia,NAIA,BC,"Burnaby, British Columbia",
 Ben Adams,LHP,R,L,Freshman,St. John's University,NCAA: Division 1,NY,"Ottawa, Ontario",
@@ -566,7 +565,7 @@ Max Poole,RHP,R,R,Junior,Mars Hill University,NCAA: Division 2,NC,"Fort McMurray
 Chris Pouliot,LHP,L,L,Junior,Canisius College,NCAA: Division 1,NY,"Boischatel, Québec",
 Reece Reading,UT,L,R,Junior,"University of Arkansas, Monticello",NCAA: Division 2,AR,"Listowel, Ontario",
 Tommy Reyes-Cruz,INF,L,L,Junior,Faulkner University,NAIA,AL,"Montreal, Quebec",
-Felix Rondeau 0,OF,,,Junior,Oklahoma City University,NAIA,OK,Quebec,
+Felix Rondeau,OF,,,Junior,Oklahoma City University,NAIA,OK,Quebec,
 Spenser Ross,IF,R,R,Junior,Lawrence University,NCAA: Division 3,WI,"Mississauga, Ontario",
 Luigi Russo,1B,L,R,Junior,Ohio Wesleyan University,NCAA: Division 3,OH,"Kelowna, British Columbia",
 Nathan Scragg,MIF,R,R,Junior,Dawson,JUCO: Division 2,MT,Ontario,
@@ -702,4 +701,4 @@ Malik Williams,INF,,,Senior,Lipscomb University,NCAA: Division 1,TN,"Toronto, On
 Brantt Wood,IF,,,Senior,Mayville State University,NAIA,ND,"Saskatoon, Saskatchewan",
 Max Wright,C/OF,L,R,Senior,Indiana State University,NCAA: Division 1,IN,"Toronto, Ontario",
 Aris Zimakas,LHP,L,L,Senior,Oakland University,NCAA: Division 1,MI,"Montreal, Quebec",
-Alberta / - St. Albert,TOMLEATHEM,,,,Morningside College,NAIA,IA,"St. Albert, Alberta",
+Tom Leathem,RHP,R,R,Freshman,Morningside College,NAIA,IA,"St. Albert, Alberta",
