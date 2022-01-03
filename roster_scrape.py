@@ -14,7 +14,6 @@ from oauth2client.service_account import ServiceAccountCredentials
 import sys
 import os
 import ssl
-import pytz
 ssl._create_default_https_context = ssl._create_unverified_context
 
 
@@ -43,7 +42,7 @@ def main():
         full_run = False
 
     # Last run:
-    last_run = 'Last updated: {} UTC'.format(datetime.datetime.now(pytz.utc).strftime("%B %d, %Y at %I:%M %p"))
+    last_run = 'Last updated: {} UTC'.format(datetime.datetime.now().strftime("%B %d, %Y"))
     logger.info('')
     logger.info(last_run)
     f = open('last_updated.txt', 'w')
@@ -193,7 +192,7 @@ def set_canadian_search_criteria():
          for string in strings:
                 hometown_conversion_dict[re.sub(r'[^a-zA-Z]+', '', string)] = province
     ignore_strings = [
-        # 'canada college',
+        'canada college',
         'west canada valley',
         'la canada',
         'australia',
