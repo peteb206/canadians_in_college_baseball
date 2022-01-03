@@ -5,7 +5,6 @@ from bs4 import BeautifulSoup
 import json
 import time
 import datetime
-import pytz
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import sys
@@ -16,7 +15,7 @@ from roster_scrape import clear_sheets, format_headers, resize_columns
 
 def main():
     # Last run:
-    last_run = 'Last updated: {} UTC'.format(datetime.datetime.now(pytz.utc).strftime("%B %d, %Y at %I:%M %p"))
+    last_run = 'Last updated: {}'.format(datetime.datetime.now().strftime("%B %d, %Y"))
     f = open('last_updated.txt', 'w')
     f.write(last_run)
     f.close()

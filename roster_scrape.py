@@ -1,9 +1,7 @@
 import requests
-from bs4 import BeautifulSoup
 import pandas as pd
 import re
 import json
-import numpy as np
 import time
 import logging
 import datetime
@@ -42,7 +40,7 @@ def main():
         full_run = False
 
     # Last run:
-    last_run = 'Last updated: {} UTC'.format(datetime.datetime.now().strftime("%B %d, %Y"))
+    last_run = 'Last updated: {}'.format(datetime.datetime.now().strftime("%B %d, %Y"))
     logger.info('')
     logger.info(last_run)
     f = open('last_updated.txt', 'w')
