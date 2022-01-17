@@ -327,7 +327,7 @@ def find_diffs(prev_df, new_df):
     compare_df['diff'] = compare_df['diff'].apply(lambda x: 'inherited' if x == 'left_only' else 'scraped')
     pd.set_option('display.max_rows', None)
     pd.set_option('expand_frame_repr', False)
-    logger.info('\nChanges from last scraper run:\n{}\n'.format(compare_df))
+    logger.info('\nChanges from last scraper run:\n{}\n'.format(compare_df.sort_values(by=['name', 'diff'])))
 
 
 def print_cols(roster_df_list):
@@ -339,7 +339,10 @@ def print_cols(roster_df_list):
 
 
 def format_player_name(string):
-    return ' '.join(string.split(',')[::-1]).strip() # Format as "First Last"
+    full_name =  ' '.join(string.split(',')[::-1]).strip() # Format as "First Last"
+    if full_name == full_name.upper(): # All caps... Set to proper case
+        full_name = ' '.join([name_part[0].upper() + name_part[1:].lower() for name_part in full_name.split()])
+    return full_name
 
 
 def format_player_class(string):
@@ -384,7 +387,7 @@ def format_player_division(string):
 
 
 def format_player_hometown(string):
-    string = re.sub(r'\s*\(*(?:Canada|Can.|CN|CAN|CA)\)*\.*', '', string) # Remove references to Canada
+    string = re.sub(r'\s*\(*(?:Canada|CANADA|Can.|CN|CAN|CA)\)*\.*', '', string) # Remove references to Canada
 
     parentheses_search = re.search(r'\(([^)]+)', string) # Search for text within parentheses
     if parentheses_search != None:
@@ -406,7 +409,9 @@ def format_player_hometown(string):
             if city.strip().lower() in hometown_conversion_dict.keys():
                 city = hometown_conversion_dict[city.strip().lower()] # In case province accidentally labeled as city
             return city # No province provided... just return city
-        string = city if ((city == 'Quebec') & (province == 'Ontario')) else city + ', ' + province # Account for Cowley College's mistake
+        if city == city.upper(): # All caps... Set to proper case
+            city = ' '.join([name_part[0].upper() + name_part[1:].lower() for name_part in city.split()])
+        string = city + ', ' + province
     else:
         string = no_school
     return string
