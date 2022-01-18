@@ -73,7 +73,7 @@ def main():
         # Organizing by class and sorting
         canadians_df['class'] = pd.Categorical(canadians_df['class'], ['Freshman','Sophomore', 'Junior', 'Senior', '']) # Create custom sort by class
         canadians_df['last_name'] = canadians_df['name'].str.replace('Š', 'S').str.split(' ').str[1]
-        canadians_df = canadians_df.sort_values(by=['class', 'last_name', 'school'], ignore_index=True).drop('last_name', axis=1)
+        canadians_df = canadians_df.sort_values(by=['last_name', 'class', 'school'], ignore_index=True).drop('last_name', axis=1)
 
         canadians_df.to_csv(f'canadians_{year}.csv', index=False) # Export to canadians_<year>.csv as a reference
 
@@ -97,7 +97,7 @@ def read_roster_norm(html, school):
         new_header = df.iloc[0] # grab the first row for the header
         df = df[1:] # take the data less the header row
         df.columns = new_header # set the header row as the df header
-    elif school['title'] in ['Mineral Area', 'Cowley', 'Frank Phillips', 'Kellogg', 'Lincoln Trail', 'Olivet Nazarene University']:
+    elif school['title'] in ['Mineral Area', 'Cowley', 'Frank Phillips', 'Kellogg', 'Lincoln Trail', 'Olivet Nazarene University', 'Crowder']:
         # Columns in HTML table are messed up... keep an eye on these schools to see if fixed
         df.columns = ['Ignore', 'No.', 'Name', 'Pos.', 'B/T', 'Year', 'Ht.', 'Wt.', 'Hometown']
     elif school['title'] in ['Morningside College']:
