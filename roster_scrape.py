@@ -97,11 +97,13 @@ def read_roster_norm(html, school):
         new_header = df.iloc[0] # grab the first row for the header
         df = df[1:] # take the data less the header row
         df.columns = new_header # set the header row as the df header
-    elif school['title'] in ['Mineral Area', 'Cowley', 'Frank Phillips', 'Kellogg', 'Lincoln Trail', 'Olivet Nazarene University', 'Crowder', 'Mount Mercy University']:
+    elif school['title'] in ['Mineral Area', 'Cowley', 'Frank Phillips', 'Kellogg', 'Lincoln Trail', 'Olivet Nazarene University', 'Crowder', 'Mount Mercy University', 'McCook', 'Minnesota State']:
         # Columns in HTML table are messed up... keep an eye on these schools to see if fixed
         df.columns = ['Ignore', 'No.', 'Name', 'Pos.', 'B/T', 'Year', 'Ht.', 'Wt.', 'Hometown']
     elif school['title'] in ['Morningside College']:
         df.columns = ['Ignore', 'No.', 'Name', 'Pos.', 'Year', 'Ht.', 'Hometown']
+    elif school['title'] in ['Dordt College']:
+        df = df[df['Name'] != df['Year']]
     return df
 
 
@@ -201,7 +203,7 @@ def set_canadian_search_criteria():
         'newfoundland, pa',
         'canada, minn',
         'new brunswick, n',
-        'a.b. miller high school',
+        'a.b. miller',
         ', nsw'
     ]
     return city_strings, province_strings, country_strings, canada_strings, hometown_conversion_dict, ignore_strings
