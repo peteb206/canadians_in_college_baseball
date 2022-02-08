@@ -163,7 +163,7 @@ def set_canadian_search_criteria():
         'British Columbia': ['british columbia', ', b.c', ', bc'],
         'Manitoba': ['manitoba', ', mb', ', man.'],
         'New Brunswick': ['new brunswick', ', nb', 'n.b.'],
-        'Newfoundland': ['newfoundland', 'nfld'],
+        'Newfoundland & Labrador': ['newfoundland', 'nfld', ', nl'],
         'Nova Scotia': ['nova scotia', ', ns', 'n.s.' ],
         'Ontario': [', ontario', ', on', ',on', '(ont)'],
         'Prince Edward Island': ['prince edward island', 'p.e.i.'],
@@ -181,11 +181,12 @@ def set_canadian_search_criteria():
         'bc': 'British Columbia',
         'mb': 'Manitoba',
         'nb': 'New Brunswick',
+        'nl': 'Newfoundland & Labrador',
         'ns': 'Nova Scotia',
         'on': 'Ontario',
         'ont': 'Ontario',
         'ont.': 'Ontario',
-        'pei': 'Ontario',
+        'pei': 'Prince Edward Island',
         'qc': 'Quebec',
         'qu': 'Quebec',
         'sk': 'Saskatchewan'
@@ -204,7 +205,8 @@ def set_canadian_search_criteria():
         'canada, minn',
         'new brunswick, n',
         'a.b. miller',
-        ', nsw'
+        ', nsw',
+        'las vegas, nb'
     ]
     return city_strings, province_strings, country_strings, canada_strings, hometown_conversion_dict, ignore_strings
 
