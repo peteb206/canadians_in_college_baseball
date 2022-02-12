@@ -290,7 +290,7 @@ def update_gsheet(df, last_run):
     sheet = client.open(os.environ.get('SHEET_NAME'))
 
     # get the sheets of the Spreadsheet
-    stats_sheet = sheet.worksheet('Stats' if os.environ.get('SHEET_NAME') == 'Test - Canadians in College' else '2022')
+    stats_sheet = sheet.worksheet('Stats' if os.environ.get('SHEET_NAME') == 'Test - Canadians in College' else os.environ.get('YEAR'))
     stats_sheet_id = stats_sheet._properties['sheetId']
 
     # clear values in sheet

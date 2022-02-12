@@ -1,7 +1,7 @@
 name: cbn-scrape-stat-full
 on:
-   # schedule:
-      # - cron: '0 8 * * 2' # runs at 8:00 UTC on Tuesdays
+   schedule:
+      - cron: '0 8 * * 2' # runs at 8:00 UTC on Tuesdays
    workflow_dispatch:
 jobs:
    build:
