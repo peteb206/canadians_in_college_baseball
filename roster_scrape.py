@@ -97,7 +97,7 @@ def read_roster_norm(html, school):
         new_header = df.iloc[0] # grab the first row for the header
         df = df[1:] # take the data less the header row
         df.columns = new_header # set the header row as the df header
-    elif school['title'] in ['Mineral Area', 'Cowley', 'Frank Phillips', 'Kellogg', 'Lincoln Trail', 'Olivet Nazarene University', 'Crowder', 'Mount Mercy University', 'McCook', 'Minnesota State']:
+    elif school['title'] in ['Mineral Area', 'Cowley', 'Frank Phillips', 'Kellogg', 'Lincoln Trail', 'Olivet Nazarene University', 'Crowder', 'Mount Mercy University', 'McCook', 'Minnesota State', 'Rivier University']:
         # Columns in HTML table are messed up... keep an eye on these schools to see if fixed
         df.columns = ['Ignore', 'No.', 'Name', 'Pos.', 'B/T', 'Year', 'Ht.', 'Wt.', 'Hometown']
     elif school['title'] in ['Morningside College']:
