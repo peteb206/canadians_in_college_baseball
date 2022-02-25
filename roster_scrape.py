@@ -100,8 +100,10 @@ def read_roster_norm(html, school):
     elif school['title'] in ['Mineral Area', 'Cowley', 'Frank Phillips', 'Kellogg', 'Lincoln Trail', 'Olivet Nazarene University', 'Crowder', 'Mount Mercy University', 'Patrick Henry', 'Minnesota State']:
         # Columns in HTML table are messed up... keep an eye on these schools to see if fixed
         df.columns = ['Ignore', 'No.', 'Name', 'Pos.', 'B/T', 'Year', 'Ht.', 'Wt.', 'Hometown']
-    elif school['title'] in ['McCook', 'CCBC Essex', 'Rivier University']:
+    elif school['title'] in ['McCook', 'CCBC Essex']:
         df.columns = ['Ignore', 'No.', 'Name', 'Pos.', 'B/T', 'Year', 'Ht.', 'Hometown']
+    elif school['title'] in ['Rivier University']:
+        df.columns = ['Ignore', 'No.', 'Name', 'Year', 'Pos.', 'B/T', 'Ht.', 'Hometown']
     elif school['title'] in ['Morningside College']:
         df.columns = ['Ignore', 'No.', 'Name', 'Pos.', 'Year', 'Ht.', 'Hometown']
     elif school['title'] in ['Dordt College']:
@@ -208,7 +210,8 @@ def set_canadian_search_criteria():
         'new brunswick, n',
         'a.b. miller',
         ', nsw',
-        'las vegas, nb'
+        'las vegas, nb',
+        'ontario, california'
     ]
     return city_strings, province_strings, country_strings, canada_strings, hometown_conversion_dict, ignore_strings
 
