@@ -221,7 +221,7 @@ University of Houston,D1,TX,https://uhcougars.com/sports/baseball/roster/2022
 University of Illinois at Chicago,D1,IL,https://uicflames.com/sports/baseball/roster/2022
 "University of Illinois, Urbana-Champaign",D1,IL,https://fightingillini.com/sports/baseball/roster/2022
 University of Iowa,D1,IA,https://hawkeyesports.com/sports/baseball/roster/season/2021-22
-University of Kansas,D1,KS,https://kuathletics.com/sports/baseball/roster/2022
+University of Kansas,D1,KS,https://kuathletics.com/sports/baseball/roster/season/2022
 University of Kentucky,D1,KY,https://ukathletics.com/sports/baseball/roster/2022
 University of Louisiana at Lafayette,D1,LA,https://ragincajuns.com/sports/baseball/roster/2022
 University of Louisiana at Monroe,D1,LA,https://ulmwarhawks.com/sports/baseball/roster/2022
@@ -233,7 +233,7 @@ University of Louisville,D1,KY,https://gocards.com/sports/baseball/roster/2022
 "University of Massachusetts, Amherst",D1,MA,https://umassathletics.com/sports/baseball/roster/2022
 "University of Massachusetts, Lowell",D1,MA,https://goriverhawks.com/sports/baseball/roster/2022
 University of Memphis,D1,TN,https://gotigersgo.com/sports/baseball/roster/2022
-University of Miami,D1,FL,https://miamihurricanes.com/sports/baseball/roster/2022
+University of Miami,D1,FL,https://miamihurricanes.com/sports/baseball/roster/season/2021-22
 University of Michigan,D1,MI,https://mgoblue.com/sports/baseball/roster/2022
 "University of Minnesota, Twin Cities",D1,MN,https://gophersports.com/sports/baseball/roster/2022
 University of Mississippi,D1,MS,https://olemisssports.com/sports/baseball/roster/2022
@@ -252,7 +252,7 @@ University of North Carolina,D1,NC,https://goheels.com/sports/baseball/roster/20
 "University of North Carolina, Wilmington",D1,NC,https://uncwsports.com/sports/baseball/roster/2022
 University of North Florida,D1,FL,https://unfospreys.com/sports/baseball/roster/2022
 University of Northern Colorado,D1,CO,https://uncbears.com/sports/baseball/roster/2022
-University of Notre Dame,D1,IN,https://und.com/sports/baseball/roster/2022
+University of Notre Dame,D1,IN,https://und.com/sports/baseball/roster/season/2021-22
 University of Oklahoma,D1,OK,http://www.soonersports.com/sports/baseball/roster/2022
 University of Oregon,D1,OR,https://goducks.com/sports/baseball/roster/2022
 University of Pennsylvania,D1,PA,https://pennathletics.com/sports/baseball/roster/2022
@@ -274,14 +274,14 @@ University of Texas at Austin,D1,TX,https://texassports.com/sports/baseball/rost
 University of Texas at San Antonio,D1,TX,https://goutsa.com/sports/baseball/roster/2022
 University of Toledo,D1,OH,https://utrockets.com/sports/baseball/roster/2022
 University of Utah,D1,UT,https://utahutes.com/sports/baseball/roster/2022
-University of Virginia,D1,VA,https://virginiasports.com/sports/baseball/roster/2022
+University of Virginia,D1,VA,https://virginiasports.com/sports/baseball/roster/season/2021-22
 University of Washington,D1,WA,https://gohuskies.com/sports/baseball/roster/2022
 "University of Wisconsin, Milwaukee",D1,WI,https://mkepanthers.com/sports/baseball/roster/2022
 University of the Incarnate Word,D1,TX,https://uiwcardinals.com/sports/baseball/roster/2022
 University of the Pacific,D1,CA,https://pacifictigers.com/sports/baseball/roster/2022
 Utah Valley University,D1,UT,https://gouvu.com/sports/baseball/roster/2022
-Valparaiso University,D1,IN,https://www.valpoathletics.com/baseball/roster/2021-22
-Vanderbilt University,D1,TN,https://vucommodores.com/sports/baseball/roster/2022
+Valparaiso University,D1,IN,https://www.valpoathletics.com/baseball/roster/2021-22?view=list
+Vanderbilt University,D1,TN,https://vucommodores.com/sports/baseball/roster/season/2021-22
 Villanova University,D1,PA,https://villanova.com/sports/baseball/roster/2022
 Virginia Commonwealth University,D1,VA,https://vcuathletics.com/sports/baseball/roster/2022
 Virginia Military Institute,D1,VA,http://www.vmikeydets.com/sports/baseball/roster/2022
@@ -319,7 +319,7 @@ Azusa Pacific University,D2,CA,https://athletics.apu.edu/sports/baseball/roster/
 Barry University,D2,FL,https://gobarrybucs.com/sports/baseball/roster/2022
 Barton College,D2,NC,https://bartonbulldogs.com/sports/baseball/roster/2022
 Belmont Abbey College,D2,NC,https://abbeyathletics.prestosports.com/sports/bsb/2021-22/roster
-Bemidji State University,D2,MN,https://www.bsubeavers.com/baseball/roster/2022
+Bemidji State University,D2,MN,https://www.bsubeavers.com/baseball/roster/2022?view=list
 Benedict College,D2,SC,https://benedicttigers.com/sports/baseball/roster/2022
 Bentley University,D2,MA,https://www.bentleyfalcons.com/sports/bsb/2021-22/roster
 Biola University,D2,CA,https://athletics.biola.edu/sports/baseball/roster/2022
@@ -583,7 +583,7 @@ Becker College,D3,MA,https://becker.prestosports.com/sports/bsb/2021-22/roster
 Belhaven University,D3,MS,https://blazers.belhaven.edu/roster.aspx?path=baseball
 Beloit College,D3,WI,https://beloitcollegeathletics.com/sports/baseball/roster/2022
 Benedictine University,D3,IL,https://benueagles.com/sports/baseball/roster/2022
-Berea College,D3,KY,https://bereaathletics.prestosports.com/sports/bsb/2021-22/roster
+Berea College,D3,KY,https://bereaathletics.com/sports/baseball/roster/2022
 Berry College,D3,GA,https://www.berryvikings.com/sports/baseball/roster/2022
 Bethany College (West Virginia),D3,WV,http://www.bethanyswedes.com/roster/0/3
 Bethany Lutheran College,D3,MN,https://blcvikings.com/sports/baseball/roster/2022
@@ -679,7 +679,7 @@ Greensboro College,D3,NC,https://greensborocollegesports.com/sports/baseball/ros
 Greenville University,D3,IL,http://athletics.greenville.edu/sports/bsb/2021-22/roster
 Grinnell College,D3,IA,https://pioneers.grinnell.edu/sports/baseball/roster/2022
 Grove City College,D3,PA,https://athletics.gcc.edu/sports/baseball/roster/2022
-Guilford College,D3,NC,https://www.guilfordquakers.com/sports/bsb/2021-22/roster
+Guilford College,D3,NC,https://guilfordquakers.com/sports/baseball/roster/2022
 Gustavus Adolphus College,D3,MN,https://gustavus.edu/athletics/bb/roster
 Gwynedd Mercy University,D3,PA,https://gwyneddathletics.com/sports/baseball/roster/2022
 Hamilton College,D3,NY,https://athletics.hamilton.edu/sports/baseball/roster/2022
@@ -767,7 +767,7 @@ Muhlenberg College,D3,PA,https://muhlenbergsports.com/sports/baseball/roster/202
 Muskingum University,D3,OH,https://www.fightingmuskies.com/sports/bsb/2021-22/roster
 Nebraska Wesleyan University,D3,NE,https://nwusports.com/sports/baseball/roster/2022
 Neumann University,D3,PA,https://www.neumannathletics.com/sports/baseball/roster/2022
-New England College,D3,NH,https://athletics.nec.edu/sports/bsb/2021-22/roster
+New England College,D3,NH,https://athletics.nec.edu/sports/bsb/2021-22/roster?view=list
 New Jersey City University,D3,NJ,https://njcugothicknights.com/sports/baseball/roster/2022
 New York University,D3,NY,https://gonyuathletics.com/sports/baseball/roster/2022
 Nichols College,D3,MA,https://nicholsathletics.com/sports/baseball/roster/2022
@@ -780,7 +780,7 @@ Northland College,D3,WI,https://northlandcollegesports.com/sports/baseball/roste
 Norwich University,D3,VT,https://www.norwichathletics.com/sports/bsb/2021-22/roster
 Oberlin College,D3,OH,https://goyeo.com/sports/baseball/roster/2022
 Occidental College,D3,CA,https://www.oxyathletics.com/sports/bsb/2021-22/roster
-Oglethorpe University,D3,GA,https://www.gopetrels.com/sports/bsb/2021-22/roster
+Oglethorpe University,D3,GA,https://gopetrels.com/sports/baseball/roster/2022
 Ohio Northern University,D3,OH,http://www.onusports.com/sports/bsb/2021-22/roster
 Ohio Wesleyan University,D3,OH,https://battlingbishops.com/sports/baseball/roster/2022
 Olivet College,D3,MI,https://www.olivetcomets.com/sports/bsb/2021-22/roster
@@ -926,7 +926,7 @@ Westfield State University,D3,MA,https://www.westfieldstateowls.com/sports/bsb/2
 "Westminster College, Missouri",D3,MO,http://wcbluejays.com/sports/bsb/2021-22/roster
 "Westminster College, Pennsylvania",D3,PA,https://athletics.westminster.edu/sports/baseball/roster/2022
 Wheaton College,D3,IL,https://athletics.wheaton.edu/sports/baseball/roster/2022
-Wheaton College,D3,MA,https://athletics.wheatoncollege.edu/sports/bsb/2021-22/roster
+Wheaton College,D3,MA,https://www.wheatoncollegelyons.com/sports/bsb/2021-22/roster
 Whitman College,D3,WA,https://athletics.whitman.edu/sports/baseball/roster/2022
 Whittier College,D3,CA,https://www.wcpoets.com/sports/bsb/2021-22/roster
 Whitworth University,D3,WA,https://whitworthpirates.com/sports/baseball/roster/2022
@@ -968,7 +968,7 @@ Campbellsville University,NAIA,KY,https://campbellsvilletigers.com/sports/baseba
 Central Baptist College,NAIA,AR,https://www.cbcmustangs.com/sports/bsb/2021-22/roster
 Central Christian College,NAIA,KS,https://ccctigers.com/sports/baseball/roster/2022
 Central Methodist University,NAIA,MO,https://www.cmueagles.com/sports/bsb/2021-22/roster
-Clarke University,NAIA,IA,https://www.clarkepride.com/roster/20/3.php
+Clarke University,NAIA,IA,https://www.clarkepride.com/sports/bsb/2021-22/roster
 Cleary University,NAIA,MI,https://www.clearycougars.com/sports/bsb/2021-22/roster
 College of the Ozarks,NAIA,MO,https://bobcats.cofo.edu/Teams/Baseball/Roster
 Columbia College,NAIA,MO,https://columbiacougars.com/sports/baseball/roster/2021-22
@@ -979,7 +979,7 @@ Corban University,NAIA,OR,https://corbanwarriors.com/sports/baseball/roster/2022
 Cornerstone University,NAIA,MI,https://cugoldeneagles.com/sports/baseball/roster/2022
 Crowley's Ridge College,NAIA,AR,https://www.crcpioneers.com/sports/bsb/2021-22/roster
 Culver-Stockton College,NAIA,MO,https://www.cscwildcats.com/roster/25/3.php
-Cumberland University,NAIA,TN,https://www.gocumberlandathletics.com/baseball/roster/2021-22
+Cumberland University,NAIA,TN,https://www.gocumberlandathletics.com/baseball/roster/2021-22?view=list
 Dakota State University,NAIA,SD,https://www.dsuathletics.com/roster/28/3.php
 Dakota Wesleyan University,NAIA,SD,https://dwuathletics.com/sports/bsb/2021-22/roster
 Dickinson State University,NAIA,ND,https://www.dsubluehawks.com/roster/0/17
@@ -993,7 +993,7 @@ Faulkner University,NAIA,AL,https://faulknereagles.com/sports/baseball/roster/20
 Fisher College,NAIA,MA,https://www.fisherfalcons.com/sports/bsb/2021-22/roster
 Florida Memorial University,NAIA,FL,https://fmuathletics.com/sports/baseball/roster/2022
 Florida National University,NAIA,FL,https://www.fnu.edu/baseball-roster/
-Freed-Hardeman University,NAIA,TN,https://www.gofhulions.com/sports/bsb/2021-22/roster
+Freed-Hardeman University,NAIA,TN,https://www.gofhulions.com/sports/bsb/2021-22/roster?view=list
 Friends University,NAIA,KS,https://www.friendsathletics.com/roster/0/3
 Georgetown College,NAIA,KY,http://www.georgetowncollegeathletics.com/roster/0/3.php
 Georgia Gwinnett College,NAIA,GA,https://ggcathletics.com/sports/baseball/roster/2022
@@ -1111,7 +1111,7 @@ University of Mobile,NAIA,AL,https://umobilerams.com/sports/baseball/roster/2022
 University of Northwestern Ohio,NAIA,OH,http://www.unohracers.com/roster/19/3.php
 University of Pikeville,NAIA,KY,https://upikebears.com/sports/baseball/roster/2022
 University of Rio Grande,NAIA,OH,https://www.rioredstorm.com/roster/20/1.php
-University of Saint Francis,NAIA,IN,https://www.saintfranciscougars.com/roster/0/3
+University of Saint Francis,NAIA,IN,https://www.saintfranciscougars.com/sports/bsb/2021-22/roster
 University of Saint Katherine,NAIA,CA,https://uskathletics.com/sports/baseball/roster/2022
 University of Saint Mary,NAIA,KS,http://www.gospires.com/roster/0/3
 University of Science and Arts of Oklahoma,NAIA,OK,http://www.usaoathletics.com/roster/0/3
@@ -1141,12 +1141,12 @@ Xavier University of Louisiana,NAIA,LA,https://xulagold.com/sports/baseball/rost
 York College,NAIA,NE,https://ycpanthers.com/sports/bsb/2021-22/roster
 Arizona Western,JUCO_D1,AZ,https://www.awcmatadors.com/baseball/roster/list
 Central Arizona,JUCO_D1,AZ,https://www.vaquerosports.com/sports/bsb/2021-22/roster
-Cochise,JUCO_D1,AZ,https://athletics.cochise.edu/baseball/baseball-roster/
+Cochise,JUCO_D1,AZ,https://athletics.cochise.edu/sports/bsb/2021-22/roster
 Eastern Arizona,JUCO_D1,AZ,http://www.eacmonsters.com/baseScheduleCurrent.asp#roster
 Pima,JUCO_D1,AZ,http://pimaaztecs.com/sports/bsb/2021-22/roster
 South Mountain,JUCO_D1,AZ,https://athletics.southmountaincc.edu/sports/bsb/2021-22/roster
 Yavapai,JUCO_D1,AZ,https://goroughriders.com/sports/baseball/roster/2022
-Arkansas Baptist,JUCO_D1,AR,https://www.abcbuffaloes.com/sport/baseball/mens/#
+Arkansas Baptist,JUCO_D1,AR,<unknown>
 Connors State,JUCO_D1,OK,http://www.connorsathletics.com/sports/bsb/2021-22/roster
 Eastern Oklahoma State,JUCO_D1,OK,https://www.eoscathletics.com/sports/bsb/2021-22/roster
 Northeastern Oklahoma A&M,JUCO_D1,OK,https://neoathletics.com/sports/baseball/roster/2022
@@ -1237,7 +1237,7 @@ Western Nebraska,JUCO_D1,NE,https://wnccathletics.com/sports/bsb/2021-22/roster
 Florence-Darlington Tech,JUCO_D1,SC,https://fdtc.prestosports.com/sports/bsb/2021-22/roster
 Louisburg,JUCO_D1,NC,https://www.lchurricanes.com/sports/bsb/2021-22/roster
 Spartanburg Methodist,JUCO_D1,SC,https://www.gosmcpioneers.com/sports/bsb/2021-22/roster
-USC Lancaster,JUCO_D1,SC,http://www.usclathletics.com/roster.asp?sportID=1
+USC Lancaster,JUCO_D1,SC,https://usclathletics.com/sports/baseball/roster/2021-22
 USC Salkehatchie,JUCO_D1,SC,https://uscsalkathletics.com/mens-sports/baseball-7/baseball-roster/
 USC Sumter,JUCO_D1,SC,https://uscfireants.com/sports/baseball/roster/2021-22
 USC Union,JUCO_D1,SC,https://www.uscunionathletics.com/sports/bsb/2021-22/roster
@@ -1269,7 +1269,7 @@ State Fair,JUCO_D1,MO,https://sfccmoroadrunners.com/sports/bsb/2021-22/roster
 Three Rivers,JUCO_D1,MO,http://www.raidersathletics.com/sports/bsb/2021-22/roster
 Abraham Baldwin,JUCO_D1,GA,https://athletics.abac.edu/sports/bsb/2021-22/roster
 Andrew,JUCO_D1,GA,https://andrew.prestosports.com/sports/bsb/2021-22/roster
-East Georgia State,JUCO_D1,GA,http://www.ega.edu/athletics/sports/baseball_roster
+East Georgia State,JUCO_D1,GA,https://www.ega.edu/athletics/baseball/baseball-roster.html
 Georgia Highlands,JUCO_D1,GA,https://ghc.prestosports.com/sports/bsb/2021-22/roster
 Gordon State,JUCO_D1,GA,https://www.gscathletics.com/sports/bsb/2021-22/roster
 South Georgia State,JUCO_D1,GA,https://www.sgsc.edu/athletics/r.cms

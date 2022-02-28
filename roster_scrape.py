@@ -118,14 +118,15 @@ def read_roster(session, school, header):
     while try_num <= 3: # 3 tries
         try:
             return read_roster_norm(pd.read_html(school['roster_link']), school)
-        except Exception:
-            try_num = try_num # Do nothing
+        except Exception as e1:
+            if try_num > 1:
+                print("read_roster_norm(pd.read_html(school['roster_link']), school):", str(e1))
         try:
             response = session.get(school['roster_link'], headers=header, timeout=10)
             return read_roster_norm(pd.read_html(response.text), school)
         except Exception as e2:
-            foo = str(e2)
-            # logger.info('--- e2: {} ---'.format(str(e2)))
+            if try_num > 1:
+                print("read_roster_norm(pd.read_html(response.text), school):", str(e2))
         if try_num == 3:
             try:
                 return str(response.text)
@@ -211,7 +212,8 @@ def set_canadian_search_criteria():
         'a.b. miller',
         ', nsw',
         'las vegas, nb',
-        'ontario, california'
+        'ontario, california',
+        ', queens'
     ]
     return city_strings, province_strings, country_strings, canada_strings, hometown_conversion_dict, ignore_strings
 
