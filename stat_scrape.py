@@ -75,7 +75,7 @@ def scrape_sites(session, url, division, header):
     table_index = 0
     if division.startswith('NCAA'):
         table_index = 2
-    elif (division.startswith('JUCO')) | (division == 'California CC') | (division == 'NW Athletic Conference'):
+    else: # elif (division == 'NAIA') | (division.startswith('JUCO')) | (division == 'California CC') | (division == 'NW Athletic Conference'):
         table_index = 1
     return find_table(division, response, table_index)
 
@@ -87,14 +87,10 @@ def find_table(division, html, table_index):
             new_header = df.iloc[1] # grab the first row for the header
             df = df[2:] # take the data less the header row
             df.columns = new_header # set the header row as the df header
-        elif (division.startswith('JUCO')) | (division == 'California CC') | (division == 'NW Athletic Conference'):
+        else: # elif (division == 'NAIA') | (division.startswith('JUCO')) | (division == 'California CC') | (division == 'NW Athletic Conference'):
             df = pd.read_html(html)[table_index]
             df['count'] = df.groupby('Statistics category').cumcount()
             df['Statistics category'] = np.where(df['count'] == 1, df['Statistics category'] + '.1', df['Statistics category'])
-        elif division == ('NAIA'):
-            soup = BeautifulSoup(html, 'lxml')
-            table = soup.find('table', {'id': 'ctl00_websyncContentPlaceHolder_overallStatsGridView'})
-            df = pd.read_html(str(table))[table_index]
     except:
         return pd.DataFrame()
     return df
@@ -158,7 +154,8 @@ def read_table(df):
 
 def read_ncaa_table(df):
     out_dict = dict()
-    df_to_dict = df[df['Year'] == '2020-21'].to_dict('records')
+    year = os.environ.get('YEAR')
+    df_to_dict = df[df['Year'] == f'{int(year) - 1}-{year[2:]}'].to_dict('records')
     stats_map = {
         'Games Played (G)': 'GP',
         'At Bats (AB)': 'AB',
@@ -297,7 +294,7 @@ def update_gsheet(df, last_run):
     clear_sheets(sheet, [stats_sheet_id])
 
     # initialize summary data
-    summary_data = [['By Pete Berryman', '', '', '', last_run], ['Canadian Baseball Network', '', '', '', '']]
+    summary_data = [['Pete Berryman', '', '', '', last_run], ['Canadian Baseball Network', '', '', '', '']]
 
     # Add title row
     stats_data = list()
