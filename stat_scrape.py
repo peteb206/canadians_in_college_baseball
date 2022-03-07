@@ -287,14 +287,14 @@ def update_gsheet(df, last_run):
     sheet = client.open(os.environ.get('SHEET_NAME'))
 
     # get the sheets of the Spreadsheet
-    stats_sheet = sheet.worksheet('Stats' if os.environ.get('SHEET_NAME') == 'Test - Canadians in College' else os.environ.get('YEAR'))
+    stats_sheet = sheet.worksheet('Stats' if os.environ.get('SHEET_NAME') == 'Test - Canadians in College' else 'CBN')
     stats_sheet_id = stats_sheet._properties['sheetId']
 
     # clear values in sheet
     clear_sheets(sheet, [stats_sheet_id])
 
     # initialize summary data
-    summary_data = [['Pete Berryman', '', '', '', last_run], ['Canadian Baseball Network', '', '', '', '']]
+    summary_data = [['Canadian Baseball Network', '', '', '', last_run], ['Pete Berryman', '', '', '', '']]
 
     # Add title row
     stats_data = list()
