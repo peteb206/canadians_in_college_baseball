@@ -127,7 +127,8 @@ def read_roster_norm(html, school):
     ]:
         df.columns = ['Ignore', 'No.', 'Name', 'Pos.', 'Year', 'Ht.', 'Hometown']
     elif school['title'] in [
-        'Northeastern'
+        'Northeastern',
+        'Cayuga'
     ]:
         df.columns = ['Ignore', 'No.', 'Name', 'Pos.', 'B/T', 'Year', 'Hometown']
     elif school['title'] in [
