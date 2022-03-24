@@ -283,11 +283,15 @@ def update_gsheet(df, last_run):
     # authorize the clientsheet 
     client = gspread.authorize(creds)
 
-    # get the instance of the Spreadsheet
-    sheet = client.open(os.environ.get('SHEET_NAME'))
+    # get the instance of the spreadsheet
+    spreadsheet_name, worksheet_name = os.environ.get('SHEET_NAME'), 'Stats'
+    if spreadsheet_name == 'Canadians in College Stats':
+        spreadsheet_name += f': {os.environ.get("YEAR")}'
+        worksheet_name = 'CBN'
+    sheet = client.open(spreadsheet_name)
 
     # get the sheets of the Spreadsheet
-    stats_sheet = sheet.worksheet('Stats' if os.environ.get('SHEET_NAME') == 'Test - Canadians in College' else 'CBN')
+    stats_sheet = sheet.worksheet(worksheet_name)
     stats_sheet_id = stats_sheet._properties['sheetId']
 
     # clear values in sheet

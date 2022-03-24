@@ -36,7 +36,7 @@ jobs:
          -  name: update Stats google sheet # use pushed results to update Google Sheet
             env:
                KEYFILE: ${{ secrets.KEYFILE }}
-               SHEET_NAME: Canadians in College Stats: 2022
+               SHEET_NAME: Canadians in College Stats
                YEAR: 2022
             run: |
                python stat_scrape.py n
