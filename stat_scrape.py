@@ -68,7 +68,7 @@ def scrape_sites(session, url, division, header):
     while (response == '') & (attempts <= 3):
         attempts += 1
         try:
-            response = session.get(url, headers=header, timeout=10).text
+            response = session.get(url, headers=header, timeout=60).text
         except:
             pass
 
