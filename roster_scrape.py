@@ -116,6 +116,10 @@ def read_roster_norm(html, school):
         # Columns in HTML table are messed up... keep an eye on these schools to see if fixed
         df.columns = ['Ignore', 'No.', 'Name', 'Pos.', 'B/T', 'Year', 'Ht.', 'Wt.', 'Hometown']
     elif school['title'] in [
+        'Allan Hancock College'
+    ]:
+        df.columns = ['Ignore', 'No.', 'Name', 'Pos.', 'B/T', 'Ht.', 'Wt.', 'Year', 'Hometown']
+    elif school['title'] in [
         'McCook',
         'CCBC Essex'
     ]:
