@@ -1,842 +1,843 @@
 Name,Position,School,Division,Type,Games Played (G),At Bats (AB),Runs Scored (R),Hits (H),Doubles (2B),Triples (3B),Home Runs (HR),Runs Batted In (RBI),Stolen Bases (SB),Batting Average (AVG),On-Base Percentage (OBP),Slugging Percentage (SLG),On-Base plus Slugging (OPS),Appearances (G),Games Started (GS),Innings Pitched (IP),Wins (W),Losses (L),Earned Runs (ER),Hits Allowed (H),Walks Allowed (BB),Earned Run Average (ERA),Saves (SV),Strikeouts (K)
-AJ Karosas,IF,Erie,JUCO: Division 3,A,34,95,23,32,8,0,0,23,3,0.337,0.471,0.421,0.892,0,0,0.0,0,0,0,0,0,0.0,0,0
+AJ Karosas,IF,Erie,JUCO: Division 3,A,40,113,30,39,8,1,0,30,4,0.345,0.479,0.434,0.913,0,0,0.0,0,0,0,0,0,0.0,0,0
 AJ Yamaguchi,RHP,University of Texas at Tyler,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,3,0,1.2,0,0,6,4,3,32.4,0,0
 Aaoron Vulcano,C/OF,Colby,JUCO: Division 1,A,13,35,6,8,1,0,2,4,1,0.229,0.308,0.429,0.737,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0
 Aaron Duffy,RHP,Canisius College,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,8,8,27.0,0,4,22,36,9,7.33,0,19
-Aaron Manias,IF,Howard (TX),JUCO: Division 1,A,42,129,28,39,9,0,7,39,6,0.302,0.391,0.535,0.926,0,0,0.0,0,0,0,0,0,0.0,0,0
-Aaron Marsh,INF,Cochise,JUCO: Division 1,A,43,139,35,45,11,3,2,28,8,0.324,0.396,0.489,0.885,0,0,0.0,0,0,0,0,0,0.0,0,0
-Aaron Rutherford,RHP,Monroe CC,JUCO: Division 2,A,1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,2.0,0,0,1,1,0,4.5,0,1
-Adam Hill,RHP,Jefferson (MO),JUCO: Division 1,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,1,8.0,1,0,4,9,4,4.5,0,4
-Adam Inouye,MI,Academy of Art University,NCAA: Division 2,H,46,173,24,41,5,1,0,8,2,0.237,0.305,0.277,0.582,0,0,,0,0,0,0,0,,0,0
-Adam Khan,RHP,University of British Columbia,NAIA,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,0,21.2,2,1,16,25,17,6.65,0,14
-Adam Letson,RHP,Lakeland,JUCO: Division 2,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,2,31.2,1,2,4,29,4,1.14,0,33
+Aaron Manias,IF,Howard (TX),JUCO: Division 1,A,46,143,32,46,10,1,8,47,7,0.322,0.405,0.573,0.978,0,0,0.0,0,0,0,0,0,0.0,0,0
+Aaron Marsh,INF,Cochise,JUCO: Division 1,A,47,155,39,48,11,3,3,30,8,0.31,0.377,0.477,0.854,0,0,0.0,0,0,0,0,0,0.0,0,0
+Aaron Rutherford,RHP,Monroe CC,JUCO: Division 2,A,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,0,6.2,0,0,1,3,3,1.35,0,4
+Adam Hill,RHP,Jefferson (MO),JUCO: Division 1,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,1,8.0,1,0,4,9,5,4.5,0,4
+Adam Inouye,MI,Academy of Art University,NCAA: Division 2,H,50,191,25,42,6,1,0,8,2,0.22,0.287,0.262,0.549,0,0,,0,0,0,0,0,,0,0
+Adam Khan,RHP,University of British Columbia,NAIA,A,13,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13,0,23.2,3,1,16,27,17,6.08,0,16
+Adam Letson,RHP,Lakeland,JUCO: Division 2,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,2,39.2,2,2,6,35,6,1.36,0,35
 Adam Maier,RHP,University of Oregon,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,3,3,15.2,1,1,7,11,6,4.02,0,19
 Adam Plouffe,OF,Mars Hill University,NCAA: Division 2,H,10,11,1,1,1,0,0,0,0,0.091,0.231,0.182,0.413,0,0,,0,0,0,0,0,,0,0
-Adam Senden,P/1B,Mayville State University,NAIA,A,29,86,7,20,6,0,2,18,1,0.233,0.32,0.372,0.692,7,6,30.1,2,3,10,30,6,2.97,0,24
-Adam Tulloch,LHP,Arizona State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,12,11,48.2,2,1,36,56,27,6.66,0,56
+Adam Senden,P/1B,Mayville State University,NAIA,A,32,100,7,21,6,0,2,19,1,0.21,0.293,0.33,0.623,7,6,30.1,2,3,10,30,6,2.97,0,24
+Adam Tulloch,LHP,Arizona State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,13,12,53.2,2,2,42,65,29,7.04,0,63
 Adamo Stornello,C,Crowder,JUCO: Division 1,A,21,62,13,14,2,0,0,10,0,0.226,0.342,0.258,0.6,0,0,0.0,0,0,0,0,0,0.0,0,0
-Adlai Muench,OF,Salem University,NCAA: Division 2,H,6,6,0,1,0,0,0,1,0,0.167,0.167,0.167,0.334,0,0,,0,0,0,0,0,,0,0
-Adrian O'Toole,OF,Bard College,NCAA: Division 3,H,17,31,5,8,0,1,0,6,5,0.258,0.4,0.323,0.723,0,0,,0,0,0,0,0,,0,0
+Adlai Muench,OF,Salem University,NCAA: Division 2,H,7,9,0,1,0,0,0,1,0,0.111,0.111,0.111,0.222,0,0,,0,0,0,0,0,,0,0
+Adrian O'Toole,OF,Bard College,NCAA: Division 3,H,19,37,6,9,0,1,0,6,5,0.243,0.37,0.297,0.667,0,0,,0,0,0,0,0,,0,0
 Aidan Armitage,RHP,University of Saint Francis,NAIA,A,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,0,2.1,1,0,4,6,1,15.43,0,2
-Aidan Huggins,UTIL,Illinois State University,NCAA: Division 1,H,33,135,18,33,5,1,2,11,6,0.244,0.331,0.341,0.672,0,0,,0,0,0,0,0,,0,0
-Aidan Maxwell,RHP/INF,State University of New York at Cobleskill,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,10,3,25.1,2,2,10,32,7,3.55,0,22
-Aidan McAskie,INF,Chattanooga State,JUCO: Division 1,A,22,45,13,12,0,0,3,10,2,0.267,0.4,0.467,0.867,0,0,0.0,0,0,0,0,0,0.0,0,0
-Aidan Rose,IF,University of British Columbia,NAIA,A,25,71,12,13,3,0,0,5,4,0.183,0.263,0.225,0.488,0,0,0.0,0,0,0,0,0,0.0,0,0
+Aidan Huggins,UTIL,Illinois State University,NCAA: Division 1,H,35,142,18,36,5,1,2,11,6,0.254,0.335,0.345,0.68,0,0,,0,0,0,0,0,,0,0
+Aidan Maxwell,RHP/INF,State University of New York at Cobleskill,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,13,3,32.1,2,2,12,39,9,3.34,0,28
+Aidan McAskie,INF,Chattanooga State,JUCO: Division 1,A,23,46,13,12,0,0,3,10,2,0.261,0.393,0.457,0.85,0,0,0.0,0,0,0,0,0,0.0,0,0
+Aidan Rose,IF,University of British Columbia,NAIA,A,27,74,13,13,3,0,0,6,5,0.176,0.25,0.216,0.466,0,0,0.0,0,0,0,0,0,0.0,0,0
 Aidan Safar,RHP,Rensselaer Polytechnic Institute,NCAA: Division 3,H,2,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
 Aidan Safar,RHP,Rensselaer Polytechnic Institute,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,2,0,2.1,1,0,2,3,2,7.71,0,5
-Aiden Cutrell,,Douglas,NW Athletic Conference,A,12,28,3,6,1,0,0,1,1,0.214,0.29,0.25,0.54,3,1,7.0,1,1,10,16,3,12.86,0,4
-Alan Dai,UT,Amherst College,NCAA: Division 3,H,10,3,1,2,1,0,0,0,0,0.667,0.75,1.0,1.75,0,0,,0,0,0,0,0,,0,0
-Alec Boucher,IF,D'Youville College,NCAA: Division 2,H,27,97,18,32,7,5,2,23,3,0.33,0.373,0.567,0.94,0,0,,0,0,0,0,0,,0,0
-Alejandro Cazorla,OF,Bossier Parish,JUCO: Division 1,A,46,190,55,75,12,3,5,43,22,0.395,0.459,0.568,1.027,0,0,0.0,0,0,0,0,0,0.0,0,0
-Alex Fascia,C,Southwestern,JUCO: Division 1,A,32,87,12,29,3,0,0,8,0,0.333,0.433,0.368,0.801,0,0,0.0,0,0,0,0,0,0.0,0,0
-Alex Fijal,RHP/1B,Mesabi Range,JUCO: Division 3,A,10,24,2,3,0,0,0,2,0,0.125,0.125,0.125,0.25,2,2,8.0,0,1,10,10,7,11.25,0,3
+Aiden Cutrell,,Douglas,NW Athletic Conference,A,14,36,4,7,1,0,0,1,1,0.194,0.256,0.222,0.478,3,1,7.0,1,1,10,16,3,12.86,0,4
+Alan Dai,UT,Amherst College,NCAA: Division 3,H,11,3,1,2,1,0,0,0,0,0.667,0.75,1.0,1.75,0,0,,0,0,0,0,0,,0,0
+Alec Boucher,IF,D'Youville College,NCAA: Division 2,H,33,118,19,36,8,5,2,23,4,0.305,0.358,0.508,0.866,0,0,,0,0,0,0,0,,0,0
+Alejandro Cazorla,OF,Bossier Parish,JUCO: Division 1,A,50,204,58,81,12,4,5,43,22,0.397,0.459,0.569,1.028,0,0,0.0,0,0,0,0,0,0.0,0,0
+Alex Fascia,C,Southwestern,JUCO: Division 1,A,37,105,18,34,4,0,0,10,1,0.324,0.419,0.362,0.781,0,0,0.0,0,0,0,0,0,0.0,0,0
+Alex Fijal,RHP/1B,Mesabi Range,JUCO: Division 3,A,11,24,2,3,0,0,0,2,0,0.125,0.125,0.125,0.25,3,3,12.0,1,1,12,14,8,9.0,0,4
 Alex Hobgood,C,University of Hawaii at Hilo,NCAA: Division 2,H,2,1,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,,0,0,0,0,0,,0,0
-Alex Horobetz,INF,Lake Region State,JUCO: Division 2,A,17,54,8,16,1,2,0,10,2,0.296,0.371,0.389,0.76,0,0,0.0,0,0,0,0,0,0.0,0,0
-Alex Kok,,Northampton,JUCO: Division 3,A,8,10,4,6,1,1,0,3,0,0.6,0.636,0.9,1.536,0,0,0.0,0,0,0,0,0,0.0,0,0
-Alex Lazecki,RHP,Western Tech,JUCO: Division 3,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,0,4.1,0,0,11,9,8,22.85,0,3
-Alex Ouellette,OF&RHP,Sullivan County,JUCO: Division 2,A,28,61,17,18,1,0,2,12,5,0.295,0.463,0.41,0.873,4,0,7.0,1,0,3,6,3,3.86,0,6
+Alex Horobetz,INF,Lake Region State,JUCO: Division 2,A,20,64,8,17,1,2,0,11,2,0.266,0.333,0.344,0.677,0,0,0.0,0,0,0,0,0,0.0,0,0
+Alex Kok,,Northampton,JUCO: Division 3,A,9,10,5,6,1,1,0,3,0,0.6,0.667,0.9,1.567,0,0,0.0,0,0,0,0,0,0.0,0,0
+Alex Lazecki,RHP,Western Tech,JUCO: Division 3,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,0,4.1,0,0,11,10,8,22.85,0,3
+Alex Ouellette,OF&RHP,Sullivan County,JUCO: Division 2,A,32,74,22,24,3,1,2,17,5,0.324,0.462,0.473,0.935,4,0,7.0,1,0,3,6,3,3.86,0,6
 Alex Pallottini,C,Lourdes University,NAIA,A,2,5,0,0,0,0,0,0,0,0.0,0.167,0.0,0.167,0,0,0.0,0,0,0,0,0,0.0,0,0
-Alex Scoular,INF,University of Rio Grande,NAIA,A,47,121,18,24,4,0,0,21,6,0.198,0.291,0.231,0.522,0,0,0.0,0,0,0,0,0,0.0,0,0
+Alex Scoular,INF,University of Rio Grande,NAIA,A,48,124,18,25,5,0,0,22,6,0.202,0.297,0.242,0.539,0,0,0.0,0,0,0,0,0,0.0,0,0
 Alex Springer,LHP,Connors State,JUCO: Division 1,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Alexis Dubeau,LHP,Lake Region State,JUCO: Division 2,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,3,16.0,0,2,13,25,5,7.31,0,17
-Alexis Gravel,OF/LHP,Weatherford,JUCO: Division 1,A,32,89,13,23,4,0,1,11,3,0.258,0.362,0.337,0.699,2,0,2.0,0,1,4,4,1,18.0,0,3
-Alexis Hurens,OF,Seminole State (OK),JUCO: Division 1,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,0,16.0,0,1,17,17,15,9.56,0,20
-Anderson Fenton,LHP,Marshalltown,JUCO: Division 1,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,0,2.1,0,0,17,14,5,65.57,0,3
+Alexis Dubeau,LHP,Lake Region State,JUCO: Division 2,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,4,16.0,0,3,13,25,5,7.31,0,17
+Alexis Gravel,OF/LHP,Weatherford,JUCO: Division 1,A,34,90,13,23,4,0,1,11,3,0.256,0.358,0.333,0.691,3,0,3.0,0,1,7,6,3,21.0,0,5
+Alexis Hurens,OF,Seminole State (OK),JUCO: Division 1,A,13,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13,0,17.0,0,1,17,18,16,9.0,0,22
+Anderson Fenton,LHP,Marshalltown,JUCO: Division 1,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,0,7.0,0,0,19,19,6,24.43,0,9
 Andre Wojtarowicz,LHP/OF,Frontier,JUCO: Division 1,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,0,36.1,2,3,17,33,27,4.21,0,41
-Andres Gonzalez,IF,Mid-America Christian University,NAIA,A,34,74,9,12,1,0,2,10,1,0.162,0.34,0.257,0.597,0,0,0.0,0,0,0,0,0,0.0,0,0
-Andrew Asselin,RHP,Shorter University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,11,0,10.1,1,2,7,16,5,6.1,0,11
-Andrew Baum,RHP,Williston State,JUCO: Division 2,A,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,0,3.0,0,1,10,8,4,30.0,0,3
-Andrew Bench,RHP,Niagara County,JUCO: Division 3,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,0,7.1,1,0,0,4,1,0.0,1,8
+Andres Gonzalez,IF,Mid-America Christian University,NAIA,A,37,82,13,14,1,0,3,13,1,0.171,0.358,0.293,0.651,2,0,0.0,0,0,0,0,0,0.0,0,0
+Andrew Asselin,RHP,Shorter University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,13,0,11.1,1,2,9,18,6,7.15,0,12
+Andrew Baum,RHP,Williston State,JUCO: Division 2,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,0,4.0,0,1,10,11,4,22.5,0,6
+Andrew Bench,RHP,Niagara County,JUCO: Division 3,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,0,8.1,1,0,0,4,1,0.0,1,10
 Andrew Franson,LHP/P,Williston State,JUCO: Division 2,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
 Andrew Gillon,,Douglas,NW Athletic Conference,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,0,12.1,0,0,11,13,4,8.03,0,11
 Andrew Giorno,RHP,Adrian College,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,11,6,30.2,4,2,24,41,8,7.04,0,22
-Andrew Hazell,RHP,Mars Hill University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,9,5,34.2,3,2,21,34,18,5.45,0,26
-Andrew Nantau,IF,Erie,JUCO: Division 3,A,35,88,36,29,7,0,0,20,7,0.33,0.438,0.409,0.847,0,0,0.0,0,0,0,0,0,0.0,0,0
-Andrew Savage,C,Ventura College,California CC,A,33,125,26,36,6,0,0,22,5,0.288,0.409,0.336,0.745,0,0,0.0,0,0,0,0,0,0.0,0,0
+Andrew Hazell,RHP,Mars Hill University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,10,6,40.2,3,2,22,36,23,4.87,0,28
+Andrew Nantau,IF,Erie,JUCO: Division 3,A,39,103,45,35,7,1,0,26,7,0.34,0.452,0.427,0.879,0,0,0.0,0,0,0,0,0,0.0,0,0
+Andrew Savage,C,Ventura College,California CC,A,36,136,28,39,7,0,0,23,5,0.287,0.414,0.338,0.752,0,0,0.0,0,0,0,0,0,0.0,0,0
 Andrew Yusypchuk,RHP,Chandler-Gilbert,JUCO: Division 2,A,13,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13,9,64.2,5,3,31,62,34,4.31,0,63
-Angus Adams,UTL,Elmira College,NCAA: Division 3,H,9,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
+Angus Adams,UTL,Elmira College,NCAA: Division 3,H,10,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
 Anthony Porcellato,,Douglas,NW Athletic Conference,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,2,16.0,0,3,27,31,21,15.19,0,16
-Anthony Scali,INF,Siena Heights University,NAIA,A,16,7,3,1,1,0,0,2,0,0.143,0.333,0.286,0.619,1,0,0.0,0,0,0,0,0,0.0,0,0
+Anthony Scali,INF,Siena Heights University,NAIA,A,17,8,3,1,1,0,0,2,0,0.125,0.3,0.25,0.55,1,0,0.0,0,0,0,0,0,0.0,0,0
 Antoine Jean,LHP,University of Alabama,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,7,5,25.2,2,1,10,22,13,3.51,1,15
-Antoine Tremblay,OF,Mineral Area,JUCO: Division 1,A,37,119,27,38,8,0,0,23,7,0.319,0.453,0.387,0.84,0,0,0.0,0,0,0,0,0,0.0,0,0
+Antoine Tremblay,OF,Mineral Area,JUCO: Division 1,A,41,133,30,43,9,0,0,24,7,0.323,0.451,0.391,0.842,0,0,0.0,0,0,0,0,0,0.0,0,0
 Antonio Cruz,OF,Rice University,NCAA: Division 1,H,19,66,7,12,5,1,0,6,1,0.182,0.217,0.288,0.505,0,0,,0,0,0,0,0,,0,0
 Antony Gilbert,MIF,Northeastern Oklahoma A&M,JUCO: Division 1,A,25,79,27,25,5,0,2,15,9,0.316,0.466,0.456,0.922,0,0,0.0,0,0,0,0,0,0.0,0,0
-Archer Blumenschein,RHP,Western Nebraska,JUCO: Division 1,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,2,11.0,1,1,12,14,7,9.82,0,9
-Archer Brookman,C,The Ohio State University,NCAA: Division 1,H,27,88,21,25,3,0,2,11,1,0.284,0.373,0.386,0.759,0,0,,0,0,0,0,0,,0,0
-Ardan Berg,RHP,University of British Columbia,NAIA,A,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,0,4.0,1,0,0,4,3,0.0,0,6
+Archer Blumenschein,RHP,Western Nebraska,JUCO: Division 1,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,2,13.1,1,1,14,17,11,9.45,0,12
+Archer Brookman,C,The Ohio State University,NCAA: Division 1,H,30,95,21,26,4,0,2,12,1,0.274,0.36,0.379,0.739,0,0,,0,0,0,0,0,,0,0
+Ardan Berg,RHP,University of British Columbia,NAIA,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,0,4.2,1,0,0,5,3,0.0,0,6
 Aris Zimakas,LHP,Oakland University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,3,0,1.0,0,0,5,1,3,45.0,0,1
-Arlen Peters,RHP,Kansas City Kansas,JUCO: Division 1,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,9,34.0,4,2,21,35,19,5.56,0,36
-Ashton Finkbeiner,RHP,Lamar,JUCO_D1,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,0,15.1,0,2,23,24,13,13.5,0,14
-Ashton Roy,INF,Morehead State University,NCAA: Division 1,H,35,78,14,17,2,0,2,17,0,0.218,0.333,0.321,0.654,0,0,,0,0,0,0,0,,0,0
-Austin Gomm,SS,Parkland,JUCO: Division 2,A,31,88,22,19,5,0,0,12,7,0.216,0.378,0.273,0.651,0,0,0.0,0,0,0,0,0,0.0,0,0
-Austin Gurney,INF,Cochise,JUCO: Division 1,A,12,17,6,6,0,1,0,5,0,0.353,0.538,0.471,1.009,0,0,0.0,0,0,0,0,0,0.0,0,0
-Austin Skelhorn,RHP,Ottawa University,NAIA,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,0,5.2,0,0,5,9,3,7.94,0,8
+Arlen Peters,RHP,Kansas City Kansas,JUCO: Division 1,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,10,40.1,5,2,23,41,21,5.13,0,40
+Ashton Finkbeiner,RHP,Lamar,JUCO_D1,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,0,16.1,0,2,23,25,13,12.67,0,16
+Ashton Roy,INF,Morehead State University,NCAA: Division 1,H,36,81,15,18,2,0,2,18,0,0.222,0.333,0.321,0.654,0,0,,0,0,0,0,0,,0,0
+Austin Gomm,SS,Parkland,JUCO: Division 2,A,33,95,23,22,6,0,1,14,8,0.232,0.392,0.326,0.718,0,0,0.0,0,0,0,0,0,0.0,0,0
+Austin Gurney,INF,Cochise,JUCO: Division 1,A,13,18,6,7,0,1,0,6,0,0.389,0.556,0.5,1.056,0,0,0.0,0,0,0,0,0,0.0,0,0
+Austin Skelhorn,RHP,Ottawa University,NAIA,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,0,7.1,0,0,6,11,6,7.36,0,10
 Austin Sykes,LHP,Roane State,JUCO: Division 1,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,7,32.0,0,3,30,51,13,8.44,1,32
-Austin Wheeler,OF,Graceland University,NAIA,A,32,88,10,29,4,0,2,16,4,0.33,0.368,0.443,0.811,0,0,0.0,0,0,0,0,0,0.0,0,0
-Avery Kirkup,C/1B/P,Barstow College,California CC,A,32,101,13,27,2,2,0,12,1,0.267,0.398,0.327,0.725,1,1,3.0,0,0,3,5,2,9.0,0,1
-Ayden Makarus,OF,Bossier Parish,JUCO: Division 1,A,42,147,33,39,6,1,6,32,5,0.265,0.357,0.442,0.799,0,0,0.0,0,0,0,0,0,0.0,0,0
-Ayden Wood,LHP/OF,Southeastern,JUCO: Division 2,A,13,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13,0,10.1,0,1,4,5,4,3.48,0,12
+Austin Wheeler,OF,Graceland University,NAIA,A,35,98,10,32,5,0,2,17,4,0.327,0.362,0.439,0.801,0,0,0.0,0,0,0,0,0,0.0,0,0
+Avery Kirkup,C/1B/P,Barstow College,California CC,A,36,111,14,29,2,3,0,15,1,0.261,0.393,0.333,0.726,1,1,3.0,0,0,3,5,2,9.0,0,1
+Ayden Makarus,OF,Bossier Parish,JUCO: Division 1,A,44,151,33,39,6,1,6,32,5,0.258,0.349,0.43,0.779,0,0,0.0,0,0,0,0,0,0.0,0,0
+Ayden Wood,LHP/OF,Southeastern,JUCO: Division 2,A,15,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,15,0,12.0,0,1,5,5,4,3.75,0,14
 Bailey Coish,OF,Frank Phillips,JUCO: Division 1,A,18,49,6,10,4,0,0,6,3,0.204,0.361,0.286,0.647,0,0,0.0,0,0,0,0,0,0.0,0,0
 Bauer Sewell,IF,University of Jamestown,NAIA,A,5,8,0,1,0,0,0,2,0,0.125,0.222,0.125,0.347,0,0,0.0,0,0,0,0,0,0.0,0,0
-Ben Abram,RHP,University of Oklahoma,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,14,0,13.1,1,0,14,20,4,9.45,0,6
-Ben Adams,LHP,St. John's University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,14,3,32.0,1,3,31,47,18,8.72,0,20
-Ben Columbus,C,Wharton County,JUCO: Division 1,A,52,175,63,65,18,2,9,54,17,0.371,0.493,0.651,1.144,0,0,0.0,0,0,0,0,0,0.0,0,0
-Ben Erwin,RHP,Niagara University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,15,0,10.1,1,0,6,23,5,5.23,1,10
-Ben Hubert,RHP,Kellogg,JUCO: Division 2,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,0,16.1,3,1,13,22,9,7.16,0,14
-Ben Hul,OF,Williston State,JUCO: Division 2,A,12,29,11,12,1,1,0,15,2,0.414,0.486,0.517,1.003,0,0,0.0,0,0,0,0,0,0.0,0,0
-Ben Jones,IF,University of Dayton,NCAA: Division 1,H,33,128,21,35,6,0,0,22,6,0.273,0.397,0.32,0.717,0,0,,0,0,0,0,0,,0,0
-Ben Prediger,C,University of Mary,NCAA: Division 2,H,21,51,11,16,2,0,2,10,0,0.314,0.435,0.471,0.906,0,0,,0,0,0,0,0,,0,0
-Ben Roberts,RHP,"University of South Carolina, Upstate",NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,7,0,8.0,0,0,8,8,5,9.0,0,9
+Ben Abram,RHP,University of Oklahoma,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,16,0,17.1,1,0,18,27,5,9.35,0,10
+Ben Adams,LHP,St. John's University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,16,4,36.2,1,3,33,52,19,8.1,0,24
+Ben Columbus,C,Wharton County,JUCO: Division 1,A,55,183,64,67,19,2,9,55,18,0.366,0.487,0.639,1.126,0,0,0.0,0,0,0,0,0,0.0,0,0
+Ben Erwin,RHP,Niagara University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,17,0,11.2,1,0,9,26,7,6.94,2,12
+Ben Hubert,RHP,Kellogg,JUCO: Division 2,A,13,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,0,7.0,1,1,7,12,2,9.0,0,6
+Ben Hul,OF,Williston State,JUCO: Division 2,A,15,32,13,12,1,1,0,15,2,0.375,0.523,0.469,0.992,0,0,0.0,0,0,0,0,0,0.0,0,0
+Ben Jones,IF,University of Dayton,NCAA: Division 1,H,34,131,22,36,6,0,1,23,6,0.275,0.396,0.344,0.74,0,0,,0,0,0,0,0,,0,0
+Ben Prediger,C,University of Mary,NCAA: Division 2,H,23,58,12,17,2,0,2,10,0,0.293,0.423,0.431,0.854,0,0,,0,0,0,0,0,,0,0
+Ben Roberts,RHP,"University of South Carolina, Upstate",NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,8,0,9.2,0,0,8,8,5,7.45,0,13
 Ben Salazar,C,Frontier,JUCO: Division 1,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0
-Ben Sitarenios,RHP/OF,Salem University,NCAA: Division 2,H,16,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
-Ben Sitarenios,RHP/OF,Salem University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,16,0,20.0,2,3,17,22,16,7.65,1,16
+Ben Sitarenios,RHP/OF,Salem University,NCAA: Division 2,H,17,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
+Ben Sitarenios,RHP/OF,Salem University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,17,0,22.0,2,3,17,23,17,6.95,1,18
 Ben Sterrit,OF,Lakeland,JUCO: Division 2,A,12,36,4,7,1,0,1,6,0,0.194,0.37,0.306,0.676,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0
-Benjamen Bartholomew,OF,Knox College,NCAA: Division 3,H,10,13,2,1,0,0,0,0,1,0.077,0.2,0.077,0.277,0,0,,0,0,0,0,0,,0,0
-Benjamin Marsh,LHP,State University of New York at Oneonta,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,2,0,2.0,0,0,4,5,2,18.0,0,2
+Benjamen Bartholomew,OF,Knox College,NCAA: Division 3,H,11,13,2,1,0,0,0,0,2,0.077,0.2,0.077,0.277,0,0,,0,0,0,0,0,,0,0
+Benjamin Marsh,LHP,State University of New York at Oneonta,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,3,0,4.0,1,0,5,7,5,11.25,0,3
 Billy Patmore,,Dakota,JUCO: Division 2,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
+Blake Gallagher,RHP/INF,Minot State University,NCAA: Division 2,H,41,141,34,42,8,0,5,29,2,0.298,0.383,0.461,0.844,0,0,,0,0,0,0,0,,0,0
 Blake Gallagher,RHP/INF,Minot State University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,4,4,12.0,0,0,12,17,2,9.0,0,15
-Blake Gallagher,RHP/INF,Minot State University,NCAA: Division 2,H,39,135,32,41,8,0,5,29,1,0.304,0.384,0.474,0.858,0,0,,0,0,0,0,0,,0,0
-Blake Harsulla,OF,Colby,JUCO: Division 1,A,12,34,7,7,2,0,1,11,1,0.206,0.289,0.353,0.642,0,0,0.0,0,0,0,0,0,0.0,0,0
+Blake Harsulla,OF,Colby,JUCO: Division 1,A,13,36,7,7,2,0,1,11,1,0.194,0.293,0.333,0.626,0,0,0.0,0,0,0,0,0,0.0,0,0
 Blake Jacklin,OF,Davenport University,NCAA: Division 2,H,15,15,1,2,0,0,0,4,0,0.133,0.222,0.133,0.355,0,0,,0,0,0,0,0,,0,0
-Blake MacMillan,LHP,Niagara University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,10,7,23.2,0,2,23,27,20,8.75,0,29
-Blake Nelson,,Douglas,NW Athletic Conference,A,12,30,4,3,0,0,0,3,0,0.1,0.282,0.1,0.382,1,0,0.0,0,0,4,0,4,inf,0,0
+Blake MacMillan,LHP,Niagara University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,11,8,26.0,0,2,27,30,23,9.35,0,30
+Blake Nelson,,Douglas,NW Athletic Conference,A,14,37,5,6,2,0,0,3,0,0.162,0.319,0.216,0.535,1,0,0.0,0,0,4,0,4,inf,0,0
 Blake Pongracz,LHP,Pratt,JUCO: Division 1,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Braden Babcock,LHP,Washburn University of Topeka,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,5,0,8.0,0,0,2,7,3,2.25,0,9
-Braden Halladay,RHP,Tallahassee,JUCO: Division 1,A,14,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,14,10,40.1,3,3,24,46,10,5.36,0,30
+Braden Babcock,LHP,Washburn University of Topeka,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,6,0,8.1,0,0,5,8,5,5.4,0,9
+Braden Halladay,RHP,Tallahassee,JUCO: Division 1,A,15,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,15,10,41.0,3,3,24,47,11,5.27,0,30
 Braden Perozny,,Douglas,NW Athletic Conference,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Brady Kobitowich,RHP,Cloud County,JUCO: Division 1,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,1,11.2,1,0,10,14,6,7.71,0,16
+Brady Kobitowich,RHP,Cloud County,JUCO: Division 1,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,1,13.2,1,0,11,16,6,7.24,0,18
 Brady Renneberg,OF/RHP,Mineral Area,JUCO: Division 1,A,12,18,3,2,1,0,0,2,1,0.111,0.32,0.167,0.487,0,0,0.0,0,0,0,0,0,0.0,0,0
-Brady Sandes,RHP/INF,Simpson University,NAIA,A,8,14,2,3,0,0,0,0,1,0.214,0.353,0.214,0.567,1,0,1.2,0,0,2,4,2,10.8,0,1
-Braeden MacDonald,OF,Kankakee,JUCO: Division 2,A,38,91,27,21,7,0,2,26,4,0.231,0.442,0.374,0.816,0,0,0.0,0,0,0,0,0,0.0,0,0
+Brady Sandes,RHP/INF,Simpson University,NAIA,A,9,15,2,3,0,0,0,0,1,0.2,0.368,0.2,0.568,1,0,1.2,0,0,2,4,2,10.8,0,1
+Braeden MacDonald,OF,Kankakee,JUCO: Division 2,A,43,104,34,27,10,1,4,32,5,0.26,0.455,0.49,0.945,0,0,0.0,0,0,0,0,0,0.0,0,0
 Branden Hatley,LHP,Minot State University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,7,0,12.1,1,2,6,9,0,4.38,0,12
-Branden Woods,LHP,University of British Columbia,NAIA,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,4,51.2,3,0,23,57,9,4.01,0,45
-Brando Leroux,IF,Chipola,JUCO: Division 1,A,33,89,13,23,1,0,0,13,2,0.258,0.346,0.27,0.616,0,0,0.0,0,0,0,0,0,0.0,0,0
+Branden Woods,LHP,University of British Columbia,NAIA,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,5,59.1,4,0,24,63,12,3.64,0,47
+Brando Leroux,IF,Chipola,JUCO: Division 1,A,34,92,14,24,1,0,0,14,3,0.261,0.352,0.272,0.624,0,0,0.0,0,0,0,0,0,0.0,0,0
 Brandon Billesberger,OF,Limestone University,NCAA: Division 2,H,30,114,14,38,11,0,2,8,7,0.333,0.384,0.482,0.866,0,0,,0,0,0,0,0,,0,0
-Brandon Clarke,RHP,Indiana University Kokomo,NAIA,A,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,0,2.2,0,0,2,3,6,6.75,0,5
+Brandon Clarke,RHP,Indiana University Kokomo,NAIA,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,0,3.2,0,0,2,4,8,4.91,0,5
 Brandon Deans,RHP,Oakland University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,6,0,5.1,0,0,8,6,9,13.5,0,7
-Brandon Hupe,OF,University of British Columbia,NAIA,A,35,134,31,39,9,0,10,34,4,0.291,0.398,0.582,0.98,0,0,0.0,0,0,0,0,0,0.0,0,0
-Brandon Job,INF,Hilbert College,NCAA: Division 3,H,13,22,3,6,2,0,0,5,0,0.273,0.36,0.364,0.724,0,0,,0,0,0,0,0,,0,0
-Brandon Nicoll,INF,Southern Arkansas University,NCAA: Division 2,H,44,190,54,63,19,1,10,56,5,0.332,0.398,0.6,0.998,0,0,,0,0,0,0,0,,0,0
+Brandon Hupe,OF,University of British Columbia,NAIA,A,39,149,33,41,11,0,10,35,4,0.275,0.375,0.55,0.925,0,0,0.0,0,0,0,0,0,0.0,0,0
+Brandon Job,INF,Hilbert College,NCAA: Division 3,H,16,29,3,6,2,0,0,5,0,0.207,0.281,0.276,0.557,0,0,,0,0,0,0,0,,0,0
+Brandon Nicoll,INF,Southern Arkansas University,NCAA: Division 2,H,47,200,56,65,19,1,10,58,5,0.325,0.392,0.58,0.972,0,0,,0,0,0,0,0,,0,0
 Brantt Wood,IF,Mayville State University,NAIA,A,8,11,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
 Brayden Ingogolia,MIF,Salem University,NCAA: Division 2,H,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
-Brayden Mayencourt,INF,Columbia Basin,NW Athletic Conference,A,29,77,16,23,5,0,1,16,4,0.299,0.433,0.403,0.836,0,0,0.0,0,0,0,0,0,0.0,0,0
-Braydon Cust,OF,Colby,JUCO: Division 1,A,37,118,31,35,12,0,4,21,3,0.297,0.399,0.5,0.899,8,3,18.1,0,0,5,11,11,2.45,0,24
-Brendon Daley,CINF,Patrick Henry,JUCO: Division 2,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Brett Bantle,OF,Dickinson State University,NAIA,A,4,6,1,2,1,0,0,1,0,0.333,0.333,0.5,0.833,0,0,0.0,0,0,0,0,0,0.0,0,0
-Brett Corbeth,C,University of British Columbia,NAIA,A,33,69,13,22,0,1,3,12,6,0.319,0.338,0.478,0.816,13,7,50.1,2,5,32,53,27,5.72,0,33
+Brayden Mayencourt,INF,Columbia Basin,NW Athletic Conference,A,30,81,16,23,5,0,1,16,4,0.284,0.416,0.383,0.799,0,0,0.0,0,0,0,0,0,0.0,0,0
+Braydon Cust,OF,Colby,JUCO: Division 1,A,42,131,34,41,13,0,5,23,3,0.313,0.408,0.527,0.935,9,4,22.1,1,0,10,18,14,4.03,0,25
+Brendon Daley,CINF,Patrick Henry,JUCO: Division 2,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0
+Brett Bantle,OF,Dickinson State University,NAIA,A,6,10,1,3,1,0,0,1,0,0.3,0.3,0.4,0.7,0,0,0.0,0,0,0,0,0,0.0,0,0
+Brett Corbeth,C,University of British Columbia,NAIA,A,37,81,15,26,1,1,4,16,6,0.321,0.337,0.506,0.843,14,8,52.2,2,5,37,58,30,6.32,0,34
 Brett Kleisinger,RHP,West Valley College,California CC,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,0,10.0,0,0,3,8,7,2.7,0,11
-Brett Porter,OF,Clarkson University,NCAA: Division 3,H,4,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
-Brian Zapp,INF,"Miami University, Ohio",NCAA: Division 1,H,36,117,22,29,6,1,3,17,16,0.248,0.345,0.393,0.738,0,0,,0,0,0,0,0,,0,0
+Brett Porter,OF,Clarkson University,NCAA: Division 3,H,5,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
+Brian Zapp,INF,"Miami University, Ohio",NCAA: Division 1,H,40,133,23,30,7,1,3,17,16,0.226,0.316,0.361,0.677,0,0,,0,0,0,0,0,,0,0
 Brock Alexander,,Dakota,JUCO: Division 2,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Brodie Guenther,RHP/SS,Shoreline,NW Athletic Conference,A,16,39,8,11,0,1,0,5,7,0.282,0.412,0.333,0.745,1,0,1.0,0,0,4,3,2,36.0,0,0
+Brodie Guenther,RHP/SS,Shoreline,NW Athletic Conference,A,16,39,8,10,0,1,0,5,7,0.256,0.392,0.308,0.7,1,0,1.0,0,0,4,3,2,36.0,0,0
 Brodie Mackay,INF,Western Kentucky University,NCAA: Division 1,H,17,36,3,6,0,0,0,3,0,0.167,0.279,0.167,0.446,0,0,,0,0,0,0,0,,0,0
-Brody Black,OF,Frontier,JUCO: Division 1,A,31,95,18,28,3,2,1,12,4,0.295,0.364,0.4,0.764,0,0,0.0,0,0,0,0,0,0.0,0,0
-Brody Forno,RHP,Williston State,JUCO: Division 2,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,1,36.2,3,0,28,45,14,6.87,0,43
-Brogan McDougall,RHP,William Jewell College,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,12,0,19.2,2,1,25,33,9,11.44,0,16
+Brody Black,OF,Frontier,JUCO: Division 1,A,32,97,18,28,3,2,1,12,4,0.289,0.364,0.392,0.756,0,0,0.0,0,0,0,0,0,0.0,0,0
+Brody Forno,RHP,Williston State,JUCO: Division 2,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,1,40.2,3,1,37,53,16,8.19,0,47
+Brogan McDougall,RHP,William Jewell College,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,13,0,22.2,2,1,26,36,9,10.32,0,21
 Bryce Arnold,INF,Campbell University,NCAA: Division 1,H,21,69,19,15,2,1,5,12,3,0.217,0.357,0.493,0.85,0,0,,0,0,0,0,0,,0,0
 Bryce Gordon,,Douglas,NW Athletic Conference,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Bryn Biemiller,RHP,Lourdes University,NAIA,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,5,23.2,0,2,20,31,11,7.61,0,22
-CJ Maury,2B/SS,Wayne State University,NCAA: Division 2,H,30,64,9,16,3,1,0,14,6,0.25,0.304,0.328,0.632,0,0,,0,0,0,0,0,,0,0
-Cade Webber,RHP,McCook,JUCO: Division 1,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,4,34.1,3,2,23,25,35,6.03,0,52
-Caden Griffin,LHP,Bossier Parish,JUCO: Division 1,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,11,39.0,5,1,33,53,14,7.62,0,28
-Caden Shapiro,OF,Princeton University,NCAA: Division 1,H,24,47,8,12,1,0,0,3,1,0.255,0.379,0.277,0.656,0,0,,0,0,0,0,0,,0,0
-Caden Turnbull,OF,Harper,JUCO: Division 3,A,8,22,5,5,1,0,1,2,1,0.227,0.32,0.409,0.729,0,0,0.0,0,0,0,0,0,0.0,0,0
-Caelan Cunningham,OF,Lourdes University,NAIA,A,19,40,5,10,2,1,1,7,0,0.25,0.4,0.425,0.825,0,0,0.0,0,0,0,0,0,0.0,0,0
-Caelan Dalman,INF,Allan Hancock College,California CC,A,22,54,12,16,5,0,0,10,5,0.296,0.433,0.389,0.822,0,0,0.0,0,0,0,0,0,0.0,0,0
-Cal Brazier,INF,Tiffin University,NCAA: Division 2,H,33,104,28,30,7,0,9,30,0,0.288,0.388,0.615,1.003,0,0,,0,0,0,0,0,,0,0
+Bryn Biemiller,RHP,Lourdes University,NAIA,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,5,24.1,0,2,20,32,12,7.4,0,22
+CJ Maury,2B/SS,Wayne State University,NCAA: Division 2,H,35,75,14,19,3,1,0,17,8,0.253,0.317,0.32,0.637,0,0,,0,0,0,0,0,,0,0
+Cade Webber,RHP,McCook,JUCO: Division 1,A,15,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,15,6,38.1,3,3,30,32,40,7.04,0,56
+Caden Griffin,LHP,Bossier Parish,JUCO: Division 1,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,12,45.0,6,1,33,55,14,6.6,0,36
+Caden Shapiro,OF,Princeton University,NCAA: Division 1,H,27,52,9,13,1,0,0,3,1,0.25,0.365,0.269,0.634,0,0,,0,0,0,0,0,,0,0
+Caden Turnbull,OF,Harper,JUCO: Division 3,A,9,24,5,6,1,0,1,2,1,0.25,0.357,0.417,0.774,0,0,0.0,0,0,0,0,0,0.0,0,0
+Caelan Cunningham,OF,Lourdes University,NAIA,A,21,47,5,12,3,1,1,9,0,0.255,0.397,0.426,0.823,0,0,0.0,0,0,0,0,0,0.0,0,0
+Caelan Dalman,INF,Allan Hancock College,California CC,A,23,57,12,16,5,0,0,11,5,0.281,0.431,0.368,0.799,0,0,0.0,0,0,0,0,0,0.0,0,0
+Cal Brazier,INF,Tiffin University,NCAA: Division 2,H,37,119,30,35,8,0,9,34,0,0.294,0.387,0.588,0.975,0,0,,0,0,0,0,0,,0,0
 Cal Theal,RHP,Niagara University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,,,,0,0
 Calder Eagleton,IF,Bismarck State,JUCO: Division 2,A,6,6,2,3,1,0,0,2,0,0.5,0.5,0.667,1.167,0,0,0.0,0,0,0,0,0,0.0,0,0
-Caleb Cassie,RHP,Howard (TX),JUCO: Division 1,A,9,2,1,1,0,0,1,1,0,0.5,0.5,2.0,2.5,8,3,14.0,0,0,16,23,8,10.29,0,16
-Caleb Feuerstake,OF,McPherson College,NAIA,A,45,167,61,65,7,4,6,40,22,0.389,0.472,0.587,1.059,0,0,0.0,0,0,0,0,0,0.0,0,0
-Caleb McCloskey,RHP,Mohawk Valley,JUCO: Division 3,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,0,2.2,0,0,5,6,3,16.88,0,3
-Cameron Sanderson,IF,University of British Columbia,NAIA,A,41,125,29,32,6,1,1,12,13,0.256,0.336,0.344,0.68,3,0,2.2,0,0,0,2,1,0.0,0,2
-Campbell Ellis,LHP,Virginia Commonwealth University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,14,14,46.2,1,4,19,41,13,3.66,0,42
-Campbell Lyons,RHP,Dawson,JUCO: Division 2,A,2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,0,1.1,0,0,3,0,2,20.25,0,4
-Carlin Dick,OF,Canisius College,NCAA: Division 1,H,31,101,15,19,8,0,0,10,1,0.188,0.314,0.267,0.581,0,0,,0,0,0,0,0,,0,0
+Caleb Cassie,RHP,Howard (TX),JUCO: Division 1,A,10,2,1,1,0,0,1,1,0,0.5,0.5,2.0,2.5,8,3,14.0,0,0,16,23,8,10.29,0,16
+Caleb Feuerstake,OF,McPherson College,NAIA,A,48,179,67,70,8,4,7,43,23,0.391,0.474,0.598,1.072,0,0,0.0,0,0,0,0,0,0.0,0,0
+Caleb McCloskey,RHP,Mohawk Valley,JUCO: Division 3,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,0,4.2,0,1,9,9,4,17.36,0,6
+Cameron Bagliolid,UTL,Mercyhurst University,NCAA: Division 2,H,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
+Cameron Sanderson,IF,University of British Columbia,NAIA,A,44,130,29,32,6,1,1,12,13,0.246,0.325,0.331,0.656,3,0,2.2,0,0,0,2,1,0.0,0,2
+Campbell Ellis,LHP,Virginia Commonwealth University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,15,15,50.0,1,4,20,47,14,3.6,0,46
+Campbell Lyons,RHP,Dawson,JUCO: Division 2,A,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,0,5.2,0,0,5,1,6,7.94,0,8
+Carlin Dick,OF,Canisius College,NCAA: Division 1,H,34,109,21,23,8,0,1,13,1,0.211,0.353,0.312,0.665,0,0,,0,0,0,0,0,,0,0
 Carson Barker,INF,Lourdes University,NAIA,A,13,31,4,4,0,0,1,4,0,0.129,0.171,0.226,0.397,0,0,0.0,0,0,0,0,0,0.0,0,0
-Carter Arbuthnot,1B,Niagara County,JUCO: Division 3,A,28,65,21,27,5,0,3,25,5,0.415,0.525,0.631,1.156,0,0,0.0,0,0,0,0,0,0.0,0,0
+Carter Arbuthnot,1B,Niagara County,JUCO: Division 3,A,32,75,24,30,5,0,3,29,5,0.4,0.521,0.587,1.108,0,0,0.0,0,0,0,0,0,0.0,0,0
 Carter Johnson,OF,Douglas,NW Athletic Conference,A,6,12,1,0,0,0,0,0,0,0.0,0.143,0.0,0.143,0,0,0.0,0,0,0,0,0,0.0,0,0
 Carter Roth,IF,Colby,JUCO: Division 1,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Carter Scott,,Dakota,JUCO: Division 2,A,6,8,0,0,0,0,0,1,0,0.0,0.111,0.0,0.111,2,0,2.1,0,0,5,7,3,19.29,0,2
+Carter Scott,,Dakota,JUCO: Division 2,A,6,11,3,3,0,0,0,3,0,0.273,0.385,0.273,0.658,2,0,2.1,0,0,5,7,3,19.29,0,2
 Carter Seabrooke,LHP,Howard (TX),JUCO: Division 1,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,0,9.0,1,1,13,12,15,13.0,0,14
-Carter Toffan,C/OF,Jefferson (NY),JUCO: Division 3,A,6,12,1,2,0,0,0,0,0,0.167,0.167,0.167,0.334,0,0,0.0,0,0,0,0,0,0.0,0,0
-Carter Whitehead,IF,Erie,JUCO: Division 3,A,35,103,42,42,4,2,3,32,5,0.408,0.541,0.573,1.114,0,0,0.0,0,0,0,0,0,0.0,0,0
-Cassidy Watt,C,Colorado Northwestern,JUCO: Division 1,A,38,111,16,31,5,0,0,16,2,0.279,0.396,0.324,0.72,0,0,0.0,0,0,0,0,0,0.0,0,0
+Carter Toffan,C/OF,Jefferson (NY),JUCO: Division 3,A,9,15,2,3,0,0,0,1,0,0.2,0.294,0.2,0.494,1,0,1.0,0,0,4,5,0,36.0,0,0
+Carter Whitehead,IF,Erie,JUCO: Division 3,A,41,122,50,47,5,4,3,35,5,0.385,0.528,0.566,1.094,0,0,0.0,0,0,0,0,0,0.0,0,0
+Cassidy Watt,C,Colorado Northwestern,JUCO: Division 1,A,41,118,16,31,5,0,0,16,2,0.263,0.38,0.305,0.685,0,0,0.0,0,0,0,0,0,0.0,0,0
 Cater Johnson,,Douglas,NW Athletic Conference,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0
-Cedric De Grandpre,RHP,Chipola,JUCO: Division 1,A,15,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,15,12,60.0,7,3,19,43,19,2.85,0,72
-Cedrik Beaudry,INF,Clarendon,JUCO: Division 1,A,43,129,25,25,3,3,2,18,1,0.194,0.342,0.31,0.652,0,0,0.0,0,0,0,0,0,0.0,0,0
-Cesar Valero,OF,Sacramento State University,NCAA: Division 1,H,38,150,35,45,7,1,13,38,1,0.3,0.359,0.62,0.979,0,0,,0,0,0,0,0,,0,0
+Cedric De Grandpre,RHP,Chipola,JUCO: Division 1,A,16,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,16,12,62.1,7,3,20,45,20,2.89,0,77
+Cedrik Beaudry,INF,Clarendon,JUCO: Division 1,A,46,136,26,26,3,3,2,18,1,0.191,0.341,0.301,0.642,0,0,0.0,0,0,0,0,0,0.0,0,0
+Cesar Valero,OF,Sacramento State University,NCAA: Division 1,H,39,155,36,46,7,1,13,38,1,0.297,0.355,0.606,0.961,0,0,,0,0,0,0,0,,0,0
 Chad Picton,INF,Tennessee Wesleyan University,NAIA,A,30,37,14,10,0,0,4,11,1,0.27,0.462,0.595,1.057,0,0,0.0,0,0,0,0,0,0.0,0,0
 Charles Lefebvre,RHP,Saint Leo University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,5,4,20.1,3,0,8,17,7,3.54,0,9
-Chas Wheatley,RHP,University of Iowa,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,5,0,5.1,1,0,2,5,3,3.38,0,3
+Chas Wheatley,RHP,University of Iowa,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,7,0,9.0,1,0,3,7,4,3.0,0,6
 Chris Pouliot,LHP,Canisius College,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,9,9,40.2,6,2,22,41,20,4.87,0,44
+Chris Stefan,OF/RHP,D'Youville College,NCAA: Division 2,H,24,59,12,11,2,0,1,4,1,0.186,0.324,0.271,0.595,0,0,,0,0,0,0,0,,0,0
 Chris Stefan,OF/RHP,D'Youville College,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,,,,0,0
-Chris Stefan,OF/RHP,D'Youville College,NCAA: Division 2,H,19,43,11,10,2,0,1,4,1,0.233,0.377,0.349,0.726,0,0,,0,0,0,0,0,,0,0
-Chris Tani,OF,Niagara County,JUCO: Division 3,A,36,96,41,37,7,2,2,36,25,0.385,0.482,0.563,1.045,0,0,0.0,0,0,0,0,0,0.0,0,0
-Chris Watson,IF,St. Lawrence University,NCAA: Division 3,H,27,82,18,24,4,0,0,12,6,0.293,0.448,0.341,0.789,0,0,,0,0,0,0,0,,0,0
-Christian Coombes,LHP,Saint Peter's University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,12,0,9.2,0,0,23,20,20,21.41,0,15
-Chryz Gelacio,OF,Western Tech,JUCO: Division 3,A,7,8,2,2,0,0,0,0,1,0.25,0.25,0.25,0.5,0,0,0.0,0,0,0,0,0,0.0,0,0
-Clayton Keyes,OF,Southeastern University,NAIA,A,32,56,16,9,2,0,1,7,10,0.161,0.412,0.25,0.662,0,0,0.0,0,0,0,0,0,0.0,0,0
-Clayton Loranger,OF,Stephen F. Austin State University,NCAA: Division 1,H,29,91,13,22,3,0,2,9,4,0.242,0.29,0.341,0.631,0,0,,0,0,0,0,0,,0,0
-Cleary Simpson,IF,Colby,JUCO: Division 1,A,39,129,51,51,17,0,5,29,2,0.395,0.53,0.643,1.173,0,0,0.0,0,0,0,0,0,0.0,0,0
-Cody Greenfield,C,Lake Erie College,NCAA: Division 2,H,11,24,5,3,2,0,0,4,0,0.125,0.3,0.208,0.508,0,0,,0,0,0,0,0,,0,0
-Cody Hendriks,IF,"California State University, Bakersfield",NCAA: Division 1,H,3,11,0,3,0,0,0,1,0,0.273,0.333,0.273,0.606,0,0,,0,0,0,0,0,,0,0
-Cohen Achen,RHP,Lindsey Wilson College,NAIA,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,11,62.1,7,3,25,66,18,3.61,0,74
-Colbey Klepper,RHP,Presbyterian College,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,9,5,22.1,0,5,18,19,18,7.25,0,24
-Colby Ring,LHP,University of Antelope Valley,NAIA,A,13,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13,2,34.2,2,0,20,32,21,5.19,0,35
+Chris Tani,OF,Niagara County,JUCO: Division 3,A,40,104,44,42,7,3,3,43,29,0.404,0.504,0.615,1.119,0,0,0.0,0,0,0,0,0,0.0,0,0
+Chris Watson,IF,St. Lawrence University,NCAA: Division 3,H,32,101,26,31,6,0,0,16,8,0.307,0.445,0.366,0.811,0,0,,0,0,0,0,0,,0,0
+Christian Coombes,LHP,Saint Peter's University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,14,0,14.0,0,0,25,23,24,16.07,0,23
+Chryz Gelacio,OF,Western Tech,JUCO: Division 3,A,8,8,3,2,0,0,0,0,1,0.25,0.25,0.25,0.5,0,0,0.0,0,0,0,0,0,0.0,0,0
+Clayton Keyes,OF,Southeastern University,NAIA,A,34,57,17,10,2,0,1,7,10,0.175,0.42,0.263,0.683,0,0,0.0,0,0,0,0,0,0.0,0,0
+Clayton Loranger,OF,Stephen F. Austin State University,NCAA: Division 1,H,32,103,14,27,4,0,2,9,5,0.262,0.304,0.359,0.663,0,0,,0,0,0,0,0,,0,0
+Cleary Simpson,IF,Colby,JUCO: Division 1,A,44,146,56,56,18,0,5,32,3,0.384,0.521,0.61,1.131,0,0,0.0,0,0,0,0,0,0.0,0,0
+Cody Greenfield,C,Lake Erie College,NCAA: Division 2,H,17,41,5,5,2,0,0,7,0,0.122,0.265,0.171,0.436,0,0,,0,0,0,0,0,,0,0
+Cody Hendriks,IF,"California State University, Bakersfield",NCAA: Division 1,H,5,19,3,6,2,0,0,1,0,0.316,0.35,0.421,0.771,0,0,,0,0,0,0,0,,0,0
+Cohen Achen,RHP,Lindsey Wilson College,NAIA,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,12,65.2,7,3,31,72,21,4.25,0,76
+Colbey Klepper,RHP,Presbyterian College,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,10,6,23.1,0,6,22,21,20,8.49,0,24
+Colby Ring,LHP,University of Antelope Valley,NAIA,A,14,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,14,2,36.0,2,0,24,34,24,6.0,0,35
 Cole Alguire,RHP,University of British Columbia,NAIA,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,5,22.1,1,2,21,32,12,8.46,0,20
 Cole Cote,,Bluefield State College,NCAA: Division 2,H,42,139,31,48,6,1,8,31,1,0.345,0.45,0.576,1.026,0,0,,0,0,0,0,0,,0,0
-Cole Murchison,1B,West Valley College,California CC,A,36,141,23,54,10,0,2,29,3,0.383,0.466,0.496,0.962,0,0,0.0,0,0,0,0,0,0.0,0,0
-Cole Tucker,INF,Niagara University,NCAA: Division 1,H,34,124,10,32,9,0,0,11,3,0.258,0.34,0.331,0.671,0,0,,0,0,0,0,0,,0,0
-Cole Van Every,RHP,Southwest Baptist University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,6,3,9.1,0,1,12,14,7,11.57,0,16
-Cole Watson,C,Saint Peter's University,NCAA: Division 1,H,31,72,12,14,3,0,0,4,1,0.194,0.33,0.236,0.566,0,0,,0,0,0,0,0,,0,0
+Cole Murchison,1B,West Valley College,California CC,A,38,149,25,59,12,0,2,30,3,0.396,0.477,0.517,0.994,0,0,0.0,0,0,0,0,0,0.0,0,0
+Cole Tucker,INF,Niagara University,NCAA: Division 1,H,38,138,13,39,11,0,0,16,3,0.283,0.371,0.362,0.733,0,0,,0,0,0,0,0,,0,0
+Cole Van Every,RHP,Southwest Baptist University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,7,3,10.0,0,1,16,18,8,14.4,0,17
+Cole Watson,C,Saint Peter's University,NCAA: Division 1,H,32,75,15,14,3,0,0,5,1,0.187,0.34,0.227,0.567,0,0,,0,0,0,0,0,,0,0
 Colin Windle,RHP,Hilbert College,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,1,0,,0,0,4,0,3,,0,0
-Colton Fountain,C,Cleary University,NAIA,A,26,73,1,18,4,2,1,12,0,0.247,0.371,0.397,0.768,0,0,0.0,0,0,0,0,0,0.0,0,0
-Colton Schaper-Kotter,UTL,East Central University,NCAA: Division 2,H,39,122,21,35,6,0,1,16,1,0.287,0.421,0.361,0.782,0,0,,0,0,0,0,0,,0,0
-Colton Taylor,RHP,Texas A&M University-Kingsville,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,19,0,33.1,2,0,12,28,12,3.24,8,38
+Colton Fountain,C,Cleary University,NAIA,A,28,76,1,19,4,2,1,12,0,0.25,0.376,0.395,0.771,0,0,0.0,0,0,0,0,0,0.0,0,0
+Colton Schaper-Kotter,UTL,East Central University,NCAA: Division 2,H,43,132,21,36,6,0,1,16,1,0.273,0.401,0.341,0.742,0,0,,0,0,0,0,0,,0,0
+Colton Taylor,RHP,Texas A&M University-Kingsville,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,21,0,36.1,3,1,14,33,14,3.47,8,43
 Conall Sexton,LHP,San Diego Christian College,NAIA,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,3,8.0,0,2,5,8,4,5.63,0,7
 Connor Campbell,RHP,Pratt,JUCO: Division 1,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Connor Carr-Matthews,LHP,Wells College,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,11,5,24.0,1,2,27,36,39,10.12,0,16
-Connor Caskenette,C/OF,Cochise,JUCO: Division 1,A,51,188,29,69,18,1,5,45,3,0.367,0.432,0.553,0.985,0,0,0.0,0,0,0,0,0,0.0,0,0
-Connor Cory,P,Mayville State University,NAIA,A,14,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,14,1,40.1,3,1,11,35,7,2.45,1,29
-Connor Crowson,IF,Bossier Parish,JUCO: Division 1,A,47,166,42,53,11,0,3,40,5,0.319,0.425,0.44,0.865,0,0,0.0,0,0,0,0,0,0.0,0,0
+Connor Carr-Matthews,LHP,Wells College,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,12,5,25.2,1,2,27,39,39,9.47,0,17
+Connor Caskenette,C/OF,Cochise,JUCO: Division 1,A,55,203,30,72,19,1,5,47,4,0.355,0.415,0.532,0.947,0,0,0.0,0,0,0,0,0,0.0,0,0
+Connor Cory,P,Mayville State University,NAIA,A,15,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,15,1,42.2,3,1,13,38,8,2.74,1,31
+Connor Crowson,IF,Bossier Parish,JUCO: Division 1,A,51,181,45,60,12,0,3,44,5,0.331,0.433,0.448,0.881,0,0,0.0,0,0,0,0,0,0.0,0,0
 Connor Green,RHP,Minot State University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,,,,0,0
 Connor Hicks,C,Indiana State University,NCAA: Division 1,H,5,6,1,1,0,0,0,0,0,0.167,0.375,0.167,0.542,0,0,,0,0,0,0,0,,0,0
 Connor Hodge,LHP,Newberry College,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,8,0,6.0,0,0,6,7,9,9.0,0,6
-Connor Irvine,RHP,Lassen College,California CC,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,12,71.2,6,2,15,58,14,1.88,0,90
-Connor O'Halloran,LHP,University of Michigan,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,11,11,56.2,4,2,22,50,23,3.49,0,65
-Connor Theal,RHP,St. Louis,JUCO: Division 1,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,0,21.1,1,0,13,20,14,5.48,0,23
-Cooper Crompton,RHP,Iowa Western,JUCO: Division 1,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,2,23.1,3,0,3,10,11,1.16,0,34
-Cooper Tomkinson,IF,Dodge City,JUCO: Division 1,A,11,21,6,3,1,0,0,5,0,0.143,0.321,0.19,0.511,0,0,0.0,0,0,0,0,0,0.0,0,0
-Corben Peters,RHP,Grambling State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,11,1,14.1,1,3,13,18,11,8.16,0,25
-Core Jackson,INF,"University of Nebraska, Lincoln",NCAA: Division 1,H,31,82,11,18,5,1,1,13,3,0.22,0.293,0.341,0.634,0,0,,0,0,0,0,0,,0,0
-Cory Field,RHP,Mohawk Valley,JUCO: Division 3,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,0,15.2,1,1,7,15,5,4.02,2,16
-Craig Oliver,IF,D'Youville College,NCAA: Division 2,H,22,57,10,11,1,0,0,3,1,0.193,0.347,0.211,0.558,0,0,,0,0,0,0,0,,0,0
-Cristian Forgione,C/IN,St. Lawrence University,NCAA: Division 3,H,21,65,14,15,2,0,2,11,0,0.231,0.359,0.354,0.713,0,0,,0,0,0,0,0,,0,0
-Cristian Santarelli,,Douglas,NW Athletic Conference,A,13,37,1,9,1,0,0,4,0,0.243,0.349,0.27,0.619,0,0,0.0,0,0,0,0,0,0.0,0,0
-Dale Bratz,INF/C/RHP,Western Tech,JUCO: Division 3,A,30,59,12,16,3,0,1,7,3,0.271,0.366,0.373,0.739,7,0,11.1,1,0,6,12,5,4.76,1,7
-Daniel Carinci,INF,Marshall University,NCAA: Division 1,H,35,127,17,31,8,0,2,17,2,0.244,0.3,0.354,0.654,0,0,,0,0,0,0,0,,0,0
-Daniel Freeman,OF,Cornerstone University,NAIA,A,14,38,4,9,1,0,1,4,0,0.237,0.293,0.342,0.635,0,0,0.0,0,0,0,0,0,0.0,0,0
-Daniel Gernon,OF,Lower Columbia,NW Athletic Conference,A,33,114,25,25,4,3,1,22,6,0.219,0.35,0.333,0.683,0,0,0.0,0,0,0,0,0,0.0,0,0
-Daniel Lichty,3B,Huntington University,NAIA,A,40,161,45,55,16,4,5,36,13,0.342,0.425,0.584,1.009,0,0,0.0,0,0,0,0,0,0.0,0,0
+Connor Irvine,RHP,Lassen College,California CC,A,13,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13,13,77.1,6,2,17,66,15,1.98,0,97
+Connor O'Halloran,LHP,University of Michigan,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,12,12,62.0,4,3,29,59,25,4.21,0,72
+Connor Theal,RHP,St. Louis,JUCO: Division 1,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,0,22.1,1,1,14,21,14,5.64,0,23
+Cooper Crompton,RHP,Iowa Western,JUCO: Division 1,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,3,26.1,3,1,6,15,11,2.05,0,37
+Cooper Tomkinson,IF,Dodge City,JUCO: Division 1,A,13,26,8,5,1,0,0,5,1,0.192,0.389,0.231,0.62,0,0,0.0,0,0,0,0,0,0.0,0,0
+Corben Peters,RHP,Grambling State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,13,1,16.0,1,3,14,20,13,7.88,0,27
+Core Jackson,INF,"University of Nebraska, Lincoln",NCAA: Division 1,H,36,97,15,21,5,2,1,16,3,0.216,0.306,0.34,0.646,0,0,,0,0,0,0,0,,0,0
+Cory Field,RHP,Mohawk Valley,JUCO: Division 3,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,0,19.0,1,2,15,23,6,7.11,2,17
+Craig Oliver,IF,D'Youville College,NCAA: Division 2,H,26,69,12,16,1,0,1,8,2,0.232,0.36,0.29,0.65,0,0,,0,0,0,0,0,,0,0
+Cristian Forgione,C/IN,St. Lawrence University,NCAA: Division 3,H,25,80,18,17,2,0,3,14,1,0.212,0.337,0.35,0.687,0,0,,0,0,0,0,0,,0,0
+Cristian Santarelli,,Douglas,NW Athletic Conference,A,15,45,1,13,3,0,0,6,0,0.289,0.385,0.356,0.741,0,0,0.0,0,0,0,0,0,0.0,0,0
+Dale Bratz,INF/C/RHP,Western Tech,JUCO: Division 3,A,33,67,12,16,3,0,1,7,3,0.239,0.329,0.328,0.657,9,0,15.0,1,0,9,16,6,5.4,1,10
+Daniel Carinci,INF,Marshall University,NCAA: Division 1,H,38,137,19,33,8,0,2,19,2,0.241,0.296,0.343,0.639,0,0,,0,0,0,0,0,,0,0
+Daniel Freeman,OF,Cornerstone University,NAIA,A,15,43,5,11,1,0,1,6,0,0.256,0.304,0.349,0.653,0,0,0.0,0,0,0,0,0,0.0,0,0
+Daniel Gernon,OF,Lower Columbia,NW Athletic Conference,A,37,124,27,26,4,3,1,24,8,0.21,0.356,0.315,0.671,0,0,0.0,0,0,0,0,0,0.0,0,0
+Daniel Lichty,3B,Huntington University,NAIA,A,45,179,49,62,18,4,5,38,15,0.346,0.427,0.575,1.002,0,0,0.0,0,0,0,0,0,0.0,0,0
 Daniel Martin,OF,University of New Mexico,NCAA: Division 1,H,3,3,1,1,1,0,0,0,0,0.333,0.333,0.667,1.0,0,0,,0,0,0,0,0,,0,0
 Daniel Mercandelli,RHP,Lake Region State,JUCO: Division 2,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Daniel Simmonds,INF,Douglas,NW Athletic Conference,A,12,36,2,6,1,0,0,3,1,0.167,0.333,0.194,0.527,1,0,2.0,0,0,0,0,2,0.0,0,1
-Daniel Warkentin,IF,Eastern Michigan University,NCAA: Division 1,H,31,114,37,36,5,0,11,28,2,0.316,0.403,0.649,1.052,0,0,,0,0,0,0,0,,0,0
-Danny Donnelly,OF,Tiffin University,NCAA: Division 2,H,22,39,7,7,3,0,0,3,1,0.179,0.289,0.256,0.545,0,0,,0,0,0,0,0,,0,0
+Daniel Simmonds,INF,Douglas,NW Athletic Conference,A,14,42,2,8,1,0,0,3,1,0.19,0.358,0.214,0.572,1,0,2.0,0,0,0,0,2,0.0,0,1
+Daniel Warkentin,IF,Eastern Michigan University,NCAA: Division 1,H,36,132,41,41,5,0,14,33,2,0.311,0.397,0.667,1.064,0,0,,0,0,0,0,0,,0,0
+Danny Donnelly,OF,Tiffin University,NCAA: Division 2,H,24,42,8,9,3,0,0,3,1,0.214,0.312,0.286,0.598,0,0,,0,0,0,0,0,,0,0
 Darius Armorer,RHP/OF,Three Rivers,JUCO: Division 1,A,14,14,7,3,1,0,0,5,1,0.214,0.267,0.286,0.553,7,0,10.2,0,0,15,10,15,12.66,0,4
 Darius Opdem Bak,,Douglas,NW Athletic Conference,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0
 David Coleman,OF,High Point University,NCAA: Division 1,H,16,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
-David Draayers,INF,Northeastern,JUCO: Division 1,A,43,117,29,41,8,0,5,21,4,0.35,0.437,0.547,0.984,0,0,0.0,0,0,0,0,0,0.0,0,0
-David McCabe,INF,"University of North Carolina, Charlotte",NCAA: Division 1,H,23,73,20,25,6,0,4,15,3,0.342,0.5,0.589,1.089,0,0,,0,0,0,0,0,,0,0
-David Mendham,INF/C,Oklahoma State University,NCAA: Division 1,H,37,125,21,37,13,0,4,27,0,0.296,0.397,0.496,0.893,0,0,,0,0,0,0,0,,0,0
-Davis Fenske,RHP,Pratt,JUCO: Division 1,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,0,14.0,0,0,10,17,6,6.43,0,10
-Davis McMillan,OF,Houghton College,NCAA: Division 3,H,29,84,15,24,7,0,2,13,8,0.286,0.394,0.44,0.834,0,0,,0,0,0,0,0,,0,0
-Dawson Hurford,RHP,Western Nebraska,JUCO: Division 1,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,10,55.1,3,5,27,68,13,4.39,0,37
-Dawson Neal,C/1B,Missouri Valley College,NAIA,A,2,3,1,0,0,0,0,0,0,0.0,0.25,0.0,0.25,0,0,0.0,0,0,0,0,0,0.0,0,0
+David Draayers,INF,Northeastern,JUCO: Division 1,A,46,124,32,45,9,0,5,24,4,0.363,0.455,0.556,1.011,0,0,0.0,0,0,0,0,0,0.0,0,0
+David McCabe,INF,"University of North Carolina, Charlotte",NCAA: Division 1,H,28,95,32,37,9,0,10,33,3,0.389,0.532,0.8,1.332,0,0,,0,0,0,0,0,,0,0
+David Mendham,INF/C,Oklahoma State University,NCAA: Division 1,H,41,141,30,41,13,0,7,31,0,0.291,0.394,0.532,0.926,0,0,,0,0,0,0,0,,0,0
+Davis Fenske,RHP,Pratt,JUCO: Division 1,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,0,16.0,0,1,14,23,7,7.88,0,10
+Davis McMillan,OF,Houghton College,NCAA: Division 3,H,33,94,16,25,8,0,2,13,8,0.266,0.389,0.415,0.804,0,0,,0,0,0,0,0,,0,0
+Dawson Hurford,RHP,Western Nebraska,JUCO: Division 1,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,11,62.1,3,6,33,79,14,4.76,0,43
+Dawson Neal,C/1B,Missouri Valley College,NAIA,A,3,3,1,0,0,0,0,0,0,0.0,0.4,0.0,0.4,0,0,0.0,0,0,0,0,0,0.0,0,0
 Dawson Steele,INF,Lake Region State,JUCO: Division 2,A,10,24,6,5,1,0,0,1,0,0.208,0.345,0.25,0.595,0,0,0.0,0,0,0,0,0,0.0,0,0
-Dawson Tanner,"IF,RHP",South Suburban,JUCO: Division 1,A,30,105,34,40,9,3,3,29,0,0.381,0.511,0.61,1.121,4,1,8.0,2,0,0,2,1,0.0,1,16
-Dawson Tweet,2B/OF/C,Mesabi Range,JUCO: Division 3,A,24,76,20,36,9,2,4,20,6,0.474,0.582,0.803,1.385,1,0,0.0,0,0,0,0,0,0.0,0,0
+Dawson Tanner,"IF,RHP",South Suburban,JUCO: Division 1,A,35,125,40,50,10,3,4,41,0,0.4,0.509,0.624,1.133,5,1,9.0,2,0,1,4,1,1.0,1,17
+Dawson Tweet,2B/OF/C,Mesabi Range,JUCO: Division 3,A,28,87,21,39,10,2,5,25,7,0.448,0.559,0.782,1.341,1,0,0.0,0,0,0,0,0,0.0,0,0
 Deagen Morcom,OF,McCook,JUCO: Division 1,A,8,16,4,3,1,1,0,2,0,0.188,0.263,0.375,0.638,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0
-Declan Buckle,MIF,Minot State University,NCAA: Division 2,H,33,119,39,46,8,0,8,30,7,0.387,0.456,0.655,1.111,0,0,,0,0,0,0,0,,0,0
-Derek Palmiere,RHP,Williston State,JUCO: Division 2,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,0,16.0,2,0,10,14,13,5.63,0,20
-Deric LaMontagne,INF,Lamar University,NCAA: Division 1,H,25,55,8,13,2,2,1,10,0,0.236,0.333,0.4,0.733,0,0,,0,0,0,0,0,,0,0
-Devon Farrell,IF,Rockhurst University,NCAA: Division 2,H,36,90,19,26,5,1,0,7,1,0.289,0.4,0.367,0.767,0,0,,0,0,0,0,0,,0,0
-Diego Dominguez,RHP,Dodge City,JUCO: Division 1,A,13,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13,1,29.1,4,1,27,30,25,8.28,0,39
-Dion Wintjes,C,Marian University,NAIA,A,34,114,5,31,7,1,1,27,1,0.272,0.372,0.377,0.749,0,0,0.0,0,0,0,0,0,0.0,0,0
+Declan Buckle,MIF,Minot State University,NCAA: Division 2,H,36,132,41,50,9,0,8,33,8,0.379,0.443,0.629,1.072,0,0,,0,0,0,0,0,,0,0
+Derek Palmiere,RHP,Williston State,JUCO: Division 2,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,0,23.2,2,0,14,24,17,5.32,0,25
+Deric LaMontagne,INF,Lamar University,NCAA: Division 1,H,26,56,8,14,2,2,1,10,0,0.25,0.344,0.411,0.755,0,0,,0,0,0,0,0,,0,0
+Devon Farrell,IF,Rockhurst University,NCAA: Division 2,H,40,101,24,31,7,1,0,9,1,0.307,0.429,0.396,0.825,0,0,,0,0,0,0,0,,0,0
+Diego Dominguez,RHP,Dodge City,JUCO: Division 1,A,14,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,14,1,31.0,4,2,30,33,26,8.71,0,41
+Dion Wintjes,C,Marian University,NAIA,A,38,127,6,34,8,1,2,28,1,0.268,0.368,0.394,0.762,0,0,0.0,0,0,0,0,0,0.0,0,0
 Dominic Teoli,RHP,Eastern Florida State,JUCO: Division 1,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Dondrae Bremner,INF,University of Cincinnati,NCAA: Division 1,H,19,39,7,10,3,0,1,3,0,0.256,0.333,0.41,0.743,0,0,,0,0,0,0,0,,0,0
+Dondrae Bremner,INF,University of Cincinnati,NCAA: Division 1,H,20,41,8,12,4,0,1,3,0,0.293,0.388,0.463,0.851,0,0,,0,0,0,0,0,,0,0
 Dre Amaral,IF,Bossier Parish,JUCO: Division 1,A,9,18,9,7,1,0,1,3,1,0.389,0.45,0.611,1.061,0,0,0.0,0,0,0,0,0,0.0,0,0
 Drew Howard,RHP,Chipola,JUCO: Division 1,A,14,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,14,9,53.2,7,2,15,43,31,2.52,0,50
-Drew Nixon,INF,Valley City State University,NAIA,A,35,121,31,40,6,0,5,21,0,0.331,0.417,0.504,0.921,0,0,0.0,0,0,0,0,0,0.0,0,0
+Drew Nixon,INF,Valley City State University,NAIA,A,38,133,33,43,6,0,5,23,0,0.323,0.413,0.481,0.894,0,0,0.0,0,0,0,0,0,0.0,0,0
 Drizzt Maxwell,P,"University of Pittsburgh, Greensburg",NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,7,0,5.2,0,1,8,2,6,12.71,0,6
-Dryden Howse,INF,Barton,JUCO: Division 1,A,41,109,27,33,10,1,2,31,3,0.303,0.469,0.468,0.937,0,0,0.0,0,0,0,0,0,0.0,0,0
-Duncan McLaughlin,RHP,Panola,JUCO: Division 1,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,8,38.1,4,3,32,61,14,7.51,0,30
-Duncan Picketts,C,Marshalltown,JUCO: Division 1,A,30,72,15,13,3,1,4,12,2,0.181,0.314,0.417,0.731,0,0,0.0,0,0,0,0,0,0.0,0,0
-Dustin Davidson,LHP,Allen County,JUCO: Division 1,A,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,0,2.1,0,0,4,4,2,15.43,0,2
-Dustin McElwain,OF,William Jessup University,NAIA,A,49,159,30,53,6,1,2,28,7,0.333,0.421,0.421,0.842,0,0,0.0,0,0,0,0,0,0.0,0,0
-Dylan Batista,RHP,Dawson,JUCO: Division 2,A,1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,0.2,0,0,0,0,0,0.0,0,1
-Dylan Bells,LHP,St. Mary's University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,10,6,28.2,1,5,24,41,15,7.53,0,28
-Dylan Edmands,IF,Arizona Western,JUCO: Division 1,A,49,156,45,46,10,6,2,38,11,0.295,0.451,0.474,0.925,0,0,0.0,0,0,0,0,0,0.0,0,0
-Dylan Howard,C,Western Nebraska,JUCO: Division 1,A,23,79,9,20,2,0,1,11,0,0.253,0.306,0.316,0.622,0,0,0.0,0,0,0,0,0,0.0,0,0
-Dylan Johnson,C,Adrian College,NCAA: Division 3,H,29,105,26,37,7,4,1,16,2,0.352,0.415,0.524,0.939,0,0,,0,0,0,0,0,,0,0
-Dylan Smith,INF,Mohawk Valley,JUCO: Division 3,A,8,12,2,3,0,0,0,1,1,0.25,0.25,0.25,0.5,0,0,0.0,0,0,0,0,0,0.0,0,0
-Eddy Savoie,INF,West Texas A&M University,NCAA: Division 2,H,46,181,68,64,18,2,3,42,0,0.354,0.457,0.525,0.982,0,0,,0,0,0,0,0,,0,0
-Edwin Martinez,C,Genesee,JUCO: Division 3,A,5,6,2,2,1,0,0,2,0,0.333,0.5,0.5,1.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Eli Saul,RHP,Sacramento State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,10,10,55.2,5,0,21,46,31,3.4,0,46
+Dryden Howse,INF,Barton,JUCO: Division 1,A,46,126,29,37,11,1,2,35,3,0.294,0.452,0.444,0.896,0,0,0.0,0,0,0,0,0,0.0,0,0
+Duncan McLaughlin,RHP,Panola,JUCO: Division 1,A,13,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13,8,40.1,4,3,34,65,15,7.59,0,31
+Duncan Picketts,C,Marshalltown,JUCO: Division 1,A,35,88,21,18,3,3,4,17,2,0.205,0.346,0.443,0.789,0,0,0.0,0,0,0,0,0,0.0,0,0
+Dustin Davidson,LHP,Allen County,JUCO: Division 1,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,0,7.1,0,0,5,8,2,6.14,0,9
+Dustin McElwain,OF,William Jessup University,NAIA,A,50,162,30,53,6,1,2,28,7,0.327,0.414,0.414,0.828,0,0,0.0,0,0,0,0,0,0.0,0,0
+Dylan Batista,RHP,Dawson,JUCO: Division 2,A,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,0,6.2,1,0,0,2,6,0.0,0,6
+Dylan Bells,LHP,St. Mary's University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,11,6,32.1,1,5,24,42,15,6.68,1,33
+Dylan Edmands,IF,Arizona Western,JUCO: Division 1,A,51,163,46,47,10,6,3,40,11,0.288,0.441,0.479,0.92,0,0,0.0,0,0,0,0,0,0.0,0,0
+Dylan Howard,C,Western Nebraska,JUCO: Division 1,A,27,90,11,24,3,0,1,14,0,0.267,0.327,0.333,0.66,0,0,0.0,0,0,0,0,0,0.0,0,0
+Dylan Johnson,C,Adrian College,NCAA: Division 3,H,32,118,27,42,7,4,1,17,2,0.356,0.417,0.508,0.925,0,0,,0,0,0,0,0,,0,0
+Dylan Smith,INF,Mohawk Valley,JUCO: Division 3,A,9,14,4,4,0,0,0,1,3,0.286,0.333,0.286,0.619,0,0,0.0,0,0,0,0,0,0.0,0,0
+Eddy Savoie,INF,West Texas A&M University,NCAA: Division 2,H,50,199,69,72,19,2,3,45,0,0.362,0.456,0.523,0.979,0,0,,0,0,0,0,0,,0,0
+Edwin Martinez,C,Genesee,JUCO: Division 3,A,6,8,3,2,1,0,0,2,0,0.25,0.455,0.375,0.83,0,0,0.0,0,0,0,0,0,0.0,0,0
+Eli Saul,RHP,Sacramento State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,11,11,61.1,5,0,22,52,34,3.23,0,53
 Elijah Haug,,Douglas,NW Athletic Conference,A,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,0,3.2,0,0,3,6,5,7.36,0,3
-Eliot Goulet,RHP/OF,Sussex County,JUCO: Division 2,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,4,20.2,2,3,11,23,9,4.79,0,16
+Eliot Goulet,RHP/OF,Sussex County,JUCO: Division 2,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,5,27.1,3,3,14,34,12,4.61,0,24
 Ellis Vugteveen,RHP,Three Rivers,JUCO: Division 1,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,0,10.2,1,1,13,12,5,10.97,0,14
 Emile Boies,SS,Northeastern Oklahoma A&M,JUCO: Division 1,A,12,37,6,8,1,0,1,6,0,0.216,0.341,0.324,0.665,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0
 Eric Chartier,IF,University of Charleston,NCAA: Division 2,H,23,56,22,20,10,1,0,15,11,0.357,0.526,0.571,1.097,0,0,,0,0,0,0,0,,0,0
 Eric Foufoulas,C,Cloud County,JUCO: Division 1,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Eric Luchies,LHP/1B,Lower Columbia,NW Athletic Conference,A,30,104,16,29,5,0,1,22,4,0.279,0.379,0.356,0.735,0,0,0.0,0,0,0,0,0,0.0,0,0
-Eric Murchison,UTL,West Valley College,California CC,A,12,1,0,0,0,0,0,0,0,0.0,0.5,0.0,0.5,11,9,40.0,2,3,24,46,17,5.4,0,39
-Eric Pettipiece,LHP,Goshen College,NAIA,A,14,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,14,1,39.1,1,2,38,58,12,8.69,0,40
-Ethan Balogh,1B/OF,Graceland University,NAIA,A,39,106,14,28,4,0,0,9,1,0.264,0.361,0.302,0.663,0,0,0.0,0,0,0,0,0,0.0,0,0
-Ethan Baptie,OF,University of Mary,NCAA: Division 2,H,11,18,2,5,0,0,0,3,0,0.278,0.333,0.278,0.611,0,0,,0,0,0,0,0,,0,0
+Eric Luchies,LHP/1B,Lower Columbia,NW Athletic Conference,A,34,115,20,31,6,0,1,25,4,0.27,0.381,0.348,0.729,0,0,0.0,0,0,0,0,0,0.0,0,0
+Eric Murchison,UTL,West Valley College,California CC,A,13,1,0,0,0,0,0,0,0,0.0,0.5,0.0,0.5,12,9,41.0,2,3,26,49,18,5.71,0,41
+Eric Pettipiece,LHP,Goshen College,NAIA,A,15,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,15,1,43.2,2,2,38,59,13,7.83,0,44
+Ethan Balogh,1B/OF,Graceland University,NAIA,A,41,112,14,30,4,0,0,10,1,0.268,0.359,0.304,0.663,0,0,0.0,0,0,0,0,0,0.0,0,0
+Ethan Baptie,OF,University of Mary,NCAA: Division 2,H,12,19,2,6,1,0,0,4,0,0.316,0.364,0.368,0.732,0,0,,0,0,0,0,0,,0,0
 Ethan Barclay,C,Cleary University,NAIA,A,5,6,0,2,0,0,0,0,0,0.333,0.333,0.333,0.666,0,0,0.0,0,0,0,0,0,0.0,0,0
-Ethan Boisvert,P/1B,West Virginia Wesleyan College,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,6,1,7.2,0,2,13,15,7,15.26,0,2
-Ethan Boisvert,P/1B,West Virginia Wesleyan College,NCAA: Division 2,H,6,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
-Ethan Cane,3B/RHP,Jefferson (NY),JUCO: Division 3,A,15,37,6,13,0,2,1,8,0,0.351,0.455,0.541,0.996,0,0,0.0,0,0,0,0,0,0.0,0,0
-Ethan Coady,INF/RHP,"University of Wisconsin, Superior",NCAA: Division 3,H,4,1,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,,0,0,0,0,0,,0,0
-Ethan Coady,INF/RHP,"University of Wisconsin, Superior",NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,3,0,3.2,0,1,4,5,1,9.82,0,3
-Ethan Francis,RHP,Northwestern State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,6,1,11.2,0,1,7,8,4,5.4,0,10
-Ethan Hammond,OF,D'Youville College,NCAA: Division 2,H,28,102,23,41,11,1,0,19,3,0.402,0.475,0.529,1.004,0,0,,0,0,0,0,0,,0,0
-Ethan Hunt,,Oklahoma Panhandle State University,NAIA,A,42,145,53,64,11,3,12,53,8,0.441,0.517,0.807,1.324,3,0,0.0,0,0,0,0,0,0.0,0,0
+Ethan Boisvert,P/1B,West Virginia Wesleyan College,NCAA: Division 2,H,7,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
+Ethan Boisvert,P/1B,West Virginia Wesleyan College,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,7,1,8.1,0,2,20,20,10,21.6,0,3
+Ethan Cane,3B/RHP,Jefferson (NY),JUCO: Division 3,A,22,49,13,17,2,2,2,12,0,0.347,0.448,0.592,1.04,1,0,1.0,0,0,1,1,1,9.0,0,1
+Ethan Coady,INF/RHP,"University of Wisconsin, Superior",NCAA: Division 3,H,5,1,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,,0,0,0,0,0,,0,0
+Ethan Coady,INF/RHP,"University of Wisconsin, Superior",NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,4,0,8.0,0,1,4,5,4,4.5,0,5
+Ethan Francis,RHP,Northwestern State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,7,1,13.2,0,1,7,11,5,4.61,0,12
+Ethan Hammond,OF,D'Youville College,NCAA: Division 2,H,34,123,26,50,13,2,0,22,3,0.407,0.479,0.545,1.024,0,0,,0,0,0,0,0,,0,0
+Ethan Hunt,,Oklahoma Panhandle State University,NAIA,A,47,161,56,70,11,3,12,53,9,0.435,0.505,0.764,1.269,3,0,0.0,0,0,0,0,0,0.0,0,0
 Ethan McCarthy,C,Houghton College,NCAA: Division 3,H,1,1,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,,0,0,0,0,0,,0,0
 Ethan Murdoch,C/OF,McCook,JUCO: Division 1,A,44,143,40,45,8,0,16,44,1,0.315,0.423,0.706,1.129,0,0,0.0,0,0,0,0,0,0.0,0,0
 Ethan Pollard,LHP,St. Clair County,JUCO: Division 2,A,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,1,11.0,1,1,4,13,2,3.27,0,8
-Ethan Sanasie-Edwards,OF/RHP,St. Clair County,JUCO: Division 2,A,22,53,15,15,3,0,0,6,1,0.283,0.487,0.34,0.827,0,0,0.0,0,0,0,0,0,0.0,0,0
+Ethan Sanasie-Edwards,OF/RHP,St. Clair County,JUCO: Division 2,A,27,67,23,21,5,0,1,8,1,0.313,0.51,0.433,0.943,0,0,0.0,0,0,0,0,0,0.0,0,0
 Ethan Sansaie-Edwards,OF/RHP,St. Clair County,JUCO: Division 2,A,2,4,1,0,0,0,0,0,0,0.0,0.333,0.0,0.333,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0
-Evan Chenier,RHP,Virginia Commonwealth University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,11,0,24.0,1,0,18,30,7,6.75,0,21
+Evan Chenier,RHP,Virginia Commonwealth University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,13,0,29.1,1,0,21,37,9,6.44,0,26
 Evan Harrison,RHP,Gannon University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,4,1,6.2,0,0,3,6,1,4.05,0,3
 Evan Hoegler,RHP,University of British Columbia,NAIA,A,1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,2.2,0,0,6,4,3,20.25,0,1
-Evan Magill,C,Tennessee Wesleyan University,NAIA,A,46,143,20,48,10,0,7,39,1,0.336,0.392,0.552,0.944,0,0,0.0,0,0,0,0,0,0.0,0,0
-Evan O'Toole,RHP/OF,Iowa Western,JUCO: Division 1,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,3,23.1,1,1,10,25,8,3.86,1,31
+Evan Magill,C,Tennessee Wesleyan University,NAIA,A,49,152,23,52,11,0,7,40,1,0.342,0.401,0.553,0.954,0,0,0.0,0,0,0,0,0,0.0,0,0
+Evan O'Toole,RHP/OF,Iowa Western,JUCO: Division 1,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,3,24.1,1,1,10,26,8,3.7,1,32
 Evan Wilcox,RHP,Menlo College,NAIA,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,2,11.2,0,2,31,17,20,23.91,0,11
-Evan Wilde,LHP,Niagara University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,10,10,51.1,1,7,45,66,35,7.89,0,48
+Evan Wilde,LHP,Niagara University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,11,11,57.2,2,7,48,73,36,7.49,0,52
 Ewan Ferguson,C,Ventura College,California CC,A,8,10,2,0,0,0,0,2,1,0.0,0.231,0.0,0.231,0,0,0.0,0,0,0,0,0,0.0,0,0
 Felix Chenier-Rondeau,OF,Oklahoma City University,NAIA,A,28,86,36,27,2,2,5,21,13,0.314,0.438,0.558,0.996,0,0,0.0,0,0,0,0,0,0.0,0,0
 Finn Kaczmarowski,RHP,Georgetown College,NAIA,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,0,13.2,2,0,6,13,3,3.95,0,11
 Francesco Barbieri,OF,Ave Maria University,NAIA,A,29,67,16,18,4,1,1,12,6,0.269,0.37,0.403,0.773,0,0,0.0,0,0,0,0,0,0.0,0,0
-Fynn Chester,RHP,"California State University, Fullerton",NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,17,2,35.1,1,1,13,35,10,3.31,0,17
-Gabriel Archambault,RHP,Northeastern Oklahoma A&M,JUCO: Division 1,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,2,22.2,0,1,26,29,15,10.32,2,22
-Gabriel Monterrey,INF,Roane State,JUCO: Division 1,A,27,73,10,25,5,1,0,15,3,0.342,0.4,0.438,0.838,0,0,0.0,0,0,0,0,0,0.0,0,0
-Garner Spoljaric,RHP,Embry-Riddle Aeronautical University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,15,7,39.1,2,3,24,46,19,5.49,0,38
-Garrett Goodall,RHP,Embry-Riddle Aeronautical University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,12,12,68.0,3,3,37,75,18,4.9,0,39
+Fynn Chester,RHP,"California State University, Fullerton",NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,19,2,37.0,1,1,13,38,10,3.16,0,18
+Gabriel Archambault,RHP,Northeastern Oklahoma A&M,JUCO: Division 1,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,2,23.2,0,1,26,29,15,9.89,2,22
+Gabriel Monterrey,INF,Roane State,JUCO: Division 1,A,31,86,13,30,5,1,0,16,7,0.349,0.404,0.43,0.834,0,0,0.0,0,0,0,0,0,0.0,0,0
+Garner Spoljaric,RHP,Embry-Riddle Aeronautical University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,16,7,40.1,3,3,24,46,20,5.36,0,41
+Garrett Goodall,RHP,Embry-Riddle Aeronautical University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,13,13,68.1,3,4,42,82,18,5.53,0,39
 Garrett Nicholson,LHP,Minot State University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,1,0,1.0,0,0,0,0,1,0.0,0,0
-Garrett Takamatsu,C/IF,University of Central Oklahoma,NCAA: Division 2,H,44,166,45,51,8,1,16,53,3,0.307,0.437,0.657,1.094,0,0,,0,0,0,0,0,,0,0
+Garrett Takamatsu,C/IF,University of Central Oklahoma,NCAA: Division 2,H,48,184,51,60,11,1,18,62,5,0.326,0.444,0.69,1.134,0,0,,0,0,0,0,0,,0,0
 Garrett Thornton,RHP,Erie,JUCO: Division 3,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,0,8.0,1,0,5,8,6,5.63,0,10
-Gavin Logan,C,Oregon State University,NCAA: Division 1,H,25,91,18,30,6,2,2,23,1,0.33,0.41,0.505,0.915,0,0,,0,0,0,0,0,,0,0
+Gavin Logan,C,Oregon State University,NCAA: Division 1,H,28,101,19,31,6,2,2,23,1,0.307,0.398,0.465,0.863,0,0,,0,0,0,0,0,,0,0
 Gavin Pringle,RHP,Hawaii Pacific University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,,,,0,0
-George Farid,IF,D'Youville College,NCAA: Division 2,H,28,105,23,30,4,1,5,21,1,0.286,0.364,0.486,0.85,0,0,,0,0,0,0,0,,0,0
-Gibson Krzeminski,IF/OF,Canisius College,NCAA: Division 1,H,26,78,15,21,3,1,4,14,1,0.269,0.36,0.487,0.847,0,0,,0,0,0,0,0,,0,0
-Giordano Mezzomo,LHP,Cloud County,JUCO: Division 1,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,6,28.1,4,2,18,24,11,5.72,0,52
+George Farid,IF,D'Youville College,NCAA: Division 2,H,34,129,24,35,4,1,5,26,1,0.271,0.343,0.434,0.777,0,0,,0,0,0,0,0,,0,0
+Gibson Krzeminski,IF/OF,Canisius College,NCAA: Division 1,H,28,85,15,21,3,1,4,14,1,0.247,0.333,0.447,0.78,0,0,,0,0,0,0,0,,0,0
+Giordano Mezzomo,LHP,Cloud County,JUCO: Division 1,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,6,31.1,4,3,18,30,11,5.17,0,54
 Glenn Noronha,OF,West Texas A&M University,NCAA: Division 2,H,12,11,6,1,0,0,0,1,1,0.091,0.231,0.091,0.322,0,0,,0,0,0,0,0,,0,0
 Graham Brunner,LHP,Illinois State University,NCAA: Division 1,H,3,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
-Graham Seltzer,RHP,University of British Columbia,NAIA,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,0,21.0,1,2,17,28,15,7.29,0,21
+Graham Seltzer,RHP,University of British Columbia,NAIA,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,0,23.2,2,2,18,31,15,6.85,0,25
 Grayden Stauffer,RHP,"University of Tennessee, Martin",NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,,,,0,0
-Greg Ross,RHP,Howard (TX),JUCO: Division 1,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,2,21.0,1,1,13,25,6,5.57,1,22
-Griffin Almond,RHP,Connors State,JUCO: Division 1,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,0,7.1,0,0,2,2,4,2.45,1,12
-Griffin Hassall,RHP,Kansas State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,12,7,47.1,4,4,23,44,14,4.37,0,36
-Griffin Palfrey,INF/RHP,Columbia University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,8,2,12.0,3,0,1,7,6,0.75,0,16
-Griffin Palfrey,INF/RHP,Columbia University,NCAA: Division 1,H,25,48,6,9,2,0,0,6,1,0.188,0.232,0.229,0.461,0,0,,0,0,0,0,0,,0,0
-Haden Dow,LHP,Cloud County,JUCO: Division 1,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,8,37.2,3,2,26,42,13,6.21,0,48
-Harley Gollert,LHP,Austin Peay State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,10,10,57.2,2,4,41,60,25,6.4,0,59
+Greg Ross,RHP,Howard (TX),JUCO: Division 1,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,3,22.0,1,1,13,25,8,5.32,1,23
+Griffin Almond,RHP,Connors State,JUCO: Division 1,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,0,7.1,0,0,4,4,6,4.91,1,12
+Griffin Hassall,RHP,Kansas State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,13,8,49.2,4,5,36,52,19,6.52,0,36
+Griffin Palfrey,INF/RHP,Columbia University,NCAA: Division 1,H,26,48,6,9,2,0,0,6,1,0.188,0.232,0.229,0.461,0,0,,0,0,0,0,0,,0,0
+Griffin Palfrey,INF/RHP,Columbia University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,9,2,15.0,3,0,1,9,7,0.6,0,20
+Haden Dow,LHP,Cloud County,JUCO: Division 1,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,8,38.1,3,2,27,43,14,6.34,0,48
+Harley Gollert,LHP,Austin Peay State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,11,11,61.2,2,5,42,69,27,6.13,0,64
 Hayden Malenfant,RHP,Southeast Missouri State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,2,0,1.2,0,0,0,1,3,0.0,0,2
-Hayden Wesseling,RHP,Monroe CC,JUCO: Division 2,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,4,25.0,4,0,14,28,12,5.04,0,16
-Hayden Wilcox,RHP,Wheeling Jesuit University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,10,4,15.0,0,2,22,25,10,13.2,0,5
+Hayden Wesseling,RHP,Monroe CC,JUCO: Division 2,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,5,30.0,5,0,17,35,14,5.1,0,21
+Hayden Wilcox,RHP,Wheeling Jesuit University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,11,4,16.0,0,2,24,27,11,13.5,0,6
 Hayden Zweig,RHP,Pasadena City College,California CC,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,0,9.0,0,1,8,10,8,8.0,0,14
-Hilo Yamamoto,IF,University of British Columbia,NAIA,A,7,21,2,4,1,0,0,0,1,0.19,0.19,0.238,0.428,0,0,0.0,0,0,0,0,0,0.0,0,0
-Holden Cumiskey,C,Cuesta College,California CC,A,36,139,21,43,11,3,0,43,2,0.309,0.389,0.432,0.821,0,0,0.0,0,0,0,0,0,0.0,0,0
+Hilo Yamamoto,IF,University of British Columbia,NAIA,A,10,28,3,7,1,0,0,0,1,0.25,0.25,0.286,0.536,0,0,0.0,0,0,0,0,0,0.0,0,0
+Holden Cumiskey,C,Cuesta College,California CC,A,40,155,25,47,12,3,0,44,2,0.303,0.379,0.419,0.798,0,0,0.0,0,0,0,0,0,0.0,0,0
 Hunter Campese,LHP,Pensacola State,JUCO: Division 1,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,0,2.1,0,0,3,3,6,11.57,0,2
 Hunter Canning,RHP,Panola,JUCO: Division 1,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
 Hunter Houston,OF,Southwestern,JUCO: Division 1,A,21,48,6,12,3,2,0,14,1,0.25,0.339,0.396,0.735,0,0,0.0,0,0,0,0,0,0.0,0,0
-Hunter James,3B,University of Northwestern Ohio,NAIA,A,32,85,22,23,3,1,3,17,7,0.271,0.38,0.435,0.815,4,0,0.0,0,0,0,0,0,0.0,0,0
-Hunter Jones,RHP,Ventura College,California CC,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,3,27.2,2,3,21,32,22,6.83,0,22
-Isaiah St. Bernard,RHP,Cayuga,JUCO: Division 3,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Jaberi Smith,OF,Niagara County,JUCO: Division 3,A,12,11,8,4,0,1,0,4,4,0.364,0.611,0.545,1.156,0,0,0.0,0,0,0,0,0,0.0,0,0
+Hunter James,3B,University of Northwestern Ohio,NAIA,A,33,86,22,23,3,1,3,17,7,0.267,0.376,0.43,0.806,4,0,0.0,0,0,0,0,0,0.0,0,0
+Hunter Jones,RHP,Ventura College,California CC,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,3,30.0,2,3,24,37,23,7.2,0,25
+Isaiah St. Bernard,RHP,Cayuga,JUCO: Division 3,A,1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,0.0,0,0,0,0,1,0.0,0,0
+Jaberi Smith,OF,Niagara County,JUCO: Division 3,A,13,13,8,5,0,1,0,4,4,0.385,0.6,0.538,1.138,0,0,0.0,0,0,0,0,0,0.0,0,0
 Jack Anderson,LHP,Fairfield University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,12,3,16.1,0,1,10,18,13,5.51,1,15
-Jack Liddell,P,Southern Arkansas University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,12,3,24.1,3,1,17,31,11,6.29,0,16
-Jack Marlin,UTL,Midway University,NAIA,A,19,53,10,11,3,0,1,10,0,0.208,0.333,0.321,0.654,0,0,0.0,0,0,0,0,0,0.0,0,0
+Jack Liddell,P,Southern Arkansas University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,13,4,27.1,3,2,19,35,15,6.26,0,18
+Jack Marlin,UTL,Midway University,NAIA,A,22,60,11,11,3,0,1,10,0,0.183,0.329,0.283,0.612,0,0,0.0,0,0,0,0,0,0.0,0,0
 Jack Moir,C,Itasca,JUCO: Division 3,A,8,10,4,0,0,0,0,1,0,0.0,0.167,0.0,0.167,1,0,1.0,0,0,1,2,1,9.0,0,0
-Jack Moncur,IF,Rensselaer Polytechnic Institute,NCAA: Division 3,H,26,86,19,25,8,1,0,17,2,0.291,0.411,0.407,0.818,0,0,,0,0,0,0,0,,0,0
-Jack Mount,RHP,Cloud County,JUCO: Division 1,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,9,46.1,3,1,20,40,22,3.88,0,63
-Jack Neil,RHP,Allen County,JUCO: Division 1,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,0,18.0,1,2,10,17,6,5.0,2,26
-Jack Rea,INF,Colorado Northwestern,JUCO: Division 1,A,25,41,8,5,0,0,0,8,0,0.122,0.383,0.122,0.505,0,0,0.0,0,0,0,0,0,0.0,0,0
-Jack Taylor,INF,Rend Lake,JUCO: Division 1,A,17,45,9,14,3,0,1,6,3,0.311,0.426,0.444,0.87,0,0,0.0,0,0,0,0,0,0.0,0,0
-Jack Williams,C,Monroe CC,JUCO: Division 2,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
+Jack Moncur,IF,Rensselaer Polytechnic Institute,NCAA: Division 3,H,30,95,20,26,8,1,0,18,3,0.274,0.405,0.379,0.784,0,0,,0,0,0,0,0,,0,0
+Jack Mount,RHP,Cloud County,JUCO: Division 1,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,10,50.2,3,2,23,42,27,4.09,0,71
+Jack Neil,RHP,Allen County,JUCO: Division 1,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,0,21.0,2,3,15,22,10,6.43,2,31
+Jack Rea,INF,Colorado Northwestern,JUCO: Division 1,A,26,42,8,5,0,0,0,8,0,0.119,0.377,0.119,0.496,0,0,0.0,0,0,0,0,0,0.0,0,0
+Jack Taylor,INF,Rend Lake,JUCO: Division 1,A,20,55,9,18,3,0,1,11,3,0.327,0.433,0.436,0.869,0,0,0.0,0,0,0,0,0,0.0,0,0
+Jack Williams,C,Monroe CC,JUCO: Division 2,A,2,1,0,1,0,0,0,1,0,1.0,1.0,1.0,2.0,0,0,0.0,0,0,0,0,0,0.0,0,0
 Jackson Clemett,OF,University of Utah,NCAA: Division 1,H,8,17,3,2,0,0,0,0,0,0.118,0.375,0.118,0.493,0,0,,0,0,0,0,0,,0,0
-Jackson Fraser,RHP,LSU Eunice,JUCO: Division 2,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,0,7.1,0,1,5,10,7,6.14,0,10
-Jackson Hogg,OF,Marian University,NAIA,A,40,152,35,55,9,1,0,24,2,0.362,0.44,0.434,0.874,0,0,0.0,0,0,0,0,0,0.0,0,0
+Jackson Fraser,RHP,LSU Eunice,JUCO: Division 2,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,0,9.1,0,1,6,13,7,5.79,0,12
+Jackson Hogg,OF,Marian University,NAIA,A,42,157,35,55,9,1,0,24,2,0.35,0.428,0.42,0.848,0,0,0.0,0,0,0,0,0,0.0,0,0
 Jackson Painter,,Bluefield State College,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,8,1,7.0,0,0,14,10,10,18.0,1,8
-Jackson Stephen,OF/P,Morningside College,NAIA,A,19,3,0,1,0,0,0,0,0,0.333,0.6,0.333,0.933,15,0,23.2,3,2,14,28,7,5.32,0,16
-Jacob Bonzon,IF/OF,Roanoke College,NCAA: Division 3,H,32,103,31,35,7,1,2,21,19,0.34,0.433,0.485,0.918,0,0,,0,0,0,0,0,,0,0
-Jacob Carroll,C,Henderson State University,NCAA: Division 2,H,33,88,16,20,3,1,1,20,3,0.227,0.304,0.318,0.622,0,0,,0,0,0,0,0,,0,0
+Jackson Stephen,OF/P,Morningside College,NAIA,A,20,3,0,1,0,0,0,0,0,0.333,0.6,0.333,0.933,16,0,25.2,3,2,14,28,8,4.91,0,17
+Jacob Bonzon,IF/OF,Roanoke College,NCAA: Division 3,H,35,118,32,39,7,1,2,22,20,0.331,0.42,0.458,0.878,0,0,,0,0,0,0,0,,0,0
+Jacob Carroll,C,Henderson State University,NCAA: Division 2,H,36,91,18,20,3,1,1,20,4,0.22,0.302,0.308,0.61,0,0,,0,0,0,0,0,,0,0
 Jacob Corby,RHP,Three Rivers,JUCO: Division 1,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,1,17.0,1,1,15,20,11,7.94,0,12
-Jacob Douglas,RHP,Fort Hays State University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,11,0,18.1,1,0,16,24,6,7.85,0,15
-Jacob Gajic,LHP,Northwest Missouri State University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,22,0,41.1,0,1,11,36,12,2.4,5,44
-Jacob Jackson,INF,Siena Heights University,NAIA,A,33,70,9,14,4,0,1,12,1,0.2,0.293,0.3,0.593,2,0,0.0,0,0,0,0,0,0.0,0,0
-Jacob Kush,RHP,University of Missouri,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,8,1,14.0,2,0,12,13,11,7.71,0,12
+Jacob Douglas,RHP,Fort Hays State University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,12,0,20.1,1,0,18,26,7,7.97,0,16
+Jacob Gajic,LHP,Northwest Missouri State University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,23,0,45.1,1,1,11,38,12,2.18,5,46
+Jacob Jackson,INF,Siena Heights University,NAIA,A,37,74,9,15,4,0,1,12,1,0.203,0.291,0.297,0.588,2,0,0.0,0,0,0,0,0,0.0,0,0
+Jacob Kush,RHP,University of Missouri,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,10,1,17.0,2,0,16,18,13,8.47,0,14
 Jacob Mahoney,"IF,C",Lake Michigan,JUCO: Division 2,A,30,101,16,33,4,0,0,14,0,0.327,0.382,0.366,0.748,0,0,0.0,0,0,0,0,0,0.0,0,0
-Jacob Potter,RHP,Southeastern Oklahoma State University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,12,7,39.1,2,2,38,59,10,8.69,0,34
-Jaden Babiuk,C/INF,Valley City State University,NAIA,A,31,97,10,27,3,1,1,13,3,0.278,0.327,0.361,0.688,0,0,0.0,0,0,0,0,0,0.0,0,0
-Jaden Brown,INF,University of Texas at Arlington,NCAA: Division 1,H,27,59,6,15,2,0,0,7,0,0.254,0.384,0.288,0.672,0,0,,0,0,0,0,0,,0,0
-Jaden Griffin,LHP,Virginia Commonwealth University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,15,0,26.2,3,1,12,21,15,4.05,0,29
+Jacob Potter,RHP,Southeastern Oklahoma State University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,13,7,41.1,2,2,38,59,12,8.27,1,36
+Jaden Babiuk,C/INF,Valley City State University,NAIA,A,34,111,11,34,3,1,2,17,3,0.306,0.347,0.405,0.752,0,0,0.0,0,0,0,0,0,0.0,0,0
+Jaden Brown,INF,University of Texas at Arlington,NCAA: Division 1,H,28,64,7,16,2,0,0,8,0,0.25,0.372,0.281,0.653,0,0,,0,0,0,0,0,,0,0
+Jaden Griffin,LHP,Virginia Commonwealth University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,16,0,28.1,3,1,12,22,15,3.81,0,31
 Jaden Hofmann,RHP,Minot State University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,1,0,1.0,0,0,1,2,1,9.0,0,2
 Jaden Humphreys,C,St. Olaf College,NCAA: Division 3,H,1,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
-Jaden Lamothe,3B,Parkland,JUCO: Division 2,A,17,47,5,12,0,0,2,10,2,0.255,0.327,0.383,0.71,0,0,0.0,0,0,0,0,0,0.0,0,0
-Jake Bucovetsky,1B,Highland (KS),JUCO: Division 1,A,43,130,30,45,11,1,7,32,6,0.346,0.452,0.608,1.06,0,0,0.0,0,0,0,0,0,0.0,0,0
-Jake Ervin,OF/1B,Texas Wesleyan University,NAIA,A,26,63,21,18,6,0,4,20,1,0.286,0.423,0.571,0.994,3,0,0.0,0,0,0,0,0,0.0,0,0
-Jake Richmond-Benner,LHP,University of British Columbia,NAIA,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,0,10.0,0,2,12,11,20,10.8,0,11
+Jaden Lamothe,3B,Parkland,JUCO: Division 2,A,19,55,5,12,0,0,2,11,2,0.218,0.295,0.327,0.622,0,0,0.0,0,0,0,0,0,0.0,0,0
+Jake Bucovetsky,1B,Highland (KS),JUCO: Division 1,A,45,137,32,47,12,1,7,32,6,0.343,0.448,0.599,1.047,0,0,0.0,0,0,0,0,0,0.0,0,0
+Jake Ervin,OF/1B,Texas Wesleyan University,NAIA,A,29,66,23,19,6,0,4,20,1,0.288,0.44,0.561,1.001,3,0,0.0,0,0,0,0,0,0.0,0,0
+Jake Richmond-Benner,LHP,University of British Columbia,NAIA,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,0,11.0,0,2,12,12,21,9.82,1,12
 Jakob Newton,OF,Florida Institute of Technology,NCAA: Division 2,H,47,194,40,60,12,3,3,48,9,0.309,0.385,0.448,0.833,0,0,,0,0,0,0,0,,0,0
 James Cabral,OF,University of Antelope Valley,NAIA,A,1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-James Dutton,OF,Indian Hills,JUCO: Division 1,A,31,87,21,30,4,3,1,22,10,0.345,0.436,0.494,0.93,0,0,0.0,0,0,0,0,0,0.0,0,0
-James Mitchell,,Douglas,NW Athletic Conference,A,9,33,3,8,1,0,1,3,2,0.242,0.342,0.364,0.706,0,0,0.0,0,0,0,0,0,0.0,0,0
-Jameson Hart,UT,William Penn University,NAIA,A,42,124,22,34,7,1,1,25,2,0.274,0.401,0.371,0.772,4,0,6.0,1,0,2,6,4,3.0,1,8
-Jared Arnold,RHP,Colby,JUCO: Division 1,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,3,25.0,3,0,14,32,19,5.04,0,19
+James Dutton,OF,Indian Hills,JUCO: Division 1,A,33,90,22,30,4,3,1,22,10,0.333,0.434,0.478,0.912,0,0,0.0,0,0,0,0,0,0.0,0,0
+James Mitchell,,Douglas,NW Athletic Conference,A,11,41,3,8,1,0,1,3,2,0.195,0.298,0.293,0.591,0,0,0.0,0,0,0,0,0,0.0,0,0
+Jameson Hart,UT,William Penn University,NAIA,A,46,136,23,34,7,1,1,25,2,0.25,0.376,0.338,0.714,5,0,7.1,1,1,4,9.0,4.0,4.91,1,10
+Jared Arnold,RHP,Colby,JUCO: Division 1,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,3,26.0,3,0,14,32,19,4.85,0,20
 Jared Binsfeld,OF,University of Sioux Falls,NCAA: Division 2,H,18,58,8,12,1,0,1,6,0,0.207,0.292,0.276,0.568,0,0,,0,0,0,0,0,,0,0
-Jared Eifler,RHP,Shoreline,NW Athletic Conference,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,2,17.1,0,1,8,13,13,4.15,0,18
-Jared McCorrister,IF/C,Mayville State University,NAIA,A,35,118,16,40,7,0,3,27,10,0.339,0.407,0.475,0.882,0,0,0.0,0,0,0,0,0,0.0,0,0
+Jared Eifler,RHP,Shoreline,NW Athletic Conference,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,2,21.1,0,1,9,18,14,3.8,1,21
+Jared McCorrister,IF/C,Mayville State University,NAIA,A,38,132,16,43,8,0,3,28,13,0.326,0.397,0.455,0.852,0,0,0.0,0,0,0,0,0,0.0,0,0
 Jarod Leroux,RHP,Southwestern Oklahoma State University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,4,0,5.0,0,0,8,5,9,14.4,0,4
-Jaryd Lund,LHP,Salem University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,12,12,62.0,4,4,42,73,22,6.1,0,78
-Jason Chiu,IF,Bryan College,NAIA,A,28,65,12,17,4,0,1,7,4,0.262,0.329,0.369,0.698,1,0,0.0,0,0,0,0,0,0.0,0,0
-Jason Kauffeldt,OF,Houghton College,NCAA: Division 3,H,34,121,34,33,7,2,0,11,28,0.273,0.393,0.364,0.757,0,0,,0,0,0,0,0,,0,0
-Jason Willow,OF/INF,"University of California, Santa Barbara",NCAA: Division 1,H,30,107,20,27,4,2,1,11,8,0.252,0.333,0.355,0.688,0,0,,0,0,0,0,0,,0,0
-Jaxson Smith-Peterson,RHP,Minnesota West,JUCO: Division 3,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
+Jaryd Lund,LHP,Salem University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,13,13,69.0,5,4,43,77,23,5.61,0,87
+Jason Chiu,IF,Bryan College,NAIA,A,30,69,12,17,4,0,1,7,4,0.246,0.312,0.348,0.66,1,0,0.0,0,0,0,0,0,0.0,0,0
+Jason Kauffeldt,OF,Houghton College,NCAA: Division 3,H,38,134,38,36,7,2,0,12,29,0.269,0.395,0.351,0.746,0,0,,0,0,0,0,0,,0,0
+Jason Willow,OF/INF,"University of California, Santa Barbara",NCAA: Division 1,H,34,121,26,30,4,2,1,12,10,0.248,0.331,0.339,0.67,0,0,,0,0,0,0,0,,0,0
+Jaxson Smith-Peterson,RHP,Minnesota West,JUCO: Division 3,A,2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,0,4.0,0,0,0,0,0,0.0,0,0
 Jaycob Lachance,RHP,Frontier,JUCO: Division 1,A,2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,0,5.1,0,2,8,7,2,13.5,0,4
-Jayden Cull,C-2B-OF,Lyon College,NAIA,A,32,89,19,23,5,0,1,20,0,0.258,0.35,0.348,0.698,0,0,0.0,0,0,0,0,0,0.0,0,0
-Jayden Mah,C/INF,Missouri Valley College,NAIA,A,33,102,17,32,4,0,2,30,2,0.314,0.377,0.412,0.789,0,0,0.0,0,0,0,0,0,0.0,0,0
+Jayden Cull,C-2B-OF,Lyon College,NAIA,A,34,95,19,23,5,0,1,21,0,0.242,0.327,0.326,0.653,0,0,0.0,0,0,0,0,0,0.0,0,0
+Jayden Mah,C/INF,Missouri Valley College,NAIA,A,37,115,19,34,5,0,2,33,2,0.296,0.364,0.391,0.755,0,0,0.0,0,0,0,0,0,0.0,0,0
 Jayden Wakeham,C,Northern Kentucky University,NCAA: Division 1,H,21,82,11,20,4,0,2,11,0,0.244,0.303,0.366,0.669,0,0,,0,0,0,0,0,,0,0
-Jaydon Gartner,UTL/RHP,University of Mount Olive,NCAA: Division 2,H,21,24,2,5,0,0,0,4,1,0.208,0.333,0.208,0.541,0,0,,0,0,0,0,0,,0,0
-Jeff Liddell,RHP,Connors State,JUCO: Division 1,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,0,14.2,2,0,5,15,2,3.07,1,19
+Jaydon Gartner,UTL/RHP,University of Mount Olive,NCAA: Division 2,H,22,24,2,5,0,0,0,4,1,0.208,0.333,0.208,0.541,0,0,,0,0,0,0,0,,0,0
+Jeff Liddell,RHP,Connors State,JUCO: Division 1,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,0,16.0,2,0,5,15,3,2.81,1,20
 Jeremy Williams,,Douglas,NW Athletic Conference,A,6,9,1,1,0,0,0,1,0,0.111,0.273,0.111,0.384,0,0,0.0,0,0,0,0,0,0.0,0,0
 Jesse Kool,MIF,West Virginia University Institute of Technology,NAIA,A,8,5,2,0,0,0,0,0,1,0.0,0.286,0.0,0.286,0,0,0.0,0,0,0,0,0,0.0,0,0
-Jesse Simpson,RHP,Shorter University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,9,1,10.1,1,2,16,18,9,13.94,0,8
+Jesse Simpson,RHP,Shorter University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,10,2,10.2,1,3,19,18,11,16.03,0,8
 Jesse Skelton,,Dakota,JUCO: Division 2,A,1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,0.2,0,0,0,1,0,0.0,0,0
-Joe Guzzo,LHP,Jackson,JUCO: Division 2,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,1,5.0,0,3,14,8,13,25.2,0,2
+Joe Guzzo,LHP,Jackson,JUCO: Division 2,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,1,7.0,0,3,15,15,15,19.29,0,5
 Joe Lavoie,LHP,Cornell College,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,1,0,,0,0,2,2,,,0,0
-Joel Connors,RHP/INF,St. Andrews University,NAIA,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,2,9.0,1,0,9,11,7,9.0,0,6
-Joel McGrath,RHP,Colby,JUCO: Division 1,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,1,23.0,1,2,20,27,10,7.83,2,28
+Joel Connors,RHP/INF,St. Andrews University,NAIA,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,2,9.2,1,0,13,13,9,12.1,0,6
+Joel McGrath,RHP,Colby,JUCO: Division 1,A,13,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13,1,24.0,1,2,20,27,10,7.5,3,29
 Joel Robinson,RHP,Allen County,JUCO: Division 1,A,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,0,2.0,0,0,7,3,7,31.5,0,1
-Joel Suraganan,IF,Marshalltown,JUCO: Division 1,A,37,116,26,28,5,1,2,17,4,0.241,0.321,0.353,0.674,0,0,0.0,0,0,0,0,0,0.0,0,0
-John Vulcano,IF,Colby,JUCO: Division 1,A,37,116,32,34,4,1,8,29,0,0.293,0.359,0.552,0.911,0,0,0.0,0,0,0,0,0,0.0,0,0
-Jonah Bachiu,IF,Cuesta College,California CC,A,12,31,3,6,0,0,0,0,0,0.194,0.306,0.194,0.5,0,0,0.0,0,0,0,0,0,0.0,0,0
-Jonah Offman,RHP,Johns Hopkins University,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,11,0,22.1,0,2,11,26,14,4.43,0,16
-Jonah Weisner,INF,Ottawa University,NAIA,A,43,161,65,69,12,5,16,48,24,0.429,0.533,0.863,1.396,1,0,0.0,0,0,0,0,0,0.0,0,0
+Joel Suraganan,IF,Marshalltown,JUCO: Division 1,A,40,121,26,29,5,1,2,17,4,0.24,0.321,0.347,0.668,0,0,0.0,0,0,0,0,0,0.0,0,0
+John Vulcano,IF,Colby,JUCO: Division 1,A,43,132,36,41,6,1,9,32,0,0.311,0.376,0.576,0.952,1,0,2.0,0,1,1,1,3,4.5,0,0
+Jonah Bachiu,IF,Cuesta College,California CC,A,14,33,3,6,0,0,0,0,0,0.182,0.308,0.182,0.49,0,0,0.0,0,0,0,0,0,0.0,0,0
+Jonah Offman,RHP,Johns Hopkins University,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,12,0,23.0,0,2,16,30,14,6.26,0,16
+Jonah Weisner,INF,Ottawa University,NAIA,A,47,180,69,79,16,6,16,55,29,0.439,0.534,0.861,1.395,1,0,0.0,0,0,0,0,0,0.0,0,0
 Jonathan Henry,RHP/OF,Albany State University,NCAA: Division 2,H,11,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
 Jonathan Henry,RHP/OF,Albany State University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,11,11,71.1,8,1,25,65,30,3.15,0,60
-Jonathan Thibodeau,C,University of West Alabama,NCAA: Division 2,H,34,105,9,33,2,0,0,11,0,0.314,0.41,0.333,0.743,0,0,,0,0,0,0,0,,0,0
+Jonathan Thibodeau,C,University of West Alabama,NCAA: Division 2,H,36,112,9,36,2,0,0,12,0,0.321,0.415,0.339,0.754,0,0,,0,0,0,0,0,,0,0
 Jonathan Walz,IF,Douglas,NW Athletic Conference,A,5,12,0,0,0,0,0,0,0,0.0,0.077,0.0,0.077,1,0,2.0,0,0,5,6,1,22.5,0,1
-Jonathon Foti,RHP/IF,Lewis & Clark,JUCO: Division 2,A,15,29,5,7,1,0,2,9,1,0.241,0.378,0.483,0.861,2,0,2.0,0,0,2,2,4,9.0,0,3
+Jonathon Foti,RHP/IF,Lewis & Clark,JUCO: Division 2,A,16,34,5,8,1,0,2,9,1,0.235,0.357,0.441,0.798,2,0,2.0,0,0,2,2,4,9.0,0,3
 Jonny Baileys,OF/INF,Ventura College,California CC,A,4,6,0,3,1,0,0,0,0,0.5,0.625,0.667,1.292,0,0,0.0,0,0,0,0,0,0.0,0,0
-Jonny McGill,OF,University of British Columbia,NAIA,A,42,142,22,36,4,1,2,13,3,0.254,0.344,0.338,0.682,0,0,0.0,0,0,0,0,0,0.0,0,0
-Jordan Babcock,INF,Judson University,NAIA,A,23,70,20,21,6,0,2,13,1,0.3,0.468,0.471,0.939,0,0,0.0,0,0,0,0,0,0.0,0,0
-Jordan Bach,C,Saint Xavier University,NAIA,A,27,68,9,29,8,1,1,13,2,0.426,0.5,0.618,1.118,0,0,0.0,0,0,0,0,0,0.0,0,0
-Jordan Bahnuk,RHP,Southwestern Christian University,NAIA,A,24,0,9,0,0,0,0,0,3,0.0,0.0,0.0,0.0,14,0,29.2,2,0,17,32,14,5.16,0,34
-Jordan Glazer,OF,Post University,NCAA: Division 2,H,27,90,25,32,5,3,2,22,1,0.356,0.464,0.544,1.008,0,0,,0,0,0,0,0,,0,0
-Jordan Lewis,OF,Herkimer,JUCO: Division 3,A,19,46,19,13,1,0,3,9,10,0.283,0.426,0.5,0.926,0,0,0.0,0,0,0,0,0,0.0,0,0
+Jonny McGill,OF,University of British Columbia,NAIA,A,46,150,23,40,4,1,2,15,3,0.267,0.358,0.347,0.705,0,0,0.0,0,0,0,0,0,0.0,0,0
+Jordan Babcock,INF,Judson University,NAIA,A,25,76,20,21,6,0,2,13,1,0.276,0.44,0.434,0.874,0,0,0.0,0,0,0,0,0,0.0,0,0
+Jordan Bach,C,Saint Xavier University,NAIA,A,32,83,10,33,8,1,1,13,2,0.398,0.475,0.554,1.029,0,0,0.0,0,0,0,0,0,0.0,0,0
+Jordan Bahnuk,RHP,Southwestern Christian University,NAIA,A,26,0,9,0,0,0,0,0,4,0.0,0.0,0.0,0.0,15,0,33.0,2,0,21,40,17,5.73,0,36
+Jordan Glazer,OF,Post University,NCAA: Division 2,H,32,108,26,37,6,4,2,26,1,0.343,0.443,0.528,0.971,0,0,,0,0,0,0,0,,0,0
+Jordan Lewis,OF,Herkimer,JUCO: Division 3,A,20,48,19,13,1,0,3,9,10,0.271,0.422,0.479,0.901,0,0,0.0,0,0,0,0,0,0.0,0,0
 Jordan Lussier,RHP,Illinois State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,9,8,29.1,1,3,16,27,13,4.91,0,22
 Jordan MacDonald,1B,American International College,NCAA: Division 2,H,1,1,0,1,0,0,0,1,0,1.0,1.0,1.0,2.0,0,0,,0,0,0,0,0,,0,0
-Jordan Peck,LHP/OF,Northwest Missouri State University,NCAA: Division 2,H,20,36,7,10,2,0,2,10,0,0.278,0.395,0.5,0.895,0,0,,0,0,0,0,0,,0,0
+Jordan Peck,LHP/OF,Northwest Missouri State University,NCAA: Division 2,H,23,48,7,13,2,0,2,11,0,0.271,0.386,0.438,0.824,0,0,,0,0,0,0,0,,0,0
 Jordan Spring,RHP,Bossier Parish,JUCO: Division 1,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,0,7.0,0,0,9,8,8,11.57,0,8
 Joseph Karall,RHP,Southeast Missouri State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,1,0,1.1,0,0,2,3,0,13.5,0,0
 Joseph Sinclair,LHP,University of Mary,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,8,6,26.1,1,2,27,24,28,9.23,0,30
 Josh Cleggett,C,Arizona Western,JUCO: Division 1,A,1,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Josh Evans,RHP,Mohawk Valley,JUCO: Division 3,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,0,12.1,1,2,10,14,11,7.3,0,15
-Josh Fluet,RHP,Allen County,JUCO: Division 1,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,2,38.0,3,3,15,31,12,3.55,0,42
-Josh Gerhardt,3B,Trinidad State,JUCO: Division 1,A,15,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,0,27.1,3,1,13,29,10,4.28,1,36
-Josh Hare,INF,Lourdes University,NAIA,A,39,124,28,38,10,0,4,29,3,0.306,0.421,0.484,0.905,0,0,0.0,0,0,0,0,0,0.0,0,0
-Josh Ironside,RHP,Marshalltown,JUCO: Division 1,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,6,25.1,1,5,33,48,17,11.72,0,11
-Josh Marchese,1B/DH,Niagara University,NCAA: Division 1,H,31,95,11,23,3,0,7,14,0,0.242,0.336,0.495,0.831,0,0,,0,0,0,0,0,,0,0
-Josh Myers,OF,The College of Saint Rose,NCAA: Division 2,H,25,67,7,16,3,0,1,13,0,0.239,0.325,0.328,0.653,0,0,,0,0,0,0,0,,0,0
-Josh Niles,IF,Canisius College,NCAA: Division 1,H,22,67,9,19,4,1,0,16,1,0.284,0.375,0.373,0.748,0,0,,0,0,0,0,0,,0,0
+Josh Evans,RHP,Mohawk Valley,JUCO: Division 3,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,0,13.1,1,2,10,14,11,6.75,0,17
+Josh Fluet,RHP,Allen County,JUCO: Division 1,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,4,49.2,3,3,22,45,15,3.99,0,53
+Josh Gerhardt,3B,Trinidad State,JUCO: Division 1,A,17,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,14,0,32.1,3,1,13,33,11,3.62,1,42
+Josh Hare,INF,Lourdes University,NAIA,A,42,133,29,38,10,0,4,29,3,0.286,0.412,0.451,0.863,0,0,0.0,0,0,0,0,0,0.0,0,0
+Josh Ironside,RHP,Marshalltown,JUCO: Division 1,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,7,31.1,2,5,35,54,19,10.05,0,19
+Josh Marchese,1B/DH,Niagara University,NCAA: Division 1,H,35,111,16,28,3,0,9,16,0,0.252,0.354,0.523,0.877,0,0,,0,0,0,0,0,,0,0
+Josh Myers,OF,The College of Saint Rose,NCAA: Division 2,H,29,80,7,18,3,0,1,16,0,0.225,0.309,0.3,0.609,0,0,,0,0,0,0,0,,0,0
+Josh Niles,IF,Canisius College,NCAA: Division 1,H,25,74,11,21,4,1,0,17,1,0.284,0.371,0.365,0.736,0,0,,0,0,0,0,0,,0,0
 Josh Stark,OF,Williston State,JUCO: Division 2,A,1,1,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Josh Walker,OF,Sacramento State University,NCAA: Division 1,H,21,52,11,11,1,0,3,5,0,0.212,0.311,0.404,0.715,0,0,,0,0,0,0,0,,0,0
-Josh Wynette,LHP,Dawson,JUCO: Division 2,A,2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,0,1.2,0,1,0,3,1,0.0,0,1
+Josh Walker,OF,Sacramento State University,NCAA: Division 1,H,23,56,11,13,2,0,3,5,0,0.232,0.323,0.429,0.752,0,0,,0,0,0,0,0,,0,0
+Josh Wynette,LHP,Dawson,JUCO: Division 2,A,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,0,1.2,0,1,0,3,1,0.0,0,1
 Joshua Cossitt,C,Sullivan County,JUCO: Division 2,A,11,14,2,4,2,0,0,5,0,0.286,0.412,0.429,0.841,0,0,0.0,0,0,0,0,0,0.0,0,0
 Joshua Pilgrim,,John Wood,JUCO: Division 2,A,15,30,6,3,1,0,1,2,0,0.1,0.243,0.233,0.476,0,0,0.0,0,0,0,0,0,0.0,0,0
 Josiah Stairs,LHP,Cornerstone University,NAIA,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,3,12.2,1,1,22,16,18,15.63,0,9
-Jude Hall,OF,Yavapai,JUCO: Division 1,A,39,22,25,2,1,0,0,4,18,0.091,0.323,0.136,0.459,0,0,0.0,0,0,0,0,0,0.0,0,0
+Jude Hall,OF,Yavapai,JUCO: Division 1,A,42,26,27,3,2,0,0,5,20,0.115,0.306,0.192,0.498,0,0,0.0,0,0,0,0,0,0.0,0,0
 Julian Parson,RHP,"University of South Carolina, Upstate",NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,6,0,8.1,1,0,10,10,6,10.8,0,4
-Julian Russell,P/INF,Alderson Broaddus University,NCAA: Division 2,H,28,36,5,7,2,0,0,3,0,0.194,0.275,0.25,0.525,0,0,,0,0,0,0,0,,0,0
+Julian Russell,P/INF,Alderson Broaddus University,NCAA: Division 2,H,30,42,6,8,2,0,0,4,0,0.19,0.261,0.238,0.499,0,0,,0,0,0,0,0,,0,0
 Julian Russell,P/INF,Alderson Broaddus University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,15,2,24.2,0,2,29,30,25,10.58,0,27
-Julien Giroux-Harvey,RHP,University of Hartford,NCAA: Division 1,H,12,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
-Julien Giroux-Harvey,RHP,University of Hartford,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,12,0,14.2,0,1,15,19,21,9.2,0,12
-Julio Vasquez,C,Howard (TX),JUCO: Division 1,A,22,48,12,13,1,0,0,10,5,0.271,0.435,0.292,0.727,0,0,0.0,0,0,0,0,0,0.0,0,0
+Julien Giroux-Harvey,RHP,University of Hartford,NCAA: Division 1,H,14,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
+Julien Giroux-Harvey,RHP,University of Hartford,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,14,0,18.2,0,1,16,22,24,7.71,0,15
+Julio Vasquez,C,Howard (TX),JUCO: Division 1,A,25,55,14,19,2,0,1,13,7,0.345,0.493,0.436,0.929,0,0,0.0,0,0,0,0,0,0.0,0,0
 Justen Tehse,LHP,Williston State,JUCO: Division 2,A,1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,1.0,0,0,0,0,3,0.0,0,2
-Justin Breen,IF,Bossier Parish,JUCO: Division 1,A,44,124,36,38,10,1,9,41,2,0.306,0.473,0.621,1.094,0,0,0.0,0,0,0,0,0,0.0,0,0
-Justin Carinci,C,Mineral Area,JUCO: Division 1,A,40,159,31,52,7,0,1,15,14,0.327,0.389,0.39,0.779,0,0,0.0,0,0,0,0,0,0.0,0,0
+Justin Breen,IF,Bossier Parish,JUCO: Division 1,A,48,140,39,43,13,1,9,44,3,0.307,0.459,0.607,1.066,0,0,0.0,0,0,0,0,0,0.0,0,0
+Justin Carinci,C,Mineral Area,JUCO: Division 1,A,44,176,35,58,9,0,1,15,17,0.33,0.392,0.398,0.79,0,0,0.0,0,0,0,0,0,0.0,0,0
 Justin Humenay,RHP,Virginia Commonwealth University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,2,0,1.2,0,0,3,3,2,16.2,0,4
 Justin Pisano,RHP,Salem University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,,,,0,0
 Justin Rogers,2B,East Central (MO),JUCO: Division 2,A,13,13,9,6,0,0,0,3,3,0.462,0.563,0.462,1.025,0,0,0.0,0,0,0,0,0,0.0,0,0
 Justin Thorsteinson,UT,Oregon State University,NCAA: Division 1,H,7,1,0,1,0,0,0,0,0,1.0,1.0,1.0,2.0,0,0,,0,0,0,0,0,,0,0
-Justin Willis,,Clark,NW Athletic Conference,A,12,19,3,7,1,0,0,2,0,0.368,0.4,0.421,0.821,0,0,0.0,0,0,0,0,0,0.0,0,0
-Kaden Gray,C,Harper,JUCO: Division 3,A,27,83,16,25,9,2,2,13,3,0.301,0.422,0.53,0.952,2,0,2.0,0,1,0,2,2,0.0,0,2
+Justin Willis,,Clark,NW Athletic Conference,A,14,22,4,8,1,0,1,3,0,0.364,0.417,0.545,0.962,0,0,0.0,0,0,0,0,0,0.0,0,0
+Kaden Gray,C,Harper,JUCO: Division 3,A,31,91,19,31,12,2,2,15,4,0.341,0.47,0.582,1.052,2,0,2.0,0,1,0,2,2,0.0,0,2
 Kaden Zarowny,OF,Crowder,JUCO: Division 1,A,15,26,11,6,0,0,0,7,3,0.231,0.31,0.231,0.541,0,0,0.0,0,0,0,0,0,0.0,0,0
-Kaedan Thompson,IF,Southwestern,JUCO: Division 1,A,12,28,8,8,0,1,0,8,0,0.286,0.429,0.357,0.786,0,0,0.0,0,0,0,0,0,0.0,0,0
-Kaiden Cardoso,1B/3B,Minot State University,NCAA: Division 2,H,39,133,27,49,12,1,4,40,5,0.368,0.466,0.564,1.03,0,0,,0,0,0,0,0,,0,0
-Kaiden Zacharias,OF,Asbury University,NCAA: Division 3,H,23,80,21,30,7,2,5,22,8,0.375,0.485,0.7,1.185,0,0,,0,0,0,0,0,,0,0
-Kale Seitz,UTIL,Campbellsville University,NAIA,A,26,51,7,9,2,0,2,7,0,0.176,0.236,0.333,0.569,0,0,0.0,0,0,0,0,0,0.0,0,0
-Kayden Beauregard,C,Illinois State University,NCAA: Division 1,H,8,15,2,1,0,0,0,2,0,0.067,0.222,0.067,0.289,0,0,,0,0,0,0,0,,0,0
-Kayne McGee,IF,West Liberty University,NCAA: Division 2,H,37,101,7,21,7,0,2,21,0,0.208,0.287,0.337,0.624,0,0,,0,0,0,0,0,,0,0
+Kaedan Thompson,IF,Southwestern,JUCO: Division 1,A,13,30,8,8,0,1,0,8,0,0.267,0.405,0.333,0.738,0,0,0.0,0,0,0,0,0,0.0,0,0
+Kaiden Cardoso,1B/3B,Minot State University,NCAA: Division 2,H,42,143,30,52,12,1,4,42,5,0.364,0.463,0.545,1.008,0,0,,0,0,0,0,0,,0,0
+Kaiden Zacharias,OF,Asbury University,NCAA: Division 3,H,24,82,21,30,7,2,5,22,8,0.366,0.48,0.683,1.163,0,0,,0,0,0,0,0,,0,0
+Kale Seitz,UTIL,Campbellsville University,NAIA,A,29,61,11,14,3,0,3,9,0,0.23,0.299,0.426,0.725,0,0,0.0,0,0,0,0,0,0.0,0,0
+Kayden Beauregard,C,Illinois State University,NCAA: Division 1,H,13,27,3,3,0,0,0,2,0,0.111,0.25,0.111,0.361,0,0,,0,0,0,0,0,,0,0
+Kayne McGee,IF,West Liberty University,NCAA: Division 2,H,41,113,9,23,7,0,4,24,0,0.204,0.281,0.372,0.653,0,0,,0,0,0,0,0,,0,0
 Keegan Pulford-Thorpe,LHP,Georgia Highlands,JUCO: Division 1,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,0,5.2,1,0,2,1,8,3.18,0,5
-Kelan Polard,C,Wake Tech,JUCO: Division 2,A,19,40,3,9,1,1,0,7,1,0.225,0.326,0.3,0.626,0,0,0.0,0,0,0,0,0,0.0,0,0
-Kellan Tulio,RHP,Penn State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,10,8,27.2,2,2,12,22,18,3.9,1,33
-Kendall Keller,OF,University of Mary,NCAA: Division 2,H,33,95,21,27,3,0,4,15,5,0.284,0.391,0.442,0.833,0,0,,0,0,0,0,0,,0,0
+Kelan Polard,C,Wake Tech,JUCO: Division 2,A,21,44,3,9,1,1,0,7,1,0.205,0.314,0.273,0.587,0,0,0.0,0,0,0,0,0,0.0,0,0
+Kellan Tulio,RHP,Penn State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,11,8,29.2,2,2,13,24,21,3.94,1,36
+Kendall Keller,OF,University of Mary,NCAA: Division 2,H,38,115,22,30,3,0,4,17,6,0.261,0.367,0.391,0.758,0,0,,0,0,0,0,0,,0,0
 Kenneth Muise,LHP,Williston State,JUCO: Division 2,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Kenneth Sugi,OF,Kaskaskia,JUCO: Division 1,A,25,66,7,15,1,0,0,8,3,0.227,0.288,0.242,0.53,0,0,0.0,0,0,0,0,0,0.0,0,0
-Kenny DiClemente,IF/OF,Crowder,JUCO: Division 1,A,37,102,36,30,8,0,3,28,7,0.294,0.497,0.461,0.958,0,0,0.0,0,0,0,0,0,0.0,0,0
-Kevin Akiyama,OF/C,Lakeland,JUCO: Division 2,A,2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,0,5.0,0,1,1,4,1,1.8,0,4
-Kevin Campbell,P,Onondaga,JUCO: Division 3,A,1,1,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Kevin Millar,P,"University of St. Thomas, Minnesota",NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,4,0,4.2,1,0,2,5,3,3.86,0,8
-Kevin Morgan,,Douglas,NW Athletic Conference,A,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,0,8.0,0,0,11,9,9,12.38,0,13
+Kenneth Sugi,OF,Kaskaskia,JUCO: Division 1,A,30,77,12,20,2,0,0,13,3,0.26,0.337,0.286,0.623,0,0,0.0,0,0,0,0,0,0.0,0,0
+Kenny DiClemente,IF/OF,Crowder,JUCO: Division 1,A,38,104,37,32,9,0,4,32,7,0.308,0.507,0.51,1.017,0,0,0.0,0,0,0,0,0,0.0,0,0
+Kevin Akiyama,OF/C,Lakeland,JUCO: Division 2,A,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,0,5.0,0,1,2,3,2,3.6,0,6
+Kevin Campbell,P,Onondaga,JUCO: Division 3,A,2,2,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
+Kevin Millar,P,"University of St. Thomas, Minnesota",NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,5,1,5.2,1,0,4,7,6,6.35,0,9
+Kevin Morgan,,Douglas,NW Athletic Conference,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,0,9.0,0,0,12,9,12,12.0,0,15
 Kevin Spooner,RHP,Three Rivers,JUCO: Division 1,A,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,1,2.1,0,0,4,7,1,15.43,0,3
-Kevin Thompson,3B/OF,Salem University,NCAA: Division 2,H,8,15,3,4,1,0,0,0,1,0.267,0.389,0.333,0.722,0,0,,0,0,0,0,0,,0,0
-Kevin Zhang,RHP,Cedarville University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,11,1,29.2,1,1,25,47,19,7.58,0,24
-Khalid Collymore,OF,University of Montevallo,NCAA: Division 2,H,20,37,11,12,0,0,3,11,3,0.324,0.378,0.568,0.946,0,0,,0,0,0,0,0,,0,0
+Kevin Thompson,3B/OF,Salem University,NCAA: Division 2,H,10,17,3,4,1,0,0,0,1,0.235,0.35,0.294,0.644,0,0,,0,0,0,0,0,,0,0
+Kevin Zhang,RHP,Cedarville University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,12,1,34.2,2,1,28,53,24,7.27,0,30
+Khalid Collymore,OF,University of Montevallo,NCAA: Division 2,H,22,39,11,14,1,0,3,11,3,0.359,0.404,0.615,1.019,0,0,,0,0,0,0,0,,0,0
 Kian Johnston,1B/OF,Eastern New Mexico University,NCAA: Division 2,H,8,17,0,3,1,0,0,4,0,0.176,0.222,0.235,0.457,0,0,,0,0,0,0,0,,0,0
 Kieran Gagnon,OF,Gannon University,NCAA: Division 2,H,23,61,10,15,3,1,0,10,10,0.246,0.324,0.328,0.652,0,0,,0,0,0,0,0,,0,0
-Kobe Fredland,RHP,Williston State,JUCO: Division 2,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,0,14.0,3,0,9,14,13,5.79,0,23
-Kole Jessamine,RHP,Lake Region State,JUCO: Division 2,A,17,60,17,24,5,1,0,16,3,0.4,0.479,0.517,0.996,4,3,15.2,0,1,10,18,11,5.74,1,14
-Kole Turner,RHP/INF,Three Rivers,JUCO: Division 1,A,46,142,33,41,13,1,3,22,6,0.289,0.376,0.458,0.834,3,0,2.1,0,0,0,0,4,0.0,1,1
-Kye Seitz,1B,Campbellsville University,NAIA,A,19,29,2,3,0,0,0,3,1,0.103,0.161,0.103,0.264,0,0,0.0,0,0,0,0,0,0.0,0,0
+Kobe Fredland,RHP,Williston State,JUCO: Division 2,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,0,18.0,3,0,9,16,14,4.5,0,28
+Kole Jessamine,RHP,Lake Region State,JUCO: Division 2,A,20,67,19,24,5,1,0,16,5,0.358,0.47,0.463,0.933,4,3,15.2,0,1,10,18,11,5.74,1,14
+Kole Turner,RHP/INF,Three Rivers,JUCO: Division 1,A,49,150,35,42,14,1,3,23,6,0.28,0.368,0.447,0.815,3,0,2.1,0,0,0,0,4,0.0,1,1
+Kye Seitz,1B,Campbellsville University,NAIA,A,20,30,2,3,0,0,0,3,1,0.1,0.156,0.1,0.256,0,0,0.0,0,0,0,0,0,0.0,0,0
 Kyle Baumgardt,RHP,Columbia Basin,NW Athletic Conference,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,0,6.2,0,0,3,8,4,4.05,0,5
-Kyle Bloor,RHP,Tennessee Wesleyan University,NAIA,A,14,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,14,7,47.2,9,0,28,53,18,5.29,1,58
-Kyle Blunt,P,D'Youville College,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,8,1,10.2,1,0,9,18,12,7.59,0,8
-Kyle Espineli,INF,Notre Dame College,NCAA: Division 2,H,36,114,21,37,12,1,1,15,1,0.325,0.409,0.474,0.883,0,0,,0,0,0,0,0,,0,0
-Kyle Froehlich,RHP/IF,Colby,JUCO: Division 1,A,38,112,34,38,8,2,8,33,1,0.339,0.46,0.661,1.121,2,1,5.0,1,0,0,4,1,0.0,0,6
-Kyle Kush,IF,Canisius College,NCAA: Division 1,H,33,117,21,31,5,1,0,15,1,0.265,0.381,0.325,0.706,0,0,,0,0,0,0,0,,0,0
-Kyle Lev,RHP,Siena College,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,7,1,8.2,1,2,10,8,17,10.38,0,3
-Kyle Maves,OF,Quinnipiac University,NCAA: Division 1,H,32,120,31,34,7,3,0,16,17,0.283,0.403,0.392,0.795,0,0,,0,0,0,0,0,,0,0
-Kyle Nash,RHP,D'Youville College,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,4,0,2.2,0,1,4,3,2,13.5,0,0
-Kyle Poapst,RHP,University of Antelope Valley,NAIA,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,5,32.2,1,1,20,30,25,5.51,0,30
-Kyle Smyth,RHP,Niagara University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,10,1,8.2,1,1,12,9,18,12.46,0,7
+Kyle Bloor,RHP,Tennessee Wesleyan University,NAIA,A,15,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,15,7,49.0,9,0,28,53,18,5.14,1,59
+Kyle Blunt,P,D'Youville College,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,10,3,20.2,2,0,11,30,15,4.79,0,15
+Kyle Espineli,INF,Notre Dame College,NCAA: Division 2,H,38,119,23,39,12,1,1,16,1,0.328,0.413,0.471,0.884,0,0,,0,0,0,0,0,,0,0
+Kyle Froehlich,RHP/IF,Colby,JUCO: Division 1,A,44,130,35,40,9,2,8,34,1,0.308,0.428,0.592,1.02,3,1,7.0,1,0,0,4,2,0.0,0,10
+Kyle Kush,IF,Canisius College,NCAA: Division 1,H,37,131,25,32,5,1,1,18,2,0.244,0.367,0.321,0.688,0,0,,0,0,0,0,0,,0,0
+Kyle Lev,RHP,Siena College,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,8,1,10.0,1,2,12,10,20,10.8,0,6
+Kyle Maves,OF,Quinnipiac University,NCAA: Division 1,H,37,145,35,38,7,3,0,18,19,0.262,0.375,0.352,0.727,0,0,,0,0,0,0,0,,0,0
+Kyle Nash,RHP,D'Youville College,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,6,0,7.0,0,1,6,7,3,7.71,0,3
+Kyle Poapst,RHP,University of Antelope Valley,NAIA,A,13,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13,6,37.2,1,2,25,35,26,5.97,0,35
+Kyle Smyth,RHP,Niagara University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,13,1,13.2,1,1,14,13,19,9.22,0,12
 Kyle Whiteclaw,,Dakota,JUCO: Division 2,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
 Kyler Charchun,OF,Southwest Baptist University,NCAA: Division 2,H,2,2,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,,0,0,0,0,0,,0,0
-Kyo Sakaguchi,,Douglas,NW Athletic Conference,A,11,11,0,2,0,0,0,1,0,0.182,0.182,0.182,0.364,4,0,10.2,0,0,10,6,14,8.44,0,7
-Layton Cuvilier,OF&LHP,Sullivan County,JUCO: Division 2,A,25,82,27,26,6,1,0,11,7,0.317,0.426,0.415,0.841,6,6,27.0,2,2,16,28,15,5.33,0,33
+Kyo Sakaguchi,,Douglas,NW Athletic Conference,A,12,14,1,2,0,0,0,1,0,0.143,0.2,0.143,0.343,4,0,10.2,0,0,10,6,14,8.44,0,7
+Layton Cuvilier,OF&LHP,Sullivan County,JUCO: Division 2,A,29,93,35,31,6,1,0,18,10,0.333,0.454,0.419,0.873,7,7,32.0,3,2,16,28,15,4.5,0,40
 Lee Majerovits,LHP,Finger Lakes,JUCO: Division 3,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Leo Markotic,INF/OF,"Texas A&M University, Corpus Christi",NCAA: Division 1,H,35,138,30,39,9,0,3,26,0,0.283,0.338,0.413,0.751,0,0,,0,0,0,0,0,,0,0
-Levi Abbott,RHP,Canisius College,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,9,2,16.2,1,3,22,24,22,11.88,0,19
-Liam Allen,IF/RHP,Marshalltown,JUCO: Division 1,A,28,71,10,17,2,2,4,23,0,0.239,0.299,0.493,0.792,8,6,32.2,1,5,31,45,16,8.54,0,26
+Leo Markotic,INF/OF,"Texas A&M University, Corpus Christi",NCAA: Division 1,H,39,153,33,43,10,0,3,29,1,0.281,0.343,0.405,0.748,0,0,,0,0,0,0,0,,0,0
+Levi Abbott,RHP,Canisius College,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,10,2,19.2,1,3,22,26,22,10.07,1,21
+Liam Allen,IF/RHP,Marshalltown,JUCO: Division 1,A,33,81,11,20,2,2,5,26,0,0.247,0.307,0.506,0.813,9,7,42.2,1,6,37,59,21,7.8,0,33
 Liam Bates,RHP,Cloud County,JUCO: Division 1,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Liam Bushey,INF,Mineral Area,JUCO: Division 1,A,37,121,31,54,8,3,4,25,3,0.446,0.524,0.661,1.185,0,0,0.0,0,0,0,0,0,0.0,0,0
-Liam Carey,RHP,Muskingum University,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,17,0,24.2,1,4,13,31,8,4.74,2,21
-Liam Devine,LHP,St. Bonaventure University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,10,6,40.2,0,5,37,61,21,8.19,1,37
-Liam MacLean,,Douglas,NW Athletic Conference,A,10,26,0,1,0,0,0,0,0,0.038,0.107,0.038,0.145,1,0,0.2,0,0,2,1,1,27.0,0,0
-Liam Progulske,RHP/3B,Florida Institute of Technology,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,3,0,4.2,0,0,3,5,3,5.79,0,4
+Liam Bushey,INF,Mineral Area,JUCO: Division 1,A,41,136,37,60,10,3,5,31,3,0.441,0.522,0.669,1.191,0,0,0.0,0,0,0,0,0,0.0,0,0
+Liam Carey,RHP,Muskingum University,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,18,0,25.2,1,5,14,32,9,4.91,2,22
+Liam Devine,LHP,St. Bonaventure University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,11,7,48.2,0,5,41,69,23,7.58,1,40
+Liam MacLean,,Douglas,NW Athletic Conference,A,11,29,1,2,1,0,0,2,0,0.069,0.129,0.103,0.232,1,0,0.2,0,0,2,1,1,27.0,0,0
 Liam Progulske,RHP/3B,Florida Institute of Technology,NCAA: Division 2,H,3,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
-Liam Vulcano,IF,Colby,JUCO: Division 1,A,19,44,12,13,1,0,1,4,1,0.295,0.446,0.386,0.832,0,0,0.0,0,0,0,0,0,0.0,0,0
+Liam Progulske,RHP/3B,Florida Institute of Technology,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,3,0,4.2,0,0,3,5,3,5.79,0,4
+Liam Vulcano,IF,Colby,JUCO: Division 1,A,21,48,14,13,1,0,1,4,2,0.271,0.426,0.354,0.78,0,0,0.0,0,0,0,0,0,0.0,0,0
 Liam Wedge,RHP,Elmira College,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,7,0,7.1,0,1,9,14,7,11.05,0,2
 Lincoln Greasley,IF,Cornell College,NCAA: Division 3,H,1,1,0,1,0,0,0,0,0,1.0,1.0,1.0,2.0,0,0,,0,0,0,0,0,,0,0
 Logan Blumhagen,LHP,William Woods University,NAIA,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,0,8.0,0,0,11,15,4,12.38,0,8
-Logan Grant,IF/C,Bismarck State,JUCO: Division 2,A,28,89,37,46,10,4,7,50,1,0.517,0.593,0.955,1.548,0,0,0.0,0,0,0,0,0,0.0,0,0
-Logan Harvey,C,Marshalltown,JUCO: Division 1,A,4,2,0,0,0,0,0,0,0,0.0,0.5,0.0,0.5,0,0,0.0,0,0,0,0,0,0.0,0,0
+Logan Grant,IF/C,Bismarck State,JUCO: Division 2,A,36,113,49,56,13,4,8,64,2,0.496,0.58,0.894,1.474,0,0,0.0,0,0,0,0,0,0.0,0,0
+Logan Harvey,C,Marshalltown,JUCO: Division 1,A,5,2,0,0,0,0,0,0,0,0.0,0.6,0.0,0.6,0,0,0.0,0,0,0,0,0,0.0,0,0
 Logan Knight,RHP,Ventura College,California CC,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,0,7.0,0,0,5,5,11,6.43,0,5
-Logan MacDougall,SS,University of Maine at Presque Isle,NCAA: Division 3,H,9,23,2,4,1,0,0,0,0,0.174,0.269,0.217,0.486,0,0,,0,0,0,0,0,,0,0
-Logan MacNiel,RHP,Allen County,JUCO: Division 1,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,2,25.2,2,1,13,22,6,4.56,0,34
-Logan Newman,,Douglas,NW Athletic Conference,A,12,39,5,6,0,0,0,5,1,0.154,0.244,0.154,0.398,0,0,0.0,0,0,0,0,0,0.0,0,0
-Logan Sheasgreen,OF,Cayuga,JUCO: Division 3,A,17,42,12,17,1,1,1,12,1,0.405,0.534,0.548,1.082,0,0,0.0,0,0,0,0,0,0.0,0,0
-Logan Warkentin,OF/LHP,Williston State,JUCO: Division 2,A,31,92,28,30,7,0,3,32,0,0.326,0.41,0.5,0.91,2,0,5.1,1,0,3,3,3,5.06,0,11
+Logan MacDougall,SS,University of Maine at Presque Isle,NCAA: Division 3,H,15,41,4,10,1,0,0,2,0,0.244,0.319,0.268,0.587,0,0,,0,0,0,0,0,,0,0
+Logan MacNiel,RHP,Allen County,JUCO: Division 1,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,3,26.2,2,1,14,25,7,4.73,0,36
+Logan Newman,,Douglas,NW Athletic Conference,A,14,45,6,9,1,0,0,6,2,0.2,0.315,0.222,0.537,0,0,0.0,0,0,0,0,0,0.0,0,0
+Logan Sheasgreen,OF,Cayuga,JUCO: Division 3,A,23,52,14,20,1,1,2,14,2,0.385,0.521,0.558,1.079,0,0,0.0,0,0,0,0,0,0.0,0,0
+Logan Warkentin,OF/LHP,Williston State,JUCO: Division 2,A,37,107,29,33,7,0,3,34,0,0.308,0.39,0.458,0.848,2,0,5.1,1,0,3,3,3,5.06,0,11
 Louis Gendron,C/UTL,The College of Saint Rose,NCAA: Division 2,H,9,9,1,2,0,0,0,1,0,0.222,0.3,0.222,0.522,0,0,,0,0,0,0,0,,0,0
-Louis-Philippe Langevin,RHP,Wabash Valley,JUCO: Division 1,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,0,7.1,1,0,1,2,5,1.23,1,12
-Luca Boscarino,C/OF,Connors State,JUCO: Division 1,A,26,67,15,19,4,0,4,21,2,0.284,0.372,0.522,0.894,0,0,0.0,0,0,0,0,0,0.0,0,0
-Lucas Bateman,C/INF,Kankakee,JUCO: Division 2,A,15,28,3,1,1,0,0,5,0,0.036,0.182,0.071,0.253,0,0,0.0,0,0,0,0,0,0.0,0,0
-Lucas DiLuca,INF,Eastern Illinois University,NCAA: Division 1,H,37,133,37,48,9,1,1,29,7,0.361,0.5,0.466,0.966,0,0,,0,0,0,0,0,,0,0
-Lucas Earle,LHP,Allan Hancock College,California CC,A,14,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,14,2,31.0,2,1,13,42,14,3.77,1,31
-Lucas Gilbert,RHP,North Iowa Area,JUCO: Division 2,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,0,7.2,1,0,10,4,6,11.74,0,9
-Lucas Lefebvre,SS,Barstow College,California CC,A,34,125,26,45,6,4,1,19,2,0.36,0.438,0.496,0.934,0,0,0.0,0,0,0,0,0,0.0,0,0
+Louis-Philippe Langevin,RHP,Wabash Valley,JUCO: Division 1,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,0,11.1,1,0,1,5,5,0.79,3,18
+Luca Boscarino,C/OF,Connors State,JUCO: Division 1,A,29,76,17,24,4,0,4,23,2,0.316,0.391,0.526,0.917,0,0,0.0,0,0,0,0,0,0.0,0,0
+Lucas Bateman,C/INF,Kankakee,JUCO: Division 2,A,16,29,4,1,1,0,0,5,0,0.034,0.222,0.069,0.291,0,0,0.0,0,0,0,0,0,0.0,0,0
+Lucas DiLuca,INF,Eastern Illinois University,NCAA: Division 1,H,41,151,42,51,10,1,1,30,8,0.338,0.474,0.437,0.911,0,0,,0,0,0,0,0,,0,0
+Lucas Earle,LHP,Allan Hancock College,California CC,A,16,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,16,3,34.2,3,1,16,45,17,4.15,1,35
+Lucas Gilbert,RHP,North Iowa Area,JUCO: Division 2,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,0,8.2,1,0,11,5,6,11.42,0,10
+Lucas Lefebvre,SS,Barstow College,California CC,A,38,136,28,49,7,4,1,20,2,0.36,0.439,0.493,0.932,0,0,0.0,0,0,0,0,0,0.0,0,0
 Lucas Mackey,C/RHP,Jefferson (NY),JUCO: Division 3,A,9,10,0,2,1,0,0,1,0,0.2,0.2,0.3,0.5,4,0,2.0,0,1,6,5,2,27.0,0,0
-Lucas Wepf,RHP,University of Louisiana at Monroe,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,13,2,25.1,1,3,20,31,19,7.11,1,26
+Lucas Wepf,RHP,University of Louisiana at Monroe,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,15,2,27.2,1,5,23,36,20,7.48,1,29
 Luciano Letteri,OF,University of British Columbia,NAIA,A,6,5,6,2,0,0,0,2,4,0.4,0.5,0.4,0.9,0,0,0.0,0,0,0,0,0,0.0,0,0
-Ludovic Messier,,Morton,JUCO: Division 2,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,0,10.1,0,0,4,8,3,3.48,0,13
-Luigi Russo,1B,Ohio Wesleyan University,NCAA: Division 3,H,30,93,24,35,3,1,5,23,11,0.376,0.536,0.591,1.127,0,0,,0,0,0,0,0,,0,0
+Ludovic Messier,,Morton,JUCO: Division 2,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,0,13.1,0,0,9,12,5,6.07,0,18
+Luigi Russo,1B,Ohio Wesleyan University,NCAA: Division 3,H,34,109,28,39,3,1,5,23,12,0.358,0.51,0.541,1.051,0,0,,0,0,0,0,0,,0,0
 Luis Gallardo,,Dakota,JUCO: Division 2,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Lukas Barry,RHP,Canisius College,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,2,0,2.0,0,0,4,6,1,18.0,0,1
+Lukas Barry,RHP,Canisius College,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,3,0,3.0,0,0,4,6,3,12.0,0,2
 Lukas Touma,RHP,"University of South Carolina, Upstate",NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,5,3,9.2,0,0,7,9,5,6.52,0,6
 Luke Shahin - Kubty,,Bucks County,USCAA,A,17,34,5,6,0,0,0,4,0,0.176,0.263,0.176,0.439,0,0,0.0,0,0,0,0,0,0.0,0,0
-Macallister Gatzke,,Douglas,NW Athletic Conference,A,13,35,4,7,0,0,0,3,0,0.2,0.349,0.2,0.549,3,3,20.0,0,2,4,14,6,1.8,0,21
-Mackenzie Mather,C,State University of New York at Canton,NCAA: Division 3,H,10,20,2,3,0,0,0,1,1,0.15,0.19,0.15,0.34,0,0,,0,0,0,0,0,,0,0
+Macallister Gatzke,,Douglas,NW Athletic Conference,A,15,38,4,7,0,0,0,3,0,0.184,0.34,0.184,0.524,4,4,24.0,0,3,4,15,7,1.5,0,27
+Mackenzie Mather,C,State University of New York at Canton,NCAA: Division 3,H,15,32,6,10,0,1,1,5,1,0.312,0.353,0.469,0.822,0,0,,0,0,0,0,0,,0,0
 Maddux Mateychuk,RHP,Campbellsville University,NAIA,A,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,0,2.1,0,0,2,1,4,7.71,0,3
 Maguire Wakelyn,RHP,Otero,JUCO: Division 1,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,5,21.2,1,4,38,44,17,15.78,0,15
 Malcolm Mingo,,Douglas,NW Athletic Conference,A,4,7,1,0,0,0,0,0,0,0.0,0.125,0.0,0.125,0,0,0.0,0,0,0,0,0,0.0,0,0
-Malik Williams,INF,Lipscomb University,NCAA: Division 1,H,40,154,28,55,4,1,7,42,3,0.357,0.429,0.532,0.961,0,0,,0,0,0,0,0,,0,0
-Malkolm Barrett,RHP,Wheeling Jesuit University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,2,0,1.1,0,0,3,1,2,20.25,0,2
+Malik Williams,INF,Lipscomb University,NCAA: Division 1,H,44,170,31,62,4,1,8,45,4,0.365,0.431,0.541,0.972,0,0,,0,0,0,0,0,,0,0
+Malkolm Barrett,RHP,Wheeling Jesuit University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,3,0,1.1,0,0,7,1,6,47.25,0,2
 Marcus Strother,C,University of Toledo,NCAA: Division 1,H,9,19,1,2,0,0,0,3,0,0.105,0.227,0.105,0.332,0,0,,0,0,0,0,0,,0,0
 Marika Lyszczyk,C/RHP,Rivier University,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,1,0,1.0,0,0,0,,,0.0,0,0
 Marika Lyszczyk,C/RHP,Rivier University,NCAA: Division 3,H,1,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
 Mario Ricci,C,University of British Columbia,NAIA,A,5,10,3,4,1,0,0,2,0,0.4,0.455,0.5,0.955,0,0,0.0,0,0,0,0,0,0.0,0,0
-Marshal Luiz,C,Jackson State University,NCAA: Division 1,H,17,45,6,7,1,0,0,9,4,0.156,0.339,0.178,0.517,0,0,,0,0,0,0,0,,0,0
-Marshall Leishman,LHP,Ashland University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,9,0,10.1,1,0,9,17,7,7.84,0,11
-Martin Vincelli-Simard,INF,Sacramento State University,NCAA: Division 1,H,22,54,8,10,3,0,2,13,0,0.185,0.333,0.352,0.685,0,0,,0,0,0,0,0,,0,0
-Mason Dobie,IF,University of Dayton,NCAA: Division 1,H,17,20,2,4,0,0,0,1,2,0.2,0.448,0.2,0.648,0,0,,0,0,0,0,0,,0,0
-Mason Glowacki,IF,East Central University,NCAA: Division 2,H,43,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
+Marshal Luiz,C,Jackson State University,NCAA: Division 1,H,18,45,6,7,1,0,0,9,4,0.156,0.35,0.178,0.528,0,0,,0,0,0,0,0,,0,0
+Marshall Leishman,LHP,Ashland University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,10,1,13.2,1,0,12,20,10,7.9,0,15
+Martin Vincelli-Simard,INF,Sacramento State University,NCAA: Division 1,H,25,62,8,12,4,0,2,13,1,0.194,0.35,0.355,0.705,0,0,,0,0,0,0,0,,0,0
+Mason Dobie,IF,University of Dayton,NCAA: Division 1,H,19,26,3,5,0,0,0,1,2,0.192,0.4,0.192,0.592,0,0,,0,0,0,0,0,,0,0
+Mason Glowacki,IF,East Central University,NCAA: Division 2,H,47,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
 Mason Nordli,RHP,Lamar,JUCO: Division 1,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,2,10.0,0,3,17,23,8,15.3,0,12
-Mason Wright,C,Erie,JUCO: Division 3,A,16,26,5,5,0,0,1,3,0,0.192,0.323,0.308,0.631,0,0,0.0,0,0,0,0,0,0.0,0,0
-Mateo Zeppieri,OF,McLennan,JUCO: Division 1,A,25,42,16,14,2,1,2,15,1,0.333,0.509,0.571,1.08,0,0,0.0,0,0,0,0,0,0.0,0,0
-Mathieu Sirois,1B/OF,Bellevue University,NAIA,A,35,118,27,34,7,0,7,39,2,0.288,0.408,0.525,0.933,0,0,0.0,0,0,0,0,0,0.0,0,0
-Mathieu Vallee,OF,Dallas Baptist University,NCAA: Division 1,H,11,20,4,4,0,0,0,1,3,0.2,0.273,0.2,0.473,0,0,,0,0,0,0,0,,0,0
-Matt Brandt,C,Spalding University,NCAA: Division 3,H,5,13,2,4,2,0,0,1,0,0.308,0.308,0.462,0.77,0,0,,0,0,0,0,0,,0,0
+Mason Wright,C,Erie,JUCO: Division 3,A,19,34,9,8,0,0,1,5,0,0.235,0.366,0.324,0.69,0,0,0.0,0,0,0,0,0,0.0,0,0
+Mateo Zeppieri,OF,McLennan,JUCO: Division 1,A,27,47,19,14,2,1,2,15,1,0.298,0.484,0.511,0.995,0,0,0.0,0,0,0,0,0,0.0,0,0
+Mathieu Sirois,1B/OF,Bellevue University,NAIA,A,39,134,32,39,7,0,10,42,2,0.291,0.403,0.567,0.97,0,0,0.0,0,0,0,0,0,0.0,0,0
+Mathieu Vallee,OF,Dallas Baptist University,NCAA: Division 1,H,13,22,4,4,0,0,0,1,3,0.182,0.28,0.182,0.462,0,0,,0,0,0,0,0,,0,0
+Matt Brandt,C,Spalding University,NCAA: Division 3,H,6,15,3,5,2,0,0,2,0,0.333,0.312,0.467,0.779,0,0,,0,0,0,0,0,,0,0
 Matt Brown,RHP,Frontier,JUCO: Division 1,A,13,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13,0,52.1,3,6,32,45,30,5.5,0,52
-Matt Coutney,3B/1B,Old Dominion University,NCAA: Division 1,H,38,145,48,54,9,0,21,47,2,0.372,0.486,0.869,1.355,0,0,,0,0,0,0,0,,0,0
-Matt Duffy,RHP,Canisius College,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,10,10,62.2,4,2,26,52,13,3.73,0,80
-Matt Fabian,IF,Ithaca College,NCAA: Division 3,H,27,95,25,33,6,0,3,20,5,0.347,0.471,0.505,0.976,0,0,,0,0,0,0,0,,0,0
+Matt Coutney,3B/1B,Old Dominion University,NCAA: Division 1,H,41,158,51,57,9,0,22,48,2,0.361,0.472,0.835,1.307,0,0,,0,0,0,0,0,,0,0
+Matt Duffy,RHP,Canisius College,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,11,11,69.2,5,2,32,60,15,4.13,0,90
+Matt Fabian,IF,Ithaca College,NCAA: Division 3,H,31,104,28,35,6,0,3,22,8,0.337,0.455,0.481,0.936,0,0,,0,0,0,0,0,,0,0
 Matt Jenkins,OF,Harvard University,NCAA: Division 1,H,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
-Matt McEachern,OF,Lourdes University,NAIA,A,28,72,14,21,4,0,1,11,1,0.292,0.373,0.389,0.762,0,0,0.0,0,0,0,0,0,0.0,0,0
-Matt Schure,OF,Lassen College,California CC,A,26,80,25,29,8,0,1,15,12,0.362,0.447,0.5,0.947,0,0,0.0,0,0,0,0,0,0.0,0,0
-Matt Simpson,C,Northland College,NCAA: Division 3,H,18,63,13,24,2,1,0,10,0,0.381,0.48,0.444,0.924,0,0,,0,0,0,0,0,,0,0
-Matt Torresan,RHP/OF,Iowa Lakes,JUCO: Division 2,A,21,43,10,16,3,1,2,10,2,0.372,0.426,0.628,1.054,1,0,0.1,0,0,0,0,0,0.0,0,1
-Matt Turino,OF,Saint Louis University,NCAA: Division 1,H,31,108,26,34,7,1,2,19,5,0.315,0.433,0.454,0.887,0,0,,0,0,0,0,0,,0,0
-Matt Ward,C,Niagara University,NCAA: Division 1,H,32,112,13,28,2,1,2,8,0,0.25,0.328,0.339,0.667,0,0,,0,0,0,0,0,,0,0
+Matt McEachern,OF,Lourdes University,NAIA,A,30,78,14,22,4,0,1,11,1,0.282,0.36,0.372,0.732,0,0,0.0,0,0,0,0,0,0.0,0,0
+Matt Schure,OF,Lassen College,California CC,A,28,87,26,32,8,0,1,19,12,0.368,0.467,0.494,0.961,0,0,0.0,0,0,0,0,0,0.0,0,0
+Matt Simpson,C,Northland College,NCAA: Division 3,H,24,88,16,29,2,1,0,13,0,0.33,0.416,0.375,0.791,0,0,,0,0,0,0,0,,0,0
+Matt Torresan,RHP/OF,Iowa Lakes,JUCO: Division 2,A,26,56,13,22,3,1,2,13,3,0.393,0.435,0.589,1.024,2,0,0.1,0,0,3,1,2,81.0,0,1
+Matt Turino,OF,Saint Louis University,NCAA: Division 1,H,35,124,28,40,8,2,2,20,6,0.323,0.439,0.468,0.907,0,0,,0,0,0,0,0,,0,0
+Matt Ward,C,Niagara University,NCAA: Division 1,H,36,124,18,34,4,1,2,11,0,0.274,0.348,0.371,0.719,0,0,,0,0,0,0,0,,0,0
 Matt Wiggins,RHP,Niagara University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,,,,0,0
-Matt Wilkinson,LHP,Central Arizona,JUCO: Division 1,A,14,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,14,0,31.0,3,1,5,20,5,1.45,2,58
-Matteo Porcellato,INF,Marian University,NAIA,A,42,154,48,59,16,2,7,38,19,0.383,0.5,0.649,1.149,0,0,0.0,0,0,0,0,0,0.0,0,0
-Matthew Bomersback,RHP,Dawson,JUCO: Division 2,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,0,21.2,2,2,4,14,11,1.66,0,16
-Matthew Dobberthien,RHP/OF,Colby,JUCO: Division 1,A,17,23,6,5,1,0,3,7,1,0.217,0.308,0.652,0.96,10,3,25.1,2,1,15,33,10,5.33,1,24
-Matthew Ferris,C,Niagara County,JUCO: Division 3,A,21,52,15,19,6,1,0,14,0,0.365,0.476,0.519,0.995,0,0,0.0,0,0,0,0,0,0.0,0,0
+Matt Wilkinson,LHP,Central Arizona,JUCO: Division 1,A,15,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,15,0,32.2,4,1,5,20,5,1.38,2,62
+Matteo Porcellato,INF,Marian University,NAIA,A,46,167,50,63,16,2,7,41,20,0.377,0.493,0.623,1.116,0,0,0.0,0,0,0,0,0,0.0,0,0
+Matthew Bomersback,RHP,Dawson,JUCO: Division 2,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,0,29.2,3,2,8,24,17,2.43,0,25
+Matthew Dobberthien,RHP/OF,Colby,JUCO: Division 1,A,21,27,6,5,1,0,3,7,1,0.185,0.267,0.556,0.823,13,3,32.2,2,1,17,38,12,4.68,2,32
+Matthew Ferris,C,Niagara County,JUCO: Division 3,A,25,59,18,24,9,1,0,16,0,0.407,0.539,0.593,1.132,0,0,0.0,0,0,0,0,0,0.0,0,0
 Matthew Jeffery,RHP,Bossier Parish,JUCO: Division 1,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
 Matthew Nolin,LHP,Olivet Nazarene University,NAIA,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,4,23.1,4,0,10,22,16,3.86,0,17
 Matthew O’Reilly,,Douglas,NW Athletic Conference,A,2,1,0,0,0,0,0,0,0,0.0,0.5,0.0,0.5,0,0,0.0,0,0,0,0,0,0.0,0,0
 Matthew Panzica,OF,Ventura College,California CC,A,6,6,1,0,0,0,0,1,0,0.0,0.143,0.0,0.143,0,0,0.0,0,0,0,0,0,0.0,0,0
-Matthew Rogers,RHP,Southwestern,JUCO: Division 1,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,0,11.1,0,1,23,23,17,18.26,0,10
+Matthew Rogers,RHP,Southwestern,JUCO: Division 1,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,0,13.2,0,2,27,28,20,17.78,0,13
 Matthew Watson,RHP,Biola University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,9,0,8.2,0,0,11,13,10,11.42,0,7
-Matthias Trondson,RHP,Northeastern Oklahoma A&M,JUCO: Division 1,A,10,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,10,45.1,2,3,24,50,24,4.76,0,41
-Matys Gagnon,C,Cowley,JUCO: Division 1,A,11,25,4,7,1,0,0,7,0,0.28,0.419,0.32,0.739,0,0,0.0,0,0,0,0,0,0.0,0,0
-Max Grant,IF,Canisius College,NCAA: Division 1,H,35,146,37,58,9,2,7,35,6,0.397,0.491,0.63,1.121,0,0,,0,0,0,0,0,,0,0
+Matthias Trondson,RHP,Northeastern Oklahoma A&M,JUCO: Division 1,A,10,0,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,10,45.1,2,3,24,50.0,24.0,4.76,0,41
+Matys Gagnon,C,Cowley,JUCO: Division 1,A,13,30,4,7,1,0,0,7,0,0.233,0.378,0.267,0.645,0,0,0.0,0,0,0,0,0,0.0,0,0
+Max Grant,IF,Canisius College,NCAA: Division 1,H,39,166,43,71,12,3,8,44,7,0.428,0.513,0.681,1.194,0,0,,0,0,0,0,0,,0,0
 Max Lojko,RHP,Lourdes University,NAIA,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,0,5.0,1,0,7,8,4,12.6,0,3
 Max Poole,RHP,Mars Hill University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,12,0,14.2,0,1,13,22,12,7.98,0,10
 Max Von Gemmingen,C,Spring Arbor University,NAIA,A,17,37,8,5,0,0,0,6,0,0.135,0.319,0.135,0.454,10,0,0.0,0,0,0,0,0,0.0,0,0
 Maxime Adam,OF,Western Nebraska,JUCO: Division 1,A,4,9,1,2,0,0,1,3,3,0.222,0.533,0.556,1.089,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0
 Micah McDowell,OF,Oregon State University,NCAA: Division 1,H,12,31,5,5,1,0,0,3,1,0.161,0.278,0.194,0.472,0,0,,0,0,0,0,0,,0,0
-Michael Bonaccorso,RHP,Saint Peter's University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,12,0,10.2,1,0,30,24,13,25.31,0,7
-Michael Clapperton,INF,"University of Texas, Permian Basin",NCAA: Division 2,H,45,152,31,48,9,0,1,22,7,0.316,0.411,0.395,0.806,0,0,,0,0,0,0,0,,0,0
+Michael Bonaccorso,RHP,Saint Peter's University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,14,0,13.2,1,0,30,26,16,19.76,0,13
+Michael Clapperton,INF,"University of Texas, Permian Basin",NCAA: Division 2,H,49,163,32,52,10,0,1,23,7,0.319,0.411,0.399,0.81,0,0,,0,0,0,0,0,,0,0
 Michael Khatkar,INF,Otero,JUCO: Division 1,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Michael Millross,UTL,Elmira College,NCAA: Division 3,H,11,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
-Michael Watson,RHP,St. Lawrence University,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,7,1,11.2,1,0,5,17,9,3.86,0,6
+Michael Millross,UTL,Elmira College,NCAA: Division 3,H,13,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
+Michael Watson,RHP,St. Lawrence University,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,8,1,12.2,1,0,7,20,10,4.97,0,8
 Mickenzie Sondergaard,LHP,Three Rivers,JUCO: Division 1,A,3,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,0,2.2,0,0,2,2,6,6.75,0,3
 Mike Brisson,INF,Niagara University,NCAA: Division 1,H,4,4,1,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,,0,0,0,0,0,,0,0
-Mike Fitzsimmons,IF,University of British Columbia,NAIA,A,39,162,34,42,14,4,1,25,10,0.259,0.346,0.414,0.76,0,0,0.0,0,0,0,0,0,0.0,0,0
-Mike MacDougall,RHP,University of Indianapolis,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,5,3,10.0,0,1,11,12,7,9.9,0,9
-Mike Short,IF,Minnesota State,JUCO: Division 3,A,22,72,18,18,2,0,4,14,2,0.25,0.357,0.444,0.801,5,0,5.1,0,0,3,3,4,5.06,1,10
-Mitchell Dennis,RHP,University of Jamestown,NAIA,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,3,21.0,1,1,26,40,14,11.14,0,17
-Mitchell Haywood,C|1B,CCBC Essex,JUCO: Division 2,A,30,79,18,19,6,0,1,8,2,0.241,0.406,0.354,0.76,0,0,0.0,0,0,0,0,0,0.0,0,0
-Mitchell Middlemiss,OF,University of British Columbia,NAIA,A,18,54,7,16,1,0,0,9,1,0.296,0.333,0.315,0.648,0,0,0.0,0,0,0,0,0,0.0,0,0
+Mike Fitzsimmons,IF,University of British Columbia,NAIA,A,43,172,39,47,14,4,3,28,11,0.273,0.369,0.453,0.822,0,0,0.0,0,0,0,0,0,0.0,0,0
+Mike MacDougall,RHP,University of Indianapolis,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,7,4,18.0,0,2,14,18,8,7.0,0,19
+Mike Short,IF,Minnesota State,JUCO: Division 3,A,28,90,23,24,3,0,5,19,2,0.267,0.377,0.467,0.844,6,0,6.1,0,0,4,5,5,5.68,2,12
+Mitchell Dennis,RHP,University of Jamestown,NAIA,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,3,21.1,1,1,26,40,14,10.97,0,17
+Mitchell Haywood,C|1B,CCBC Essex,JUCO: Division 2,A,32,84,19,19,6,0,1,9,2,0.226,0.393,0.333,0.726,0,0,0.0,0,0,0,0,0,0.0,0,0
+Mitchell Middlemiss,OF,University of British Columbia,NAIA,A,20,61,7,17,1,0,0,10,1,0.279,0.313,0.295,0.608,0,0,0.0,0,0,0,0,0,0.0,0,0
 Myles Pallister,RHP,Niagara University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,1,0,,0,0,3,1,2,,0,0
-Nash Crowell,IF,Bismarck State,JUCO: Division 2,A,28,87,29,42,8,4,2,42,8,0.483,0.505,0.736,1.241,0,0,0.0,0,0,0,0,0,0.0,0,0
+Nash Crowell,IF,Bismarck State,JUCO: Division 2,A,36,111,35,54,11,4,2,56,11,0.486,0.512,0.712,1.224,0,0,0.0,0,0,0,0,0,0.0,0,0
 Nate Rosser,RHP,Ohlone College,California CC,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,3,20.1,0,0,18,29,12,7.97,0,22
 Nathan Boutilier,OF,Pratt,JUCO: Division 1,A,5,13,3,2,0,0,0,2,0,0.154,0.313,0.154,0.467,0,0,0.0,0,0,0,0,0,0.0,0,0
-Nathan Galati,RHP,Northeastern,JUCO: Division 1,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,0,4.2,1,0,3,7,5,5.79,0,2
+Nathan Galati,RHP,Northeastern,JUCO: Division 1,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,0,6.2,1,0,6,14,7,8.1,0,6
 Nathan Holmes,RHP,University of Texas at Tyler,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,5,0,3.2,0,0,4,7,4,9.82,0,6
 Nathan Kolb,RHP,University of Mary,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,,,,0,0
 Nathan Landry,LHP,University of Missouri,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,11,4,32.1,3,2,12,25,5,3.34,1,41
-Nathan Picchioni,RHP,Lawrence Technological University,NAIA,A,17,28,6,6,1,0,2,10,1,0.214,0.303,0.464,0.767,0,0,0.0,0,0,0,0,0,0.0,0,0
-Nathan Scragg,MIF,Dawson,JUCO: Division 2,A,14,44,14,13,0,0,2,6,5,0.295,0.446,0.432,0.878,0,0,0.0,0,0,0,0,0,0.0,0,0
-Nathan Shute,C/OF,University of British Columbia,NAIA,A,43,178,28,54,12,1,2,32,1,0.303,0.357,0.416,0.773,0,0,0.0,0,0,0,0,0,0.0,0,0
+Nathan Picchioni,RHP,Lawrence Technological University,NAIA,A,18,31,7,7,2,0,2,10,1,0.226,0.306,0.484,0.79,0,0,0.0,0,0,0,0,0,0.0,0,0
+Nathan Scragg,MIF,Dawson,JUCO: Division 2,A,25,84,23,28,2,0,2,17,9,0.333,0.441,0.429,0.87,0,0,0.0,0,0,0,0,0,0.0,0,0
+Nathan Shute,C/OF,University of British Columbia,NAIA,A,47,191,28,56,12,1,2,33,1,0.293,0.344,0.398,0.742,0,0,0.0,0,0,0,0,0,0.0,0,0
 Nathan Slobodian,RHP,Minot State University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,,,,0,0
 Nelson Mercado,3B/RHP,Connors State,JUCO: Division 1,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,5,21.1,2,0,15,24,10,6.33,0,21
 Nicholas Fazzari,C,Charleston Southern University,NCAA: Division 1,H,27,60,12,14,3,1,1,11,1,0.233,0.372,0.367,0.739,0,0,,0,0,0,0,0,,0,0
-Nicholas Graham,RHP,Faulkner University,NAIA,A,18,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,18,0,28.1,3,2,18,25,22,5.72,2,40
-Nicholas Thibodeau,C,Howard (TX),JUCO: Division 1,A,31,97,29,37,5,0,7,25,2,0.381,0.45,0.649,1.099,0,0,0.0,0,0,0,0,0,0.0,0,0
-Nick Backstrom,RHP/3B,Lindsey Wilson College,NAIA,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,1,21.0,0,1,17,30,8,7.29,0,23
-Nick DiGennaro,INF,Lourdes University,NAIA,A,31,49,13,10,1,1,1,8,1,0.204,0.264,0.327,0.591,0,0,0.0,0,0,0,0,0,0.0,0,0
-Nick George,UT,William Penn University,NAIA,A,27,34,7,12,3,0,1,10,0,0.353,0.389,0.529,0.918,11,11,60.1,5,4,30,58.0,21.0,4.48,0,42
+Nicholas Graham,RHP,Faulkner University,NAIA,A,20,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,20,0,29.1,3,3,18,28,23,5.52,2,41
+Nicholas Thibodeau,C,Howard (TX),JUCO: Division 1,A,33,104,30,38,6,0,7,26,2,0.365,0.436,0.625,1.061,0,0,0.0,0,0,0,0,0,0.0,0,0
+Nick Backstrom,RHP/3B,Lindsey Wilson College,NAIA,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,1,23.1,0,1,21,36,16,8.1,0,27
+Nick DiGennaro,INF,Lourdes University,NAIA,A,33,53,14,10,1,1,1,8,1,0.189,0.271,0.302,0.573,0,0,0.0,0,0,0,0,0,0.0,0,0
+Nick George,UT,William Penn University,NAIA,A,30,42,8,15,3,0,2,13,0,0.357,0.391,0.571,0.962,11,11,60.1,5,4,30,58.0,21.0,4.48,0,42
 Nick Holdershaw,OF,University of Dubuque,NCAA: Division 3,H,4,4,1,1,0,0,0,2,0,0.25,0.25,0.25,0.5,0,0,,0,0,0,0,0,,0,0
-Nick Tremblay,OF,Trinidad State,JUCO: Division 1,A,48,149,59,52,11,4,4,36,14,0.349,0.462,0.557,1.019,0,0,0.0,0,0,0,0,0,0.0,0,0
-Nick Veselinovic,LHP,Niagara University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,7,1,7.1,0,1,6,9,12,7.36,0,7
-Nick Woodcock,LHP,Yavapai,JUCO: Division 1,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,3,15.2,2,0,6,13,14,3.45,0,21
-Nico Saldias,RHP,Saint Xavier University,NAIA,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,5,37.2,4,2,13,32,14,3.11,0,58
-Nicolas Santarelli,,Douglas,NW Athletic Conference,A,13,51,4,10,2,0,0,3,1,0.196,0.255,0.235,0.49,0,0,0.0,0,0,0,0,0,0.0,0,0
-Noah Boutilier,INF,Panola,JUCO: Division 1,A,15,28,4,5,0,0,0,1,0,0.179,0.273,0.179,0.452,0,0,0.0,0,0,0,0,0,0.0,0,0
-Noah Geekie,OF/LHP,Emporia State University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,13,5,49.0,6,2,26,41,16,4.78,1,55
-Noah Geekie,OF/LHP,Emporia State University,NCAA: Division 2,H,39,110,13,35,3,2,1,13,6,0.318,0.37,0.409,0.779,0,0,,0,0,0,0,0,,0,0
-Noah Hull,OF/1B,University of Mary,NCAA: Division 2,H,37,130,12,27,4,2,4,29,1,0.208,0.303,0.362,0.665,0,0,,0,0,0,0,0,,0,0
-Noah London,OF,University of Northwestern Ohio,NAIA,A,40,88,32,19,4,1,4,18,10,0.216,0.375,0.42,0.795,4,0,0.0,0,0,0,0,0,0.0,0,0
-Noah Murciano,C,Sussex County,JUCO: Division 2,A,16,37,3,11,2,0,0,7,1,0.297,0.395,0.351,0.746,0,0,0.0,0,0,0,0,0,0.0,0,0
-Noah Myers,OF,"University of South Carolina, Upstate",NCAA: Division 1,H,41,163,44,48,9,2,3,18,19,0.294,0.412,0.429,0.841,0,0,,0,0,0,0,0,,0,0
-Noah Or,C,University of British Columbia,NAIA,A,42,168,23,56,9,1,0,29,3,0.333,0.436,0.399,0.835,0,0,0.0,0,0,0,0,0,0.0,0,0
+Nick Tremblay,OF,Trinidad State,JUCO: Division 1,A,50,158,63,56,12,4,4,37,16,0.354,0.461,0.557,1.018,0,0,0.0,0,0,0,0,0,0.0,0,0
+Nick Veselinovic,LHP,Niagara University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,8,1,8.0,0,1,7,11,13,7.88,0,8
+Nick Woodcock,LHP,Yavapai,JUCO: Division 1,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,4,20.2,3,0,7,20,16,3.05,0,25
+Nico Saldias,RHP,Saint Xavier University,NAIA,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,6,44.2,4,2,15,36,15,3.02,0,67
+Nicolas Santarelli,,Douglas,NW Athletic Conference,A,15,59,4,12,3,0,0,3,2,0.203,0.266,0.254,0.52,0,0,0.0,0,0,0,0,0,0.0,0,0
+Noah Boutilier,INF,Panola,JUCO: Division 1,A,17,29,4,5,0,0,0,1,0,0.172,0.286,0.172,0.458,0,0,0.0,0,0,0,0,0,0.0,0,0
+Noah Geekie,OF/LHP,Emporia State University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,14,6,50.0,6,2,28,44,18,5.04,1,56
+Noah Geekie,OF/LHP,Emporia State University,NCAA: Division 2,H,40,110,13,35,3,2,1,13,6,0.318,0.37,0.409,0.779,0,0,,0,0,0,0,0,,0,0
+Noah Hull,OF/1B,University of Mary,NCAA: Division 2,H,39,135,12,27,4,2,4,29,1,0.2,0.293,0.348,0.641,0,0,,0,0,0,0,0,,0,0
+Noah London,OF,University of Northwestern Ohio,NAIA,A,42,93,32,19,4,1,4,18,10,0.204,0.359,0.398,0.757,4,0,0.0,0,0,0,0,0,0.0,0,0
+Noah Murciano,C,Sussex County,JUCO: Division 2,A,18,44,7,14,2,0,0,7,1,0.318,0.412,0.364,0.776,0,0,0.0,0,0,0,0,0,0.0,0,0
+Noah Myers,OF,"University of South Carolina, Upstate",NCAA: Division 1,H,44,175,48,52,9,2,6,24,19,0.297,0.41,0.474,0.884,0,0,,0,0,0,0,0,,0,0
+Noah Or,C,University of British Columbia,NAIA,A,45,179,25,58,9,1,1,31,3,0.324,0.426,0.402,0.828,0,0,0.0,0,0,0,0,0,0.0,0,0
 Noah Penney,RHP,Tiffin University,NCAA: Division 2,H,9,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
 Noah Richardson,P/1B/OF,Northern Kentucky University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,4,0,7.2,1,0,3,6,4,3.52,0,11
 Noah Richardson,P/1B/OF,Northern Kentucky University,NCAA: Division 1,H,4,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
-Noah Roberts,C,Arizona Western,JUCO: Division 1,A,31,87,4,25,6,1,4,22,0,0.287,0.382,0.517,0.899,0,0,0.0,0,0,0,0,0,0.0,0,0
-Noah Takacs,RHP,Sacramento State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,10,6,30.0,1,2,28,36,14,8.4,0,32
-Noel McGarry-Doyle,OF,Southeastern,JUCO: Division 2,A,43,118,33,34,8,0,8,31,13,0.288,0.479,0.559,1.038,0,0,0.0,0,0,0,0,0,0.0,0,0
-Nolan Austin,1B,Northeastern Oklahoma A&M,JUCO: Division 1,A,31,91,18,22,3,0,5,23,1,0.242,0.352,0.44,0.792,0,0,0.0,0,0,0,0,0,0.0,0,0
-Nolan Gallagher,INF,Medaille College,NCAA: Division 3,H,17,51,3,13,3,0,1,4,1,0.255,0.283,0.373,0.656,0,0,,0,0,0,0,0,,0,0
+Noah Roberts,C,Arizona Western,JUCO: Division 1,A,33,92,4,27,7,1,4,22,0,0.293,0.383,0.522,0.905,0,0,0.0,0,0,0,0,0,0.0,0,0
+Noah Takacs,RHP,Sacramento State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,11,7,35.0,1,3,31,39,18,7.97,0,37
+Noel McGarry-Doyle,OF,Southeastern,JUCO: Division 2,A,49,138,45,46,12,1,9,40,17,0.333,0.508,0.63,1.138,0,0,0.0,0,0,0,0,0,0.0,0,0
+Nolan Austin,1B,Northeastern Oklahoma A&M,JUCO: Division 1,A,35,102,18,23,3,0,5,24,1,0.225,0.333,0.402,0.735,0,0,0.0,0,0,0,0,0,0.0,0,0
+Nolan Gallagher,INF,Medaille College,NCAA: Division 3,H,19,58,5,13,3,0,1,4,2,0.224,0.262,0.328,0.59,0,0,,0,0,0,0,0,,0,0
 Nolan Hines,,Clark,NW Athletic Conference,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,0,4.1,0,0,3,6,1,6.23,0,3
-Nolan MacDonald,,Douglas,NW Athletic Conference,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,3,1,19.2,0,3,26,24,22,11.9,0,12
-Nolan Phelan,OF,Finger Lakes,JUCO: Division 3,A,8,10,1,3,1,0,0,1,0,0.3,0.417,0.4,0.817,0,0,0.0,0,0,0,0,0,0.0,0,0
-Nolan Weger,IF,University of British Columbia,NAIA,A,32,115,13,26,6,0,2,16,3,0.226,0.318,0.33,0.648,0,0,0.0,0,0,0,0,0,0.0,0,0
-Owen Benson,OF,Indiana University-South Bend,NAIA,A,26,73,17,22,5,1,0,9,2,0.301,0.427,0.397,0.824,0,0,0.0,0,0,0,0,0,0.0,0,0
-Owen Diodati,OF,University of Alabama,NCAA: Division 1,H,38,129,19,30,6,0,8,23,2,0.233,0.331,0.465,0.796,0,0,,0,0,0,0,0,,0,0
-Owen Jansen,2B/3B,Saint Leo University,NCAA: Division 2,H,11,17,2,2,0,0,1,2,0,0.118,0.167,0.294,0.461,0,0,,0,0,0,0,0,,0,0
-Owen MacNeil,P,University of Charleston,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,10,6,28.0,3,2,17,33,9,5.46,0,27
-Owen Mitchell,RHP,Garden City,JUCO: Division 1,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,0,4.1,0,0,6,7,6,12.46,0,6
-Owen Stevenson,RHP/SS,Niagara County,JUCO: Division 3,A,7,11,4,6,2,0,0,4,2,0.545,0.583,0.727,1.31,0,0,0.0,0,0,0,0,0,0.0,0,0
+Nolan MacDonald,,Douglas,NW Athletic Conference,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,1,23.2,0,3,31,31,27,11.79,0,15
+Nolan Phelan,OF,Finger Lakes,JUCO: Division 3,A,13,17,3,6,1,0,0,1,0,0.353,0.421,0.412,0.833,0,0,0.0,0,0,0,0,0,0.0,0,0
+Nolan Weger,IF,University of British Columbia,NAIA,A,35,124,14,27,6,0,2,18,4,0.218,0.305,0.315,0.62,0,0,0.0,0,0,0,0,0,0.0,0,0
+Owen Benson,OF,Indiana University-South Bend,NAIA,A,31,89,20,25,7,1,0,14,2,0.281,0.409,0.382,0.791,0,0,0.0,0,0,0,0,0,0.0,0,0
+Owen Diodati,OF,University of Alabama,NCAA: Division 1,H,41,140,22,34,6,0,9,24,3,0.243,0.338,0.479,0.817,0,0,,0,0,0,0,0,,0,0
+Owen Jansen,2B/3B,Saint Leo University,NCAA: Division 2,H,12,18,2,2,0,0,1,2,0,0.111,0.158,0.278,0.436,0,0,,0,0,0,0,0,,0,0
+Owen MacNeil,P,University of Charleston,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,11,7,35.0,3,2,17,35,11,4.37,0,38
+Owen Mitchell,RHP,Garden City,JUCO: Division 1,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,0,6.1,0,0,6,9,6,8.53,0,8
+Owen Stevenson,RHP/SS,Niagara County,JUCO: Division 3,A,10,16,8,8,2,0,0,5,3,0.5,0.6,0.625,1.225,0,0,0.0,0,0,0,0,0,0.0,0,0
 PJ Bellemare,C,Benedictine University,NCAA: Division 3,H,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0.0,0.0,,0,0
-Parker Savard,INF,St. Cloud State University,NCAA: Division 2,H,16,16,3,5,0,0,0,2,0,0.312,0.333,0.312,0.645,0,0,,0,0,0,0,0,,0,0
-Parker Wakelyn,RHP,University of Mary,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,9,6,29.2,4,1,28,34,27,8.49,0,21
+Parker Savard,INF,St. Cloud State University,NCAA: Division 2,H,18,19,4,5,0,0,0,2,0,0.263,0.318,0.263,0.581,0,0,,0,0,0,0,0,,0,0
+Parker Wakelyn,RHP,University of Mary,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,10,7,34.2,4,1,29,38,28,7.53,0,30
 Patrick Mulligan,MIF,Cloud County,JUCO: Division 1,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Patrick Tangen,RHP,Lake Region State,JUCO: Division 2,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,2,13.2,2,0,10,16,7,6.59,0,11
-Paul Georget,INF,Nebraska Wesleyan University,NCAA: Division 3,H,33,104,14,23,4,0,0,14,2,0.221,0.314,0.26,0.574,0,0,,0,0,0,0,0,,0,0
-Payton DeLuca,IF,Mayville State University,NAIA,A,23,36,2,6,0,0,0,2,0,0.167,0.268,0.167,0.435,0,0,0.0,0,0,0,0,0,0.0,0,0
-Payton McHarg,OF/RHP,Kansas City Kansas,JUCO: Division 1,A,25,59,18,19,7,1,1,16,4,0.322,0.5,0.525,1.025,0,0,0.0,0,0,0,0,0,0.0,0,0
-Peyton Consigli,RHP,Canisius College,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,12,1,26.2,2,2,6,17,12,2.02,3,34
-Pier-Olivier Boucher,OF,Southern Illinois University at Carbondale,NCAA: Division 1,H,35,106,26,31,6,0,5,20,5,0.292,0.397,0.491,0.888,0,0,,0,0,0,0,0,,0,0
-Quinn Tocheniuk,RHP,Pratt,JUCO: Division 1,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,1,15.1,1,2,26,35,9,15.26,0,7
+Patrick Tangen,RHP,Lake Region State,JUCO: Division 2,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,2,14.2,2,0,12,18,9,7.36,0,12
+Paul Georget,INF,Nebraska Wesleyan University,NCAA: Division 3,H,36,114,18,27,5,0,0,16,2,0.237,0.331,0.281,0.612,0,0,,0,0,0,0,0,,0,0
+Payton DeLuca,IF,Mayville State University,NAIA,A,24,37,2,6,0,0,0,2,0,0.162,0.262,0.162,0.424,0,0,0.0,0,0,0,0,0,0.0,0,0
+Payton McHarg,OF/RHP,Kansas City Kansas,JUCO: Division 1,A,29,67,21,23,8,1,1,21,4,0.343,0.505,0.537,1.042,0,0,0.0,0,0,0,0,0,0.0,0,0
+Peyton Consigli,RHP,Canisius College,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,14,1,29.2,3,2,6,18,13,1.82,4,40
+Pier-Olivier Boucher,OF,Southern Illinois University at Carbondale,NCAA: Division 1,H,37,115,28,33,6,0,5,21,5,0.287,0.39,0.47,0.86,0,0,,0,0,0,0,0,,0,0
+Quinn Tocheniuk,RHP,Pratt,JUCO: Division 1,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,1,15.2,1,2,30,38,10,17.23,0,7
 RJ Mayor,OF,Mineral Area,JUCO: Division 1,A,14,31,3,5,1,0,1,7,0,0.161,0.297,0.29,0.587,0,0,0.0,0,0,0,0,0,0.0,0,0
-Raphael Pelletier,C,Kansas State University,NCAA: Division 1,H,21,33,7,11,4,0,3,6,0,0.333,0.405,0.727,1.132,0,0,,0,0,0,0,0,,0,0
-Reece Reading,UT,"University of Arkansas, Monticello",NCAA: Division 2,H,36,117,24,33,3,1,4,24,0,0.282,0.423,0.427,0.85,0,0,,0,0,0,0,0,,0,0
+Raphael Pelletier,C,Kansas State University,NCAA: Division 1,H,25,35,9,12,4,0,4,7,0,0.343,0.439,0.8,1.239,0,0,,0,0,0,0,0,,0,0
+Reece Reading,UT,"University of Arkansas, Monticello",NCAA: Division 2,H,40,131,26,36,3,1,4,25,0,0.275,0.409,0.405,0.814,0,0,,0,0,0,0,0,,0,0
 Reed Odland,C,"University of Arkansas, Monticello",NCAA: Division 2,H,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
-Rhys Cratty,IF,Southwest Baptist University,NCAA: Division 2,H,41,140,22,42,8,2,7,35,0,0.3,0.368,0.536,0.904,0,0,,0,0,0,0,0,,0,0
-Ricardo Sanchez,INF,Barton,JUCO: Division 1,A,46,160,61,70,26,3,7,70,23,0.438,0.545,0.769,1.314,0,0,0.0,0,0,0,0,0,0.0,0,0
+Rhys Cratty,IF,Southwest Baptist University,NCAA: Division 2,H,45,156,28,52,10,2,11,43,0,0.333,0.395,0.635,1.03,0,0,,0,0,0,0,0,,0,0
+Ricardo Sanchez,INF,Barton,JUCO: Division 1,A,51,176,67,79,32,3,8,78,25,0.449,0.558,0.801,1.359,0,0,0.0,0,0,0,0,0,0.0,0,0
 Richard Makarios,C,Sauk Valley,JUCO: Division 2,A,12,27,2,3,2,0,0,4,0,0.111,0.194,0.185,0.379,0,0,0.0,0,0,0,0,0,0.0,0,0
-Riley Craw,RHP/INF,Lake Region State,JUCO: Division 2,A,17,63,19,26,9,3,1,18,0,0.413,0.493,0.698,1.191,2,1,3.0,0,0,1,4,1,3.0,0,5
-Riley Girod,C,Kansas City Kansas,JUCO: Division 1,A,6,8,4,2,0,0,0,2,0,0.25,0.455,0.25,0.705,0,0,0.0,0,0,0,0,0,0.0,0,0
+Riley Craw,RHP/INF,Lake Region State,JUCO: Division 2,A,20,71,22,30,11,3,1,20,0,0.423,0.506,0.704,1.21,2,1,3.0,0,0,1,4,1,3.0,0,5
+Riley Girod,C,Kansas City Kansas,JUCO: Division 1,A,9,13,6,4,1,0,0,2,0,0.308,0.438,0.385,0.823,0,0,0.0,0,0,0,0,0,0.0,0,0
 Riley McErlean,C,The College of Wooster,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,,,,0,0
 Riley McErlean,C,The College of Wooster,NCAA: Division 3,H,5,6,2,0,0,0,0,2,0,0.0,0.222,0.0,0.222,0,0,,0,0,0,0,0,,0,0
-Riley McKinnon,RHP,Marshalltown,JUCO: Division 1,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,0,19.1,1,1,22,23,15,10.24,0,18
-Riley Silva,OF,Barton,JUCO: Division 1,A,6,7,1,1,0,0,0,0,0,0.143,0.333,0.143,0.476,0,0,0.0,0,0,0,0,0,0.0,0,0
+Riley McKinnon,RHP,Marshalltown,JUCO: Division 1,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,1,24.1,1,1,23,30,15,8.51,0,24
+Riley Silva,OF,Barton,JUCO: Division 1,A,7,8,1,1,0,0,0,0,0,0.125,0.3,0.125,0.425,0,0,0.0,0,0,0,0,0,0.0,0,0
 Rilley Dube,C,West Virginia University Institute of Technology,NAIA,A,36,88,8,24,9,1,2,25,1,0.273,0.368,0.466,0.834,0,0,0.0,0,0,0,0,0,0.0,0,0
 Robert Tolhurst,RHP,Southwestern,JUCO: Division 1,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,0,1.1,0,0,1,4,5,6.75,0,2
-Robin Villenueve,LHP/1B,Weatherford,JUCO: Division 1,A,33,83,22,28,3,0,5,26,3,0.337,0.383,0.554,0.937,8,4,30.1,3,0,6,18,14,1.78,0,34
-Roman Guthrie,,SW Oregon,NW Athletic Conference,A,20,47,6,12,1,0,0,6,3,0.255,0.352,0.277,0.629,4,1,8.1,1,1,14,13,6,15.12,0,10
+Robin Villenueve,LHP/1B,Weatherford,JUCO: Division 1,A,37,91,24,30,4,0,5,28,3,0.33,0.373,0.538,0.911,9,5,35.1,3,0,10,24,15,2.55,0,39
+Roman Guthrie,,SW Oregon,NW Athletic Conference,A,24,55,6,14,1,0,0,6,3,0.255,0.349,0.273,0.622,4,1,8.1,1,1,14,13,6,15.12,0,10
 Ronnel Castro,INF,Frontier,JUCO: Division 1,A,2,2,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
 Rory Burke,RHP,Davis and Elkins College,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,,,,0,0
-Russell Derbyshire,RHP,Mineral Area,JUCO: Division 1,A,11,0,0,0,0,0,0,0,0,0.0,1.0,0.0,1.0,11,8,49.1,3,1,31,57,20,5.66,1,50
-Russell Young,C,Johnson County,JUCO: Division 1,A,17,37,9,8,1,1,1,7,1,0.216,0.293,0.378,0.671,0,0,0.0,0,0,0,0,0,0.0,0,0
-Ryan Beitel,RHP/IF,University of British Columbia,NAIA,A,18,17,2,6,0,0,0,1,0,0.353,0.389,0.353,0.742,12,12,60.1,3,3,33,67,17,4.92,0,61
-Ryan Brodie,RHP,Monroe CC,JUCO: Division 2,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,0,8.0,1,1,8,9,4,9.0,0,9
-Ryan Capuano,RHP,Marshall University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,12,7,46.1,2,5,35,51,18,6.8,1,53
+Russell Derbyshire,RHP,Mineral Area,JUCO: Division 1,A,12,0,0,0,0,0,0,0,0,0.0,1.0,0.0,1.0,12,9,54.0,3,2,36,64,24,6.0,1,55
+Russell Young,C,Johnson County,JUCO: Division 1,A,19,40,11,10,1,1,1,8,2,0.25,0.348,0.4,0.748,0,0,0.0,0,0,0,0,0,0.0,0,0
+Ryan Beitel,RHP/IF,University of British Columbia,NAIA,A,19,17,2,6,0,0,0,1,0,0.353,0.389,0.353,0.742,13,13,66.1,3,3,34,70,19,4.61,0,70
+Ryan Brodie,RHP,Monroe CC,JUCO: Division 2,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,1,12.1,2,1,9,10,11,6.57,0,19
+Ryan Capuano,RHP,Marshall University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,13,8,48.1,2,5,40,57,21,7.45,1,55
 Ryan Dos Santos,OF,Tusculum College,NCAA: Division 2,H,38,112,18,34,8,1,0,12,4,0.304,0.391,0.393,0.784,0,0,,0,0,0,0,0,,0,0
-Ryan Estey,RHP,Garden City,JUCO: Division 1,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,3,17.1,0,1,19,19,20,9.87,0,31
+Ryan Estey,RHP,Garden City,JUCO: Division 1,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,3,20.1,1,1,19,20,20,8.41,0,35
 Ryan Johnson,C,Hesston,JUCO: Division 2,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Ryan Johnston,INF,Bowling Green State University,NCAA: Division 1,H,35,98,19,23,4,0,1,11,4,0.235,0.377,0.306,0.683,0,0,,0,0,0,0,0,,0,0
-Ryan Leitch,C,Marshall University,NCAA: Division 1,H,39,157,31,51,14,1,10,37,1,0.325,0.391,0.618,1.009,0,0,,0,0,0,0,0,,0,0
-Ryan McCarthy,OF,Butte College,California CC,A,28,65,12,15,3,1,2,17,1,0.231,0.378,0.4,0.778,0,0,0.0,0,0,0,0,0,0.0,0,0
-Ryan McFarland,RHP,Campbellsville University,NAIA,A,15,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,15,2,27.2,1,2,16,39,9,5.2,1,18
-Ryan O'Halloran,INF,Butler University,NCAA: Division 1,H,41,153,21,43,7,1,1,19,6,0.281,0.353,0.359,0.712,0,0,,0,0,0,0,0,,0,0
+Ryan Johnston,INF,Bowling Green State University,NCAA: Division 1,H,39,111,19,27,5,0,1,13,4,0.243,0.368,0.315,0.683,0,0,,0,0,0,0,0,,0,0
+Ryan Leitch,C,Marshall University,NCAA: Division 1,H,42,168,32,52,14,1,10,37,1,0.31,0.38,0.583,0.963,0,0,,0,0,0,0,0,,0,0
+Ryan McCarthy,OF,Butte College,California CC,A,29,66,12,15,3,1,2,17,1,0.227,0.373,0.394,0.767,0,0,0.0,0,0,0,0,0,0.0,0,0
+Ryan McFarland,RHP,Campbellsville University,NAIA,A,16,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,16,3,29.2,1,2,16,40,9,4.85,1,20
+Ryan O'Halloran,INF,Butler University,NCAA: Division 1,H,45,169,22,45,7,1,1,19,7,0.266,0.337,0.337,0.674,0,0,,0,0,0,0,0,,0,0
 Ryan Olchoway,RHP,Northwestern State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,2,0,1.2,0,0,3,3,3,16.2,0,0
-Ryan Scott,RHP,Yavapai,JUCO: Division 1,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,0,4.2,0,0,2,5,3,3.86,0,4
+Ryan Scott,RHP,Yavapai,JUCO: Division 1,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,0,7.2,0,0,6,10,4,7.04,0,6
 Ryan Seungjin Yea,RHP,Northeastern,JUCO: Division 1,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Ryan Trenholm,OF,Elmira College,NCAA: Division 3,H,11,7,2,3,1,0,0,4,0,0.429,0.6,0.571,1.171,0,0,,0,0,0,0,0,,0,0
+Ryan Trenholm,OF,Elmira College,NCAA: Division 3,H,14,7,2,3,1,0,0,4,0,0.429,0.6,0.571,1.171,0,0,,0,0,0,0,0,,0,0
 Ryan Wells,RHP,Georgia Highlands,JUCO: Division 1,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Rylan Penner,RHP,Williston State,JUCO: Division 2,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,0,27.2,1,1,30,26,18,9.76,0,37
-Sam Chaput,OF,Emporia State University,NCAA: Division 2,H,46,188,39,65,14,1,6,24,14,0.346,0.41,0.527,0.937,0,0,,0,0,0,0,0,,0,0
-Sam Clements,RHP,Cayuga,JUCO: Division 3,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,0,9.1,0,0,5,8,4,4.82,0,6
+Rylan Penner,RHP,Williston State,JUCO: Division 2,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,0,28.0,1,1,33,27,19,10.61,0,38
+Sam Chaput,OF,Emporia State University,NCAA: Division 2,H,50,203,41,68,14,1,7,27,14,0.335,0.401,0.517,0.918,0,0,,0,0,0,0,0,,0,0
+Sam Clements,RHP,Cayuga,JUCO: Division 3,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,0,13.1,0,1,9,14,4,6.07,0,9
 Sam Dumper,RHP/UT,Bard College,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,,,,0,0
 Sam Dumper,RHP/UT,Bard College,NCAA: Division 3,H,2,2,0,1,0,0,0,0,0,0.5,0.5,0.5,1.0,0,0,,0,0,0,0,0,,0,0
-Sam Mitcham,C/OF,Muskegon,JUCO: Division 2,A,31,83,7,23,3,1,1,10,8,0.277,0.378,0.373,0.751,0,0,0.0,0,0,0,0,0,0.0,0,0
+Sam Mitcham,C/OF,Muskegon,JUCO: Division 2,A,36,98,9,30,4,1,1,14,8,0.306,0.395,0.398,0.793,0,0,0.0,0,0,0,0,0,0.0,0,0
 Sam Van Snellenberg,RHP,University of British Columbia,NAIA,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,0,11.0,0,1,10,4,13,8.18,1,15
 Samson Back,OF,Cloud County,JUCO: Division 1,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
 Samuel Fortier,OF,Southwestern Oklahoma State University,NCAA: Division 2,H,19,49,11,11,2,1,0,8,4,0.224,0.333,0.306,0.639,0,0,,0,0,0,0,0,,0,0
-Samuel Jalbert,RHP,Saint Josephs College of Maine,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,9,8,37.2,3,3,17,28,19,4.06,0,50
-Samuel Worthen,RHP,D'Youville College,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,15,0,26.0,1,0,13,31,8,4.5,1,22
+Samuel Jalbert,RHP,Saint Josephs College of Maine,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,10,8,40.2,4,3,17,28,22,3.76,0,55
+Samuel Worthen,RHP,D'Youville College,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,18,0,30.2,1,0,13,33,10,3.82,1,26
 Santiago Sanchez,C,Northwestern Oklahoma State University,NCAA: Division 2,H,1,1,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,,0,0,0,0,0,,0,0
-Sean Heppner,RHP,University of British Columbia,NAIA,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,3,15.1,0,2,12,12,8,7.04,1,22
+Sean Heppner,RHP,University of British Columbia,NAIA,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,3,17.2,0,2,12,12,9,6.11,2,27
 Sean Pettener,INF,Menlo College,NAIA,A,43,129,21,38,4,1,4,22,5,0.295,0.408,0.434,0.842,0,0,0.0,0,0,0,0,0,0.0,0,0
-Sebastien Dubois,IF,St. Norbert College,NCAA: Division 3,H,24,91,17,29,5,2,3,23,1,0.319,0.388,0.516,0.904,0,0,,0,0,0,0,0,,0,0
-Seena Amani,RHP/3B,Lakeland,JUCO: Division 2,A,4,1,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,0,3.0,0,0,1,2,0,3.0,0,5
-Seth Gurr,RHP,Bossier Parish,JUCO: Division 1,A,13,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13,12,57.0,8,3,29,66,17,4.58,1,35
-Seth Thompson,RHP,Chandler-Gilbert,JUCO: Division 2,A,15,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,15,0,19.1,2,2,11,26,6,5.12,3,25
-Seungjun Song,C,South Suburban,JUCO: Division 1,A,18,62,10,23,4,1,0,22,2,0.371,0.467,0.468,0.935,0,0,0.0,0,0,0,0,0,0.0,0,0
-Shaine O'Keefe,RHP,Southwest Mississippi,JUCO: Division 2,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,4,31.1,2,5,23,39,23,6.61,0,30
-Shane Laforest,RHP,University of British Columbia,NAIA,A,13,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13,11,58.2,5,3,35,59,31,5.37,0,43
+Sebastien Dubois,IF,St. Norbert College,NCAA: Division 3,H,30,114,22,35,8,2,3,28,1,0.307,0.394,0.491,0.885,0,0,,0,0,0,0,0,,0,0
+Seena Amani,RHP/3B,Lakeland,JUCO: Division 2,A,7,1,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,0,6.0,1,0,2,5,1,3.0,0,6
+Seth Gurr,RHP,Bossier Parish,JUCO: Division 1,A,14,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,14,13,64.0,9,3,30,73,18,4.22,1,40
+Seth Thompson,RHP,Chandler-Gilbert,JUCO: Division 2,A,16,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,16,0,21.1,2,2,11,27,6,4.64,3,27
+Seungjun Song,C,South Suburban,JUCO: Division 1,A,19,66,10,23,4,1,0,22,2,0.348,0.443,0.439,0.882,0,0,0.0,0,0,0,0,0,0.0,0,0
+Shaine O'Keefe,RHP,Southwest Mississippi,JUCO: Division 2,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,5,31.1,2,6,29,41,26,8.33,0,30
+Shane Laforest,RHP,University of British Columbia,NAIA,A,14,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,14,12,64.0,5,3,37,66,35,5.2,0,46
 Shane Nixon,IF,University of Central Oklahoma,NCAA: Division 2,H,16,60,21,18,3,0,2,8,6,0.3,0.377,0.45,0.827,0,0,,0,0,0,0,0,,0,0
-Shane Sullivan,RHP/IF,Central Maine Community College,USCAA,A,7,7,6,5,0,0,0,2,1,0.714,0.75,0.714,1.464,4,1,9.2,1,0,7,13,4,6.52,0,10
-Shaun Atamanchuk,RHP,University of Antelope Valley,NAIA,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,5,39.2,1,2,28,51,22,6.35,0,30
-Shaun Hickey,RHP,University of Mary,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,4,0,4.2,1,0,0,2,4,0.0,0,4
-Shaun Logan,RHP,University of Dubuque,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,10,4,32.1,3,1,26,47,8,7.24,1,37
-Shaye McTavish,RHP/ING,University of Mary,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,4,0,6.0,0,0,5,8,5,7.5,0,1
-Shaye McTavish,RHP/ING,University of Mary,NCAA: Division 2,H,4,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
-Shayne Campbell,C,Reinhardt University,NAIA,A,43,138,7,38,5,1,2,29,3,0.275,0.407,0.37,0.777,1,0,0.0,0,0,0,0,0,0.0,0,0
-Simon Grinberg,C,Bossier Parish,JUCO: Division 1,A,32,92,22,27,7,0,6,23,0,0.293,0.425,0.565,0.99,0,0,0.0,0,0,0,0,0,0.0,0,0
-Simon Virostek,OF,Presentation College,NAIA,A,29,86,3,21,5,0,1,11,3,0.244,0.286,0.337,0.623,0,0,0.0,0,0,0,0,0,0.0,0,0
+Shane Sullivan,RHP/IF,Central Maine Community College,USCAA,A,8,3,2,1,0,0,0,1,0,0.333,0.333,0.333,0.666,6,3,18.1,2,0,19,22,14,9.33,0,16
+Shaun Atamanchuk,RHP,University of Antelope Valley,NAIA,A,13,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13,6,46.1,2,2,30,55,25,5.83,0,36
+Shaun Hickey,RHP,University of Mary,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,5,0,4.2,1,1,2,2,6,3.86,0,4
+Shaun Logan,RHP,University of Dubuque,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,11,4,33.1,3,1,27,50,9,7.29,1,39
+Shaye McTavish,RHP/ING,University of Mary,NCAA: Division 2,H,5,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
+Shaye McTavish,RHP/ING,University of Mary,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,5,0,7.0,0,0,5,9,5,6.43,0,1
+Shayne Campbell,C,Reinhardt University,NAIA,A,46,148,8,39,5,1,2,30,5,0.264,0.393,0.351,0.744,1,0,0.0,0,0,0,0,0,0.0,0,0
+Simon Grinberg,C,Bossier Parish,JUCO: Division 1,A,36,107,28,33,9,0,10,31,0,0.308,0.423,0.673,1.096,0,0,0.0,0,0,0,0,0,0.0,0,0
+Simon Virostek,OF,Presentation College,NAIA,A,33,93,3,22,5,0,1,11,3,0.237,0.283,0.323,0.606,0,0,0.0,0,0,0,0,0,0.0,0,0
 Skylar Lenihan,C,College of Marin,California CC,A,27,72,10,17,5,0,1,20,0,0.236,0.293,0.347,0.64,0,0,0.0,0,0,0,0,0,0.0,0,0
 Soren Graversen,IF/OF,William Penn University,NAIA,A,30,73,11,14,6,0,2,9,1,0.192,0.31,0.356,0.666,1,0,0.0,0,0,0,0,0,0.0,0,0
-Spencer Davis,RHP,Arizona Christian University,NAIA,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,0,3.2,0,0,10,13,4,24.55,0,2
-Spencer Harman,RHP/UTL,University of Maine at Presque Isle,NCAA: Division 3,H,7,3,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,,0,0,0,0,0,,0,0
-Spencer Harman,RHP/UTL,University of Maine at Presque Isle,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,4,3,10.1,0,3,25,23,17,21.77,0,8
+Spencer Davis,RHP,Arizona Christian University,NAIA,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,0,4.2,0,0,13,15,7,25.07,0,2
+Spencer Harman,RHP/UTL,University of Maine at Presque Isle,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,5,4,12.1,0,4,32,29,20,23.35,0,8
+Spencer Harman,RHP/UTL,University of Maine at Presque Isle,NCAA: Division 3,H,8,3,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,,0,0,0,0,0,,0,0
 Spencer Jamieson,1B,Cleary University,NAIA,A,29,76,14,18,2,0,1,16,1,0.237,0.352,0.303,0.655,0,0,0.0,0,0,0,0,0,0.0,0,0
-Spencer Marcus,OF,Niagara University,NCAA: Division 1,H,20,35,6,7,1,0,0,3,1,0.2,0.3,0.229,0.529,0,0,,0,0,0,0,0,,0,0
+Spencer Marcus,OF,Niagara University,NCAA: Division 1,H,22,40,8,9,2,0,0,4,1,0.225,0.34,0.275,0.615,0,0,,0,0,0,0,0,,0,0
 Spencer McDonell,OF,John Carroll University,NCAA: Division 3,H,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
-Spenser Ross,IF,Lawrence University,NCAA: Division 3,H,26,90,20,20,6,1,0,21,1,0.222,0.357,0.311,0.668,0,0,,0,0,0,0,0,,0,0
-Stefan Turino,OF,Three Rivers,JUCO: Division 1,A,10,22,5,7,1,0,0,1,0,0.318,0.423,0.364,0.787,0,0,0.0,0,0,0,0,0,0.0,0,0
+Spenser Ross,IF,Lawrence University,NCAA: Division 3,H,27,94,21,23,6,1,0,21,1,0.245,0.375,0.33,0.705,0,0,,0,0,0,0,0,,0,0
+Stefan Turino,OF,Three Rivers,JUCO: Division 1,A,11,25,5,7,1,0,0,1,0,0.28,0.379,0.32,0.699,0,0,0.0,0,0,0,0,0,0.0,0,0
 Stephane Lagasse,OF,Bemidji State University,NCAA: Division 2,H,2,1,0,0,0,0,0,0,0,0.0,0.5,0.0,0.5,0,0,,0,0,0,0,0,,0,0
 Stephen Phillips,RHP,St. Clair County,JUCO: Division 2,A,6,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,6,1,8.1,0,0,14,14,8,15.12,0,5
-Steven Bonilla-Montoya,OF,Mohawk Valley,JUCO: Division 3,A,6,9,0,2,1,0,0,4,0,0.222,0.273,0.333,0.606,0,0,0.0,0,0,0,0,0,0.0,0,0
+Steven Bonilla-Montoya,OF,Mohawk Valley,JUCO: Division 3,A,7,12,0,3,1,0,0,5,0,0.25,0.286,0.333,0.619,0,0,0.0,0,0,0,0,0,0.0,0,0
 Steven Fiorino,C/INF,Danville Area,JUCO: Division 2,A,2,2,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Steven Hospital,RHP,Niagara University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,18,0,18.1,1,2,21,27,14,10.31,0,16
-Steven MacKenzie,OF,Shoreline,NW Athletic Conference,A,34,128,20,43,10,3,2,21,10,0.336,0.415,0.508,0.923,0,0,0.0,0,0,0,0,0,0.0,0,0
-Steven Moretto,INF,Sacramento State University,NCAA: Division 1,H,30,105,22,30,7,0,4,21,1,0.286,0.336,0.467,0.803,0,0,,0,0,0,0,0,,0,0
+Steven Hospital,RHP,Niagara University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,19,0,19.1,1,2,21,27,14,9.78,0,18
+Steven MacKenzie,OF,Shoreline,NW Athletic Conference,A,40,145,22,47,12,3,3,27,10,0.324,0.396,0.51,0.906,0,0,0.0,0,0,0,0,0,0.0,0,0
+Steven Moretto,INF,Sacramento State University,NCAA: Division 1,H,34,120,24,34,9,0,4,24,2,0.283,0.338,0.458,0.796,0,0,,0,0,0,0,0,,0,0
 Steven Sanders,P,University of Charleston,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,,,,0,0
 Sukhbir Parmar,RHP,Salem University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,,,,0,0
-Tanner Almond,OF,Connors State,JUCO: Division 1,A,29,58,15,18,6,2,3,16,1,0.31,0.397,0.638,1.035,0,0,0.0,0,0,0,0,0,0.0,0,0
-Tanner Boyle,UTL,Williston State,JUCO: Division 2,A,10,14,6,5,1,0,0,2,1,0.357,0.438,0.429,0.867,0,0,0.0,0,0,0,0,0,0.0,0,0
-Tanner Clyne,,Dakota,JUCO: Division 2,A,3,10,1,4,2,0,0,2,0,0.4,0.5,0.6,1.1,0,0,0.0,0,0,0,0,0,0.0,0,0
+Tanner Almond,OF,Connors State,JUCO: Division 1,A,32,63,16,19,6,2,3,18,1,0.302,0.395,0.603,0.998,0,0,0.0,0,0,0,0,0,0.0,0,0
+Tanner Boyle,UTL,Williston State,JUCO: Division 2,A,11,18,8,7,1,0,0,2,1,0.389,0.45,0.444,0.894,0,0,0.0,0,0,0,0,0,0.0,0,0
+Tanner Clyne,,Dakota,JUCO: Division 2,A,4,14,3,5,2,0,0,3,0,0.357,0.471,0.5,0.971,0,0,0.0,0,0,0,0,0,0.0,0,0
 Tanner Dawe,RHP,Howard (TX),JUCO: Division 1,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,0,6.1,0,1,3,5,8,4.26,0,6
 Tanner Hodgson,OF,Mars Hill University,NCAA: Division 2,H,10,9,3,1,0,0,0,2,0,0.111,0.385,0.111,0.496,0,0,,0,0,0,0,0,,0,0
-Tanner Maclean,LHP,Sullivan County,JUCO: Division 2,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,2,40.1,4,1,12,45,7,2.68,0,48
-Tate Morrell,OF,Missouri University of Science and Technology,NCAA: Division 2,H,12,22,4,5,2,1,0,6,0,0.227,0.346,0.409,0.755,0,0,,0,0,0,0,0,,0,0
-Taylor Lepard,RHP,Southern New Hampshire University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,7,4,16.2,1,0,15,25,5,8.1,2,15
-Teddy Brimblecombe,RHP,Albion College,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,4,0,2.0,0,0,4,3,4,18.0,0,2
+Tanner Maclean,LHP,Sullivan County,JUCO: Division 2,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,2,46.1,5,2,16,52,9,3.11,0,58
+Tate Morrell,OF,Missouri University of Science and Technology,NCAA: Division 2,H,16,35,8,9,2,2,0,9,1,0.257,0.357,0.429,0.786,0,0,,0,0,0,0,0,,0,0
+Taylor Lepard,RHP,Southern New Hampshire University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,9,5,29.0,3,0,17,32,8,5.28,2,33
+Teddy Brimblecombe,RHP,Albion College,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,5,0,3.1,0,0,4,4,5,10.8,0,3
 Thomas Bakoway,OF,Siena Heights University,NAIA,A,2,2,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Thomas Drouin,OF,Baruch College,NCAA: Division 3,H,13,47,14,13,2,3,3,14,3,0.277,0.414,0.638,1.052,0,0,,0,0,0,0,0,,0,0
-Thomas Green,INF,Oakland University,NCAA: Division 1,H,36,111,21,32,4,2,3,14,2,0.288,0.339,0.441,0.78,0,0,,0,0,0,0,0,,0,0
-Thomas Grilli,IF,St. Bonaventure University,NCAA: Division 1,H,17,60,6,18,3,1,0,3,1,0.3,0.311,0.383,0.694,0,0,,0,0,0,0,0,,0,0
+Thomas Drouin,OF,Baruch College,NCAA: Division 3,H,16,57,18,16,2,3,5,19,5,0.281,0.446,0.684,1.13,0,0,,0,0,0,0,0,,0,0
+Thomas Green,INF,Oakland University,NCAA: Division 1,H,39,122,24,35,4,2,3,14,3,0.287,0.343,0.426,0.769,0,0,,0,0,0,0,0,,0,0
+Thomas Grilli,IF,St. Bonaventure University,NCAA: Division 1,H,21,74,10,22,4,2,0,3,2,0.297,0.35,0.405,0.755,0,0,,0,0,0,0,0,,0,0
 Thomas Little,LHP,George Mason University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,,,,0,0
-Tim Holyk,IF,Miles,JUCO: Division 2,A,34,102,32,45,8,4,11,55,4,0.441,0.533,0.922,1.455,0,0,0.0,0,0,0,0,0,0.0,0,0
-Tom Poole,OF/RHP,Cloud County,JUCO: Division 1,A,48,149,61,55,9,5,18,59,17,0.369,0.522,0.859,1.381,0,0,0.0,0,0,0,0,0,0.0,0,0
-Tommy Reyes-Cruz,IF,Faulkner University,NAIA,A,34,65,4,16,2,0,2,17,0,0.246,0.338,0.369,0.707,1,0,0.1,0,0,0,0,0,0.0,0,0
-Tony Hyrnkiw,C,McPherson College,NAIA,A,31,90,5,29,7,1,2,23,0,0.322,0.382,0.489,0.871,0,0,0.0,0,0,0,0,0,0.0,0,0
+Tim Holyk,IF,Miles,JUCO: Division 2,A,42,123,41,54,12,5,11,65,5,0.439,0.549,0.886,1.435,0,0,0.0,0,0,0,0,0,0.0,0,0
+Tom Poole,OF/RHP,Cloud County,JUCO: Division 1,A,52,158,62,56,10,5,18,59,17,0.354,0.509,0.823,1.332,0,0,0.0,0,0,0,0,0,0.0,0,0
+Tommy Reyes-Cruz,IF,Faulkner University,NAIA,A,37,66,4,16,2,0,2,17,0,0.242,0.341,0.364,0.705,4,0,0.1,0,0,0,0,0,0.0,0,0
+Tony Hyrnkiw,C,McPherson College,NAIA,A,33,98,5,32,7,1,2,24,0,0.327,0.393,0.48,0.873,0,0,0.0,0,0,0,0,0,0.0,0,0
 Torrin Vaselenak,INF,"University of Arkansas, Monticello",NCAA: Division 2,H,9,14,0,2,0,1,0,0,0,0.143,0.143,0.286,0.429,0,0,,0,0,0,0,0,,0,0
-Tory Nelson,IF,Bismarck State,JUCO: Division 2,A,13,24,9,5,1,0,0,7,3,0.208,0.424,0.25,0.674,0,0,0.0,0,0,0,0,0,0.0,0,0
+Tory Nelson,IF,Bismarck State,JUCO: Division 2,A,15,28,10,7,2,0,0,8,3,0.25,0.447,0.321,0.768,0,0,0.0,0,0,0,0,0,0.0,0,0
 Tre Pankratz,OF,San Diego Christian College,NAIA,A,41,89,24,24,4,3,3,18,10,0.27,0.384,0.483,0.867,0,0,0.0,0,0,0,0,0,0.0,0,0
-Trent Lenihan,IF,University of British Columbia,NAIA,A,25,76,5,14,5,1,0,6,2,0.184,0.241,0.276,0.517,0,0,0.0,0,0,0,0,0,0.0,0,0
-Trent Peters,IF/RHP,University of Jamestown,NAIA,A,42,66,7,21,3,0,1,14,1,0.318,0.451,0.409,0.86,0,0,0.0,0,0,0,0,0,0.0,0,0
-Trent Sillett,LHP/INF,Goshen College,NAIA,A,37,85,9,17,2,1,1,11,0,0.2,0.303,0.282,0.585,9,1,6.2,0,1,14,14.0,7.0,18.9,0,8
-Tristan DesLauriers,C/3B,Lakeland,JUCO: Division 2,A,11,28,8,8,2,0,0,4,0,0.286,0.429,0.357,0.786,0,0,0.0,0,0,0,0,0,0.0,0,0
+Trent Lenihan,IF,University of British Columbia,NAIA,A,28,86,8,18,6,1,0,8,2,0.209,0.258,0.302,0.56,0,0,0.0,0,0,0,0,0,0.0,0,0
+Trent Peters,IF/RHP,University of Jamestown,NAIA,A,45,69,7,22,3,0,1,15,1,0.319,0.447,0.406,0.853,0,0,0.0,0,0,0,0,0,0.0,0,0
+Trent Sillett,LHP/INF,Goshen College,NAIA,A,40,93,10,18,2,1,1,12,0,0.194,0.312,0.269,0.581,12,1,6.2,0,1,14,14.0,7.0,18.9,0,8
+Tristan DesLauriers,C/3B,Lakeland,JUCO: Division 2,A,12,29,8,9,2,0,0,4,0,0.31,0.444,0.379,0.823,0,0,0.0,0,0,0,0,0,0.0,0,0
 Tristan Osika,INF,Indiana Tech,NAIA,A,34,95,11,27,5,0,2,16,1,0.284,0.402,0.4,0.802,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0
-Tucker Zdunich,OF,Reinhardt University,NAIA,A,48,157,48,59,13,3,14,55,6,0.376,0.505,0.764,1.269,1,0,0.0,0,0,0,0,0,0.0,0,0
-Ty Penner,IF,University of British Columbia,NAIA,A,39,149,34,55,14,2,10,44,5,0.369,0.468,0.691,1.159,0,0,0.0,0,0,0,0,0,0.0,0,0
-Ty Wevers,C,Cloud County,JUCO: Division 1,A,40,110,22,36,14,0,5,23,0,0.327,0.395,0.591,0.986,0,0,0.0,0,0,0,0,0,0.0,0,0
-Tylar Patrick,,Northampton,JUCO: Division 3,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,3,22.1,3,0,6,21,8,2.42,0,20
+Tucker Zdunich,OF,Reinhardt University,NAIA,A,51,166,50,62,13,3,15,57,7,0.373,0.507,0.759,1.266,1,0,0.0,0,0,0,0,0,0.0,0,0
+Ty Penner,IF,University of British Columbia,NAIA,A,43,161,37,57,14,2,10,45,5,0.354,0.458,0.652,1.11,0,0,0.0,0,0,0,0,0,0.0,0,0
+Ty Wevers,C,Cloud County,JUCO: Division 1,A,41,111,22,36,14,0,5,23,0,0.324,0.392,0.586,0.978,0,0,0.0,0,0,0,0,0,0.0,0,0
+Tylar Patrick,,Northampton,JUCO: Division 3,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,4,27.1,4,0,12,27,11,3.95,0,25
 Tyler Boudreau,RHP,Midland,JUCO: Division 1,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,0,9.1,0,0,8,12,5,7.71,0,10
-Tyler Charette,RHP,Dawson,JUCO: Division 2,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,0,17.0,0,2,14,23,11,7.41,0,15
-Tyler Coakley,RHP,Vernon,JUCO: Division 1,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,2,8.2,0,2,31,17,25,32.19,0,10
-Tyler Favretto,C,Crowder,JUCO: Division 1,A,12,29,7,6,2,0,0,6,1,0.207,0.489,0.276,0.765,0,0,0.0,0,0,0,0,0,0.0,0,0
-Tyler Herron,C,Parkland,JUCO: Division 2,A,29,88,23,29,9,2,3,20,5,0.33,0.423,0.58,1.003,0,0,0.0,0,0,0,0,0,0.0,0,0
+Tyler Charette,RHP,Dawson,JUCO: Division 2,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,0,28.1,0,2,21,34,18,6.67,0,26
+Tyler Coakley,RHP,Vernon,JUCO: Division 1,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,2,9.0,0,2,36,20,28,36.0,0,10
+Tyler Favretto,C,Crowder,JUCO: Division 1,A,13,32,8,6,2,0,0,6,1,0.188,0.469,0.25,0.719,0,0,0.0,0,0,0,0,0,0.0,0,0
+Tyler Herron,C,Parkland,JUCO: Division 2,A,30,92,24,29,9,2,3,21,6,0.315,0.418,0.554,0.972,0,0,0.0,0,0,0,0,0,0.0,0,0
 Tyler Hinrikus,3B/OF,Ball State University,NCAA: Division 1,H,6,5,1,1,1,0,0,0,0,0.2,0.333,0.4,0.733,0,0,,0,0,0,0,0,,0,0
-Tyler Kelly,RHP,Lakeland,JUCO: Division 2,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,0,7.0,0,1,9,12,5,11.57,0,6
-Tyler Larguinho,OF,Lincoln Trail,JUCO: Division 1,A,2,4,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Tyler McWillie,RHP/1B,Shorter University,NCAA: Division 2,H,29,59,7,11,3,0,3,11,0,0.186,0.242,0.39,0.632,0,0,,0,0,0,0,0,,0,0
-Tyler McWillie,RHP/1B,Shorter University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,15,14,38.1,2,3,31,38,34,7.28,0,37
-Tyler Mosher,INF,Davenport University,NCAA: Division 2,H,19,9,3,3,1,0,0,1,0,0.333,0.538,0.444,0.982,0,0,,0,0,0,0,0,,0,0
+Tyler Kelly,RHP,Lakeland,JUCO: Division 2,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,0,11.0,1,1,10,16,8,8.18,0,9
+Tyler Larguinho,OF,Lincoln Trail,JUCO: Division 1,A,4,6,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
+Tyler McWillie,RHP/1B,Shorter University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,18,14,42.1,2,3,32,39,37,6.8,0,41
+Tyler McWillie,RHP/1B,Shorter University,NCAA: Division 2,H,32,61,7,11,3,0,3,11,0,0.18,0.235,0.377,0.612,0,0,,0,0,0,0,0,,0,0
+Tyler Mosher,INF,Davenport University,NCAA: Division 2,H,22,13,5,5,1,0,0,2,0,0.385,0.529,0.462,0.991,0,0,,0,0,0,0,0,,0,0
 Tyler Offman,1B,New York University,NCAA: Division 3,H,7,6,2,1,0,0,0,1,0,0.167,0.286,0.167,0.453,0,0,,0,0,0,0,0,,0,0
-Tyler Smith,RHP,Williston State,JUCO: Division 2,A,11,1,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,0,32.1,6,0,11,26,8,3.06,0,55
-Tylor Jans,RHP,University of Louisiana at Monroe,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,12,3,34.1,1,3,19,41,16,4.98,0,18
-Tyrese Johnson,OF,Central Arizona,JUCO: Division 1,A,39,57,32,17,1,0,1,13,6,0.298,0.385,0.368,0.753,1,0,0.0,0,0,0,0,0,0.0,0,0
+Tyler Smith,RHP,Williston State,JUCO: Division 2,A,12,1,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,12,0,37.1,6,0,13,31,10,3.13,0,64
+Tylor Jans,RHP,University of Louisiana at Monroe,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,13,4,38.2,1,3,21,46,16,4.89,0,20
+Tyrese Johnson,OF,Central Arizona,JUCO: Division 1,A,42,62,36,19,1,0,1,14,7,0.306,0.394,0.371,0.765,1,0,0.0,0,0,0,0,0,0.0,0,0
 Tyronne Barbosa,C/1B,Lakeland,JUCO: Division 2,A,10,33,8,8,1,0,0,5,0,0.242,0.359,0.273,0.632,0,0,0.0,0,0,0,0.0,0.0,0.0,0,0
 Tyrus Culleton,1B/C,Central Lakes,JUCO: Division 3,A,2,2,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Tyson Dias,RHP,Three Rivers,JUCO: Division 1,A,9,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,9,1,7.0,0,3,14,18,6,18.0,0,6
-Tyson Kovats,OF,Erie,JUCO: Division 3,A,16,42,8,11,2,0,0,10,1,0.262,0.347,0.31,0.657,0,0,0.0,0,0,0,0,0,0.0,0,0
-Tyson Pringle,,Dakota,JUCO: Division 2,A,2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,0.2,0,0,1,2,1,13.5,0,0
+Tyson Dias,RHP,Three Rivers,JUCO: Division 1,A,10,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,1,12.0,0,4,20,25,7,15.0,0,14
+Tyson Kovats,OF,Erie,JUCO: Division 3,A,17,45,8,11,2,0,0,10,1,0.244,0.327,0.289,0.616,0,0,0.0,0,0,0,0,0,0.0,0,0
+Tyson Pringle,,Dakota,JUCO: Division 2,A,1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
 Udhay Bal,INF,California University of Pennsylvania,NCAA: Division 2,H,1,1,1,1,0,0,0,1,0,1.0,1.0,1.0,2.0,0,0,,0,0,0,0,0,,0,0
-Vicarte Domingo,RHP,University of British Columbia,NAIA,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,1,15.1,1,0,7,11,3,4.11,5,24
+Vicarte Domingo,RHP,University of British Columbia,NAIA,A,13,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13,1,17.1,1,0,7,11,3,3.63,7,27
 Victor Cerny,C,"California State University, Northridge",NCAA: Division 1,H,2,3,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,,0,0,0,0,0,,0,0
-Wesley Moore,LHP,Kansas State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,6,3,10.1,0,0,9,12,15,7.84,0,18
+Wesley Moore,LHP,Kansas State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,8,4,16.0,0,0,13,19,21,7.31,0,30
 Will Droll,LHP,University of Pittsburgh,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,1,0,0.2,0,0,2,1,3,27.0,0,1
-Will Gardner,OF,Garden City,JUCO: Division 1,A,37,134,37,50,13,0,3,32,4,0.373,0.472,0.537,1.009,0,0,0.0,0,0,0,0,0,0.0,0,0
-Will Ireland,INF,Orange Coast College,California CC,A,16,32,4,5,0,0,0,2,0,0.156,0.194,0.156,0.35,0,0,0.0,0,0,0,0,0,0.0,0,0
+Will Gardner,OF,Garden City,JUCO: Division 1,A,40,146,37,51,13,1,3,32,5,0.349,0.455,0.514,0.969,0,0,0.0,0,0,0,0,0,0.0,0,0
+Will Ireland,INF,Orange Coast College,California CC,A,18,34,4,6,0,0,0,2,0,0.176,0.25,0.176,0.426,0,0,0.0,0,0,0,0,0,0.0,0,0
 Will Jackman,RHP,Niagara County,JUCO: Division 3,A,5,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,5,5,24.1,4,1,13,16,13,4.81,0,19
-Will Potter,LHP,Western Nebraska,JUCO: Division 1,A,7,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,7,4,20.0,1,3,36,36,16,16.2,0,23
+Will Potter,LHP,Western Nebraska,JUCO: Division 1,A,8,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,8,4,22.2,1,3,36,37,18,14.29,0,27
 Will Sierra,RHP,Washington State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,9,0,8.2,1,0,4,6,9,4.15,0,10
-Will Watson,RHP,West Virginia University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,3,0,2.2,0,0,2,2,1,6.75,0,3
-William Hlady,RHP,Valley City State University,NAIA,A,16,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,16,10,48.2,4,4,43,66,31,7.95,0,57
-Williams Camacho-Soto,3B,Cloud County,JUCO: Division 1,A,36,108,27,31,7,2,3,33,3,0.287,0.354,0.472,0.826,0,0,0.0,0,0,0,0,0,0.0,0,0
-Xavier Whittle,RHP/U,Bay College,JUCO: Division 2,A,25,72,7,22,2,0,1,8,0,0.306,0.381,0.375,0.756,3,0,8.1,0,0,6,14,4,6.48,0,8
-Yohann Dessureault,IF,Stetson University,NCAA: Division 1,H,31,105,14,29,2,1,4,18,2,0.276,0.31,0.429,0.739,0,0,,0,0,0,0,0,,0,0
-Yojairo Juan,LHP/OF,Jefferson (NY),JUCO: Division 3,A,15,37,10,13,3,1,0,1,7,0.351,0.444,0.486,0.93,0,0,0.0,0,0,0,0,0,0.0,0,0
+Will Watson,RHP,West Virginia University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,4,0,2.2,0,0,2,2,3,6.75,0,3
+William Hlady,RHP,Valley City State University,NAIA,A,17,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,17,11,55.2,4,4,43,68,33,6.95,0,67
+Williams Camacho-Soto,3B,Cloud County,JUCO: Division 1,A,38,112,28,31,7,2,3,33,3,0.277,0.348,0.455,0.803,0,0,0.0,0,0,0,0,0,0.0,0,0
+Xavier Whittle,RHP/U,Bay College,JUCO: Division 2,A,26,75,10,23,3,0,1,10,0,0.307,0.386,0.387,0.773,3,0,8.1,0,0,6,14,4,6.48,0,8
+Yohann Dessureault,IF,Stetson University,NCAA: Division 1,H,35,117,17,32,2,1,4,18,3,0.274,0.32,0.41,0.73,0,0,,0,0,0,0,0,,0,0
+Yojairo Juan,LHP/OF,Jefferson (NY),JUCO: Division 3,A,22,59,17,20,5,2,0,3,7,0.339,0.42,0.492,0.912,1,1,1.0,0,0,4,1,3,36.0,0,1
 Yosuke Fujie,INF,Otero,JUCO: Division 1,A,38,115,27,30,7,1,2,20,2,0.261,0.438,0.391,0.829,0,0,0.0,0,0,0,0,0,0.0,0,0
-Zac Laird,LHP,Niagara University,NCAA: Division 1,H,9,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
+Zac Laird,LHP,Niagara University,NCAA: Division 1,H,10,0,0,0,0,0,0,0,0,,,,,0,0,,0,0,0,0,0,,0,0
 Zach Boivin,3B/2B,Vernon,JUCO: Division 1,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Zach Cameron,RHP/3B,Niagara University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,8,0,11.2,1,0,5,10,4,3.86,2,13
-Zach Cameron,RHP/3B,Niagara University,NCAA: Division 1,H,9,1,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,,0,0,0,0,0,,0,0
+Zach Cameron,RHP/3B,Niagara University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,9,0,13.1,1,0,6,14,5,4.05,2,15
+Zach Cameron,RHP/3B,Niagara University,NCAA: Division 1,H,10,1,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,,0,0,0,0,0,,0,0
 Zach Cole,,Dakota,JUCO: Division 2,A,0,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,0,0,0.0,0,0,0,0,0,0.0,0,0
-Zach Diewert,OF,Southeastern University,NAIA,A,17,19,10,6,3,0,0,5,2,0.316,0.481,0.474,0.955,0,0,0.0,0,0,0,0,0,0.0,0,0
-Zach Gagnon,RHP,Tarleton State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,15,0,27.0,1,0,14,31,7,4.67,0,20
-Zach Gardiner,INF/OF,Marshall University,NCAA: Division 1,H,17,29,4,4,0,0,0,0,0,0.138,0.242,0.138,0.38,0,0,,0,0,0,0,0,,0,0
+Zach Diewert,OF,Southeastern University,NAIA,A,20,22,12,8,3,0,0,5,2,0.364,0.5,0.5,1.0,0,0,0.0,0,0,0,0,0,0.0,0,0
+Zach Gagnon,RHP,Tarleton State University,NCAA: Division 1,P,0,0,0,0,0,0,0,0,0,,,,,18,0,31.0,1,0,18,37,9,5.23,0,23
+Zach Gardiner,INF/OF,Marshall University,NCAA: Division 1,H,18,29,4,4,0,0,0,0,0,0.138,0.242,0.138,0.38,0,0,,0,0,0,0,0,,0,0
 Zach Laurie,C/UTL,Glenville State College,NCAA: Division 2,H,2,3,0,1,0,0,0,0,0,0.333,0.333,0.333,0.666,0,0,,0,0,0,0,0,,0,0
-Zach Marriott,IF,Hendrix College,NCAA: Division 3,H,35,124,34,42,7,4,3,26,7,0.339,0.455,0.532,0.987,0,0,,0,0,0,0,0,,0,0
+Zach Marriott,IF,Hendrix College,NCAA: Division 3,H,39,141,38,48,7,4,5,32,9,0.34,0.448,0.553,1.001,0,0,,0,0,0,0,0,,0,0
 Zach Newman,LHP,Minot State University,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,7,0,13.2,1,1,8,15,3,5.27,0,11
-Zach Olson,OF,Kansas Wesleyan University,NAIA,A,26,64,16,17,2,1,6,11,1,0.266,0.412,0.609,1.021,0,0,0.0,0,0,0,0,0,0.0,0,0
-Zach Penner,RHP,D'Youville College,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,8,2,15.2,0,4,12,23,16,6.89,0,11
+Zach Olson,OF,Kansas Wesleyan University,NAIA,A,28,64,16,17,2,1,6,11,1,0.266,0.42,0.609,1.029,0,0,0.0,0,0,0,0,0,0.0,0,0
+Zach Penner,RHP,D'Youville College,NCAA: Division 2,P,0,0,0,0,0,0,0,0,0,,,,,10,2,18.2,1,5,14,29,18,6.75,0,14
 Zach Saufl,RHP,Vanguard University,NAIA,A,2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,0,2.0,0,0,0,0,1,0.0,0,2
 Zach Stark,C,Williston State,JUCO: Division 2,A,7,12,1,3,1,0,0,1,0,0.25,0.308,0.333,0.641,1,0,0.0,0,0,1,1,0,inf,0,0
-Zachariah Stylianou,RHP,Dawson,JUCO: Division 2,A,1,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,1,0,0.1,0,0,0,0,0,0.0,0,0
-Zachary Bayfield,LHP,Oberlin College,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,6,0,3.1,0,0,7,8,9,18.9,0,2
-Zachary Gaudreau,LHP,Northeastern Oklahoma A&M,JUCO: Division 1,A,11,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,10,0,23.1,3,0,7,21,19,2.7,1,28
+Zachariah Stylianou,RHP,Dawson,JUCO: Division 2,A,2,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,2,0,3.1,0,0,3,4,1,8.1,0,2
+Zachary Bayfield,LHP,Oberlin College,NCAA: Division 3,P,0,0,0,0,0,0,0,0,0,,,,,8,0,7.1,0,0,9,9,11,11.05,0,3
+Zachary Gaudreau,LHP,Northeastern Oklahoma A&M,JUCO: Division 1,A,12,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,11,0,25.1,3,0,7,24,21,2.49,1,30
 Zack Reid,IF,West Virginia University Institute of Technology,NAIA,A,4,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,4,0,4.2,0,0,1,3,2,1.93,0,2
-Zane Pollon,LHP,Mount Marty College,NAIA,A,13,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,13,0,15.2,2,1,12,16,10,6.89,0,26
-Émilien Pitre,INF,University of Kentucky,NCAA: Division 1,H,8,4,3,0,0,0,0,0,0,0.0,0.2,0.0,0.2,0,0,,0,0,0,0,0,,0,0
+Zane Pollon,LHP,Mount Marty College,NAIA,A,14,0,0,0,0,0,0,0,0,0.0,0.0,0.0,0.0,14,0,17.1,2,1,12,18,10,6.23,0,28
+Émilien Pitre,INF,University of Kentucky,NCAA: Division 1,H,9,4,3,0,0,0,0,0,0,0.0,0.2,0.0,0.2,0,0,,0,0,0,0,0,,0,0
