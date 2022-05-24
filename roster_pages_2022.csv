@@ -92,7 +92,7 @@ La Salle University,D1,PA,https://goexplorers.com/sports/baseball/roster/2022
 Lafayette College,D1,PA,https://www.goleopards.com/sports/baseball/roster/2022
 Lamar University,D1,TX,https://lamarcardinals.com/sports/baseball/roster/2022
 Lehigh University,D1,PA,https://lehighsports.com/sports/baseball/roster/2022
-Liberty University,D1,VA,<unknown>
+Liberty University,D1,VA,https://www.liberty.edu/flames/baseball/roster/?print=1
 Lipscomb University,D1,TN,https://lipscombsports.com/sports/baseball/roster/2022
 Long Beach State University,D1,CA,https://longbeachstate.com/sports/baseball/roster/2022
 Long Island University,D1,NY,https://liuathletics.com/sports/baseball/roster/2022
@@ -300,7 +300,7 @@ Wofford College,D1,SC,https://woffordterriers.com/sports/baseball/roster/2022
 Wright State University,D1,OH,https://wsuraiders.com/sports/baseball/roster/2022
 Xavier University,D1,OH,https://goxavier.com/sports/baseball/roster/2022
 Yale University,D1,CT,https://yalebulldogs.com/sports/baseball/roster/2022
-Youngstown State University,D1,OH,https://www.ysusports.com/sports/bsb/2021-22/roster
+Youngstown State University,D1,OH,https://ysusports.com/sports/baseball/roster/2022
 Academy of Art University,D2,CA,https://artuathletics.com/sports/baseball/roster/2022
 Adams State University,D2,CO,https://asugrizzlies.com/sports/baseball/roster/2022
 Adelphi University,D2,NY,https://aupanthers.com/sports/baseball/roster/2022
@@ -842,7 +842,7 @@ St. Norbert College,D3,WI,https://athletics.snc.edu/sports/baseball/roster/2022
 St. Olaf College,D3,MN,https://athletics.stolaf.edu/sports/baseball/roster/2022
 State University College at Old Westbury,D3,NY,https://www.oldwestburypanthers.com/sports/baseball/roster/2022
 State University of New York Maritime College,D3,NY,https://maritimeathletics.com/sports/baseball/roster/2022
-State University of New York Polytechnic Institute,D3,NY,http://wildcats.sunypoly.edu/sports/bsb/2021-22/roster
+State University of New York Polytechnic Institute,D3,NY,https://wildcats.sunypoly.edu/sports/bsb/2021-22/roster
 State University of New York at Canton,D3,NY,https://rooathletics.com/sports/baseball/roster/2022
 State University of New York at Cobleskill,D3,NY,https://fightingtigers.cobleskill.edu/sports/baseball/roster/2022
 State University of New York at Cortland,D3,NY,https://www.cortlandreddragons.com/sports/baseball/roster/2022
@@ -1018,7 +1018,7 @@ Kansas Wesleyan University,NAIA,KS,https://www.kwucoyotes.com/roster/0/3
 Keiser University,NAIA,FL,https://kuseahawks.com/sports/baseball/roster/2022
 Kentucky Christian University,NAIA,KY,http://www.kcuknights.com/roster/0/19
 La Sierra University,NAIA,CA,https://www.lsugoldeneagles.com/roster/19/3.php
-Lawrence Technological University,NAIA,MI,https://www.ltuathletics.com/sports/bsb/2021-22/roster
+Lawrence Technological University,NAIA,MI,https://ltuathletics.com/sports/baseball/roster/2022
 Lewis-Clark State College,NAIA,ID,https://lcwarriors.com/sports/baseball/roster/2022
 Lincoln Christian University,NAIA,IL,https://www.lcuredlions.com/roster/0/3
 Lincoln College,NAIA,IL,https://www.lincolnlynxsports.com/sports/bsb/2021-22/roster
@@ -1038,7 +1038,7 @@ Mid-America Christian University,NAIA,OK,https://macuathletics.com/sports/baseba
 MidAmerica Nazarene University,NAIA,KS,https://mnusports.com/sports/baseball/roster/2022
 Middle Georgia State University,NAIA,GA,https://mgaknights.com/sports/baseball/roster/2022
 Midland University,NAIA,NE,https://www.midlandathletics.com/roster/19/3.php
-Midway University,NAIA,KY,https://www.gomidwayeagles.com/roster/25/14.php
+Midway University,NAIA,KY,https://www.gomidwayeagles.com/sports/bsb/2021-22/roster
 Milligan College,NAIA,TN,https://milliganbuffs.com/sports/bsb/2021-22/roster
 Missouri Baptist University,NAIA,MO,https://mbuspartans.com/sports/baseball/roster/2022
 Missouri Valley College,NAIA,MO,https://www.valleywillroll.com/roster/19/3.php
@@ -1056,7 +1056,7 @@ Oklahoma Panhandle State University,NAIA,OK,https://opsuaggies.com/sports/baseba
 Oklahoma Wesleyan University,NAIA,OK,https://okwueagles.com/sports/bsb/2021-22/roster
 Olivet Nazarene University,NAIA,IL,https://www.onutigers.com/sports/bsb/2021-22/roster
 Oregon Institute of Technology,NAIA,OR,https://oregontechowls.com/sports/baseball/roster/2022
-Ottawa University,NAIA,KS,https://www.ottawabraves.com/sport/baseball/2021-22/roster
+Ottawa University,NAIA,KS,https://ottawabraves.com/sports/baseball/roster/2022
 Ottawa University Arizona ,NAIA,AZ,https://ouazspirit.com/sports/baseball/roster/2022
 Our Lady of the Lake University,NAIA,TX,https://www.ollusaintsathletics.com/roster/26/22.php
 Park University,NAIA,MO,http://www.parkathletics.com/roster/0/3
@@ -1296,7 +1296,7 @@ Marion Military,JUCO_D1,AL,https://mmitigers.com/sports/bsb/2021-22/roster
 Shelton State,JUCO_D1,AL,https://athletics.sheltonstate.edu/sports/bsb/2021-22/roster
 Snead State,JUCO_D1,AL,https://www.sneadathletics.com/sports/bsb/2021-22/roster
 Southern Union State,JUCO_D1,AL,https://www.suscc.edu/athletics/baseball-roster.cms
-Wallace State,JUCO_D1,AL,https://athletics.wallacestate.edu/lions-2021-baseball-roster/
+Wallace State,JUCO_D1,AL,https://athletics.wallacestate.edu/lions-2022-baseball-roster/
 Wallace-Dothan,JUCO_D1,AL,https://www.wallace.edu/athletics/baseball/roster/
 Wallace-Selma,JUCO_D1,AL,https://www.wccs.edu/news-events/athletics-1/mens-baseball
 Baton Rouge,JUCO_D1,LA,https://www.brccathletics.com/sports/bsb/2021-22/roster
@@ -1365,7 +1365,7 @@ North Iowa Area,JUCO_D2,IA,https://www.niacctrojans.com/sports/bsb/2021-22/roste
 Northeast,JUCO_D2,NE,https://northeasthawks.com/sports/bsb/2021-22/roster
 Southeastern,JUCO_D2,IA,https://www.sccblackhawks.com/sports/bsb/2021-22/roster
 Ancilla,JUCO_D2,IN,https://ancilla.prestosports.com/sports/bsb/2021-22/roster
-Glen Oaks,JUCO_D2,MI,https://www.glenoaks.edu/athletics/mens-rosters/
+Glen Oaks,JUCO_D2,MI,https://www.glenoaks.edu/athletics/mens-sports/
 Grand Rapids,JUCO_D2,MI,https://grccraiders.com/sports/baseball/roster/2022
 Henry Ford,JUCO_D2,MI,https://www.hfcc.edu/athletics/baseball-roster
 Ivy Tech Community College Northeast,JUCO_D2,IN,https://titans.ivytech.edu/roster/show/6667554?subseason=774141
@@ -1377,7 +1377,7 @@ Lakeland,JUCO_D2,OH,https://athletics.lakelandcc.edu/sports/bsb/2021-22/roster
 Lansing,JUCO_D2,MI,https://lccstars.com/sports/bsb/2021-22/roster
 Macomb,JUCO_D2,MI,https://www.macombmonarchs.com/sports/bsb/2021-22/roster
 Mid Michigan,JUCO_D2,MI,https://www.midmich.edu/campus-life/athletics/baseball/team-roster-baseball-2021-2022
-Mott,JUCO_D2,MI,https://www.mcc.edu/athletics/baseball/index.shtml
+Mott,JUCO_D2,MI,https://www.mcc.edu/athletics/baseball/baseball-roster.shtml
 Muskegon,JUCO_D2,MI,https://www.muskegoncc.edu/athletics/baseball/
 Schoolcraft,JUCO_D2,MI,https://www.schoolcraft.edu/athletics/men's-baseball/roster
 St. Clair County,JUCO_D2,MI,https://www.sc4skippers.com/sports/bsb/2021-22/roster
@@ -1397,7 +1397,7 @@ East Central (MO),JUCO_D2,MO,https://sports2.eastcentral.edu/mens-baseball-roste
 North Central Missouri,JUCO_D2,MO,https://www.ncmcpirates.com/sports/bsb/2021-22/roster
 Delaware Tech,JUCO_D2,DE,https://www.dtcc.edu/athletics/baseball/roster
 Lackawanna,JUCO_D2,PA,https://lackawannafalcons.com/sports/baseball/roster/2022
-Mercer County,JUCO_D2,NJ,https://www.mccc.edu/athletics_men_baseball.shtml
+Mercer County,JUCO_D2,NJ,https://www.mccc.edu/athletics/roster_men_baseball_sp22.html
 Morris,JUCO_D2,NJ,https://www.ccm.edu/athletics/baseball/
 Raritan Valley,JUCO_D2,NJ,https://www.rvccathletics.com/sports/bsb/2021-22/roster
 Sussex County,JUCO_D2,NJ,https://www.sussexskylanders.com/sports/bsb/2021-22/roster
@@ -1412,7 +1412,7 @@ Frederick,JUCO_D2,MD,http://fccathletics.com/sports/bsb/2021-22/roster
 Garrett,JUCO_D2,MD,https://www.garrettlakers.com/sports/bsb/2021-22/roster
 Montgomery,JUCO_D2,MD,https://mcraptors.com/sports/bsb/2021-22/roster
 Southern Maryland,JUCO_D2,MD,http://athletics.csmd.edu/sports/bsb/2021-22/roster
-UConn Avery Point,JUCO_D2,CT,https://athletics.averypoint.uconn.edu/baseball-roster-2022/
+UConn Avery Point,JUCO_D2,CT,https://uconnaverypointathletics.com/sports/baseball/roster/2022
 Coahoma,JUCO_D2,MS,https://coahomasports.com/sports/baseball/roster/2022
 Copiah-Lincoln,JUCO_D2,MS,https://www.colinathletics.com/sports/bsb/2021-22/roster
 East Central (MS),JUCO_D2,MS,https://ecccathletics.com/sports/bsb/2021-22/roster
@@ -1634,7 +1634,7 @@ Treasure Valley,NWAC,OR,https://www.gochuks.com/sports/bsb/2021-22/roster
 Walla Walla,NWAC,WA,https://warriors.wwcc.edu/baseball/roster/
 Wenatchee,NWAC,WA,https://www.gowvc.com/sports/bsb/2021-22/roster
 Yakima Valley,NWAC,WA,http://www.goyaks.com/sports/baseball/roster/2022
-Centralia,NWAC,WA,https://www.centralia.edu/athletics/teams/baseball.aspx
+Centralia,NWAC,WA,https://centraliablazers.com/sports/bsb/2021-22/roster
 Grays Harbor,NWAC,WA,https://ghcathletics.com/sports/baseball/roster/2022
 Green River,NWAC,WA,https://www.greenriver.edu/students/get-involved/athletics/mens-sports/mens-baseball/mens-baseball-team/
 Lower Columbia,NWAC,WA,https://lccreddevils.com/sports/baseball/roster/2022
@@ -1652,7 +1652,7 @@ Mississippi University for Women,USCAA,MS,https://owlsathletics.com/sports/baseb
 Cincinnati-Clermont,USCAA,OH,https://ucclermont.edu/athletics/mensbaseball.html
 Mid-Atlantic Christian University,USCAA,NC,https://gomacumustangs.com/sports/bsb/2021-22/roster
 University of Dallas,USCAA,TX,https://www.udallasathletics.com/sports/bsb/2021-22/roster
-Bryant & Stratton (Albany),USCAA,NY,https://albany.bscbobcats.com/sports/bsb/2021-22/roster
+Bryant & Stratton (Albany),USCAA,NY,https://albany.bscbobcats.com/sports/bsb/2021-22/roster?view=list
 Penn State Wilkes-Barre,USCAA,PA,http://athletics.wb.psu.edu/sports/bsb/2021-22/roster
 Penn State Beaver,USCAA,PA,https://psubeaver.prestosports.com/sports/bsb/2021-22/roster
 Vaughn College,USCAA,PA,https://vaughnwarriors.com/sports/bsb/2021-22/roster
@@ -1674,7 +1674,7 @@ Roosevelt University - Peoria,USCAA,IL,https://www.rooseveltlakers.com/sports/bs
 Penn State New Kensington,USCAA,PA,https://www.psnkathletics.com/sports/bsb/2021-22/roster
 Penn State Brandywine,USCAA,PA,https://www.psubrandywineathletics.com/sports/bsb/2021-22/roster
 Penn State Mont Alto,USCAA,PA,https://www.psumontaltoathletics.com/sports/bsb/2021-22/roster
-NHTI,USCAA,NH,https://www.nhti.edu/athletics/inside-athletics/mens-baseball/
+NHTI,USCAA,NH,https://www.nhti.edu/athletics/baseball/
 Manor,USCAA,PA,https://manorbluejays.com/sports/bsb/2021-22/roster
 St. Thomas (Tex.),USCAA,TX,https://ustcelts.com/sports/bsb/2021-22/roster
 Kent St. - Tuscarawas,USCAA,OH,https://www.flyhighgoldeneagles.com/sports/bsb/2021-22/roster
