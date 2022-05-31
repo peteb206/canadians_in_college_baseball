@@ -111,7 +111,8 @@ def read_roster_norm(html, school):
         'Cochise',
         'University of Saint Francis',
         'Ohlone College',
-        'Western Tech'
+        'Western Tech',
+        'Midway University'
     ]:
         # Columns in HTML table are messed up... keep an eye on these schools to see if fixed
         df.columns = ['Ignore', 'No.', 'Name', 'Pos.', 'B/T', 'Year', 'Ht.', 'Wt.', 'Hometown']
