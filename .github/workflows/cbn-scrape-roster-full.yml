@@ -1,7 +1,7 @@
 name: cbn-scrape-roster-full
 on:
-   schedule:
-      - cron: '0 8 * * 1' # runs at 8:00 UTC on Mondays
+   # schedule:
+      # - cron: '0 8 * * 1' # runs at 8:00 UTC on Mondays
    workflow_dispatch:
 jobs:
    build:
